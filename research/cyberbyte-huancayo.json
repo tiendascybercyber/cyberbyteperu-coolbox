@@ -1,0 +1,102 @@
+{
+  "scrapedAt": "2026-09-07",
+  "sources": [
+    "https://cyberbyteperu.com",
+    "https://pclink.pe/tienda-computacion/cyber-byte/",
+    "https://cityperu.com/tienda-de-electrodomesticos/huancayo/cyber-byte/"
+  ],
+  "identity": {
+    "names": [
+      "Cyber Byte",
+      "Cyber Byte Perú",
+      "CyberByte Huancayo"
+    ],
+    "website": "https://cyberbyteperu.com",
+    "email": "ventas@cyberbyteperu.com",
+    "phone": "+51 978 050 339",
+    "whatsapp": "https://wa.me/51978050339",
+    "addresses": [
+      "Av. 9 de Diciembre 653, Chilca - Huancayo, Perú",
+      "3SC, Huancayo 12003, Perú"
+    ]
+  },
+  "businesses": {
+    "techStore": {
+      "summary": "Tienda tecnológica, cibercafé y atención local.",
+      "offers": [
+        "Accesorios informáticos",
+        "Accesorios para móviles",
+        "Componentes PC y gaming",
+        "Laptops y PCs",
+        "Ensamblaje de PC a medida",
+        "Servicio técnico PC",
+        "Delivery / entrega a domicilio",
+        "Cibercafé",
+        "Material DJ / electrodomésticos (mencionado en directorios)"
+      ]
+    },
+    "tramitesDigitales": {
+      "summary": "Gestión y orientación de trámites digitales mediante cyberbyteperu.com.",
+      "offers": [
+        "Antecedentes penales",
+        "Duplicado de DNI",
+        "Contratos y documentos legales",
+        "Pagos de servicios",
+        "Cartas poder",
+        "Contratos de alquiler"
+      ]
+    }
+  },
+  "hours": {
+    "directories": {
+      "monFri": "08:00–21:00",
+      "satSun": "08:00–20:00",
+      "note": "Horario preferido para la sección de tienda."
+    },
+    "website": "Lun–Sáb 08:00–20:00",
+    "note": "El sitio comunica el horario de trámites; los directorios amplían el horario de tienda."
+  },
+  "ratings": {
+    "score": 4.6,
+    "approxReviews": 6,
+    "notes": [
+      "buena atención",
+      "9.2/10 en la ficha de pclink"
+    ]
+  },
+  "socials": {
+    "status": "confirmed",
+    "facebook": "https://www.facebook.com/p/CYBER-BYTE-100064145738348/",
+    "instagram": "https://www.instagram.com/cyberbyteperu/",
+    "tiktok": null,
+    "youtube": null,
+    "whatsapp": "https://wa.me/51978050339",
+    "note": "TikTok mentioned on Instagram bio but handle not confirmed. Website footer icons were placeholders (#)."
+  },
+  "googleMaps": {
+    "name": "Cyber Byte",
+    "category": "Appliance store",
+    "rating": 4.6,
+    "reviews": 5,
+    "address": "Av. 9 de Diciembre N° 655, 12001, Peru",
+    "phone": "+51 978 050 339",
+    "hours": {
+      "sun": "08:00–20:00",
+      "monFri": "08:00–21:00",
+      "sat": "08:00–20:00"
+    },
+    "services": [
+      "in-store shopping",
+      "pickup",
+      "delivery"
+    ],
+    "media": "17 photos + 3 videos",
+    "url": "https://www.google.com/maps/place/Cyber+Byte/@-12.0852582,-75.2065777,17z"
+  },
+  "addressConflicts": [
+    "Site: Av. 9 de Diciembre 653 Chilca",
+    "Maps: Av. 9 de Diciembre N° 655",
+    "Pclink: 3SC Huancayo 12003",
+    "Bing also showed Jirón José Balta 117 Chilca — verify before publishing"
+  ]
+}

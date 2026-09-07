@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #07131f;
+  --muted: #5c6b78;
+  --cyan: #20d5c3;
+  --lime: #d6f55a;
+  --paper: #f5f8f6;
+  --line: #dfe9e8;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+::selection { background: var(--lime); color: var(--ink); }
+
+.display { font-family: Georgia, "Times New Roman", serif; letter-spacing: -0.055em; }
+.text-balance { text-wrap: balance; }
+.container-wide { width: min(1160px, calc(100% - 40px)); margin-inline: auto; }
+
+.glow-grid {
+  background-image: linear-gradient(rgba(32,213,195,.07) 1px, transparent 1px), linear-gradient(90deg, rgba(32,213,195,.07) 1px, transparent 1px);
+  background-size: 36px 36px;
+}
+.hero-orb { box-shadow: 0 0 0 1px rgba(32,213,195,.15), 0 0 100px rgba(32,213,195,.23); }
+.card-lift { transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease; }
+.card-lift:hover { transform: translateY(-5px); box-shadow: 0 18px 45px rgba(7, 19, 31, .10); border-color: rgba(32,213,195,.65); }
+
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+.float { animation: float 5s ease-in-out infinite; }
+
+@media (max-width: 640px) {
+  .container-wide { width: min(100% - 28px, 1160px); }
+}

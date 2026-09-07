@@ -1,0 +1,3386 @@
+[
+  {
+    "id": "product-001",
+    "slug": "superglue-soldimix-1g-1",
+    "name": "SUPERGLUE SOLDIMIX 1G",
+    "category": "Otros",
+    "description": "Superglue soldimix 1g. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/superglue-soldimix-1g-1.jpg"
+  },
+  {
+    "id": "product-002",
+    "slug": "superglue-chemmer-3g-2",
+    "name": "SUPERGLUE CHEMMER 3G",
+    "category": "Otros",
+    "description": "Superglue chemmer 3g. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/superglue-chemmer-3g-2.jpg"
+  },
+  {
+    "id": "product-003",
+    "slug": "folder-a4-c-2-bolsillos-fb1416-sf-3",
+    "name": "FOLDER A4 C/2 BOLSILLOS FB1416-SF",
+    "category": "Otros",
+    "description": "Folder a4 c/2 bolsillos fb1416-sf. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/folder-a4-c-2-bolsillos-fb1416-sf-3.avif"
+  },
+  {
+    "id": "product-004",
+    "slug": "pilas-aa-2-mn-1500b2-4",
+    "name": "PILAS AA 2 MN 1500B2",
+    "category": "Otros",
+    "description": "Pilas aa 2 mn 1500b2. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/pilas-aa-2-mn-1500b2-4.jpg"
+  },
+  {
+    "id": "product-005",
+    "slug": "pilas-aaa-2-mn-2400b2-5",
+    "name": "PILAS AAA 2 MN 2400B2",
+    "category": "Otros",
+    "description": "Pilas aaa 2 mn 2400b2. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/pilas-aaa-2-mn-2400b2-5.jpg"
+  },
+  {
+    "id": "product-006",
+    "slug": "separadores-index-12-divisiones-6",
+    "name": "SEPARADORES INDEX 12 DIVISIONES",
+    "category": "Otros",
+    "description": "Separadores index 12 divisiones. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/separadores-index-12-divisiones-6.webp"
+  },
+  {
+    "id": "product-007",
+    "slug": "sobre-con-broche-transparente-artesco-a4-7",
+    "name": "SOBRE CON BROCHE TRANSPARENTE ARTESCO A4",
+    "category": "Otros",
+    "description": "Sobre con broche transparente artesco a4. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/sobre-con-broche-transparente-artesco-a4-7.jpg"
+  },
+  {
+    "id": "product-008",
+    "slug": "catalogo-flex-10-fundas-8",
+    "name": "CATALOGO FLEX 10 FUNDAS",
+    "category": "Protectores",
+    "description": "Catalogo flex 10 fundas. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/catalogo-flex-10-fundas-8.jpg"
+  },
+  {
+    "id": "product-009",
+    "slug": "microfono-pc-sf-910-noise-reduction-9",
+    "name": "MICROFONO PC SF-910 NOISE REDUCTION",
+    "category": "Redes",
+    "description": "Microfono pc sf-910 noise reduction. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/microfono-pc-sf-910-noise-reduction-9.png"
+  },
+  {
+    "id": "product-010",
+    "slug": "usb-2-gb-kingston-10",
+    "name": "USB 2 GB KINGSTON",
+    "category": "USB/Memorias",
+    "description": "Usb 2 gb kingston. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-2-gb-kingston-10.webp"
+  },
+  {
+    "id": "product-011",
+    "slug": "usb-32gb-kingston-sandisk-11",
+    "name": "USB 32GB KINGSTON SANDISK",
+    "category": "USB/Memorias",
+    "description": "Usb 32gb kingston sandisk. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-32gb-kingston-sandisk-11.jpg"
+  },
+  {
+    "id": "product-012",
+    "slug": "usb-3-2-64gb-kingtson-exodia-12",
+    "name": "USB 3.2 64GB KINGTSON EXODIA",
+    "category": "USB/Memorias",
+    "description": "Usb 3.2 64gb kingtson exodia. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-3-2-64gb-kingtson-exodia-12.jpg"
+  },
+  {
+    "id": "product-013",
+    "slug": "memoria-microsd-4gb-13",
+    "name": "MEMORIA MICROSD 4GB",
+    "category": "USB/Memorias",
+    "description": "Memoria microsd 4gb. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/memoria-microsd-4gb-13.jpg"
+  },
+  {
+    "id": "product-014",
+    "slug": "memoria-microsd-128gb-14",
+    "name": "MEMORIA MICROSD 128GB",
+    "category": "USB/Memorias",
+    "description": "Memoria microsd 128gb. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/memoria-microsd-128gb-14.jpg"
+  },
+  {
+    "id": "product-015",
+    "slug": "adaptador-de-audio-seisa-microfono-audifono-st-3051-15",
+    "name": "ADAPTADOR DE AUDIO SEISA MICROFONO AUDIFONO ST 3051",
+    "category": "Audífonos",
+    "description": "Adaptador de audio seisa microfono audifono st 3051. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/adaptador-de-audio-seisa-microfono-audifono-st-3051-15.png"
+  },
+  {
+    "id": "product-016",
+    "slug": "glass-pro-protector-de-pantalla-tablet-7-16",
+    "name": "GLASS PRO+ PROTECTOR DE PANTALLA TABLET 7\"",
+    "category": "Protectores",
+    "description": "Glass pro+ protector de pantalla tablet 7\". Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/glass-pro-protector-de-pantalla-tablet-7-16.png"
+  },
+  {
+    "id": "product-017",
+    "slug": "glass-pro-t230-17",
+    "name": "GLASS PRO+ T230",
+    "category": "Protectores",
+    "description": "Glass pro+ t230. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/glass-pro-t230-17.jpg"
+  },
+  {
+    "id": "product-018",
+    "slug": "glass-pro-t210-18",
+    "name": "GLASS PRO+ T210",
+    "category": "Protectores",
+    "description": "Glass pro+ t210. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/glass-pro-t210-18.jpg"
+  },
+  {
+    "id": "product-019",
+    "slug": "presentador-de-diapositivas-con-puntero-laser-ppt-power-point-pnt-lcr-19",
+    "name": "PRESENTADOR DE DIAPOSITIVAS CON PUNTERO LASER PPT POWER POINT PNT LCR",
+    "category": "Otros",
+    "description": "Presentador de diapositivas con puntero laser ppt power point pnt lcr. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/presentador-de-diapositivas-con-puntero-laser-ppt-power-point-pnt-lcr-19.jpg"
+  },
+  {
+    "id": "product-020",
+    "slug": "puntero-laser-para-presentaciones-tipo-lapiz-slim-delgado-wrls-pst-20",
+    "name": "PUNTERO LASER PARA PRESENTACIONES TIPO LAPIZ SLIM DELGADO WRLS PST",
+    "category": "Otros",
+    "description": "Puntero laser para presentaciones tipo lapiz slim delgado wrls pst. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/puntero-laser-para-presentaciones-tipo-lapiz-slim-delgado-wrls-pst-20.png"
+  },
+  {
+    "id": "product-021",
+    "slug": "memoria-microsd-32gb-kingston-21",
+    "name": "Memoria Microsd 32GB KINGSTON",
+    "category": "USB/Memorias",
+    "description": "Memoria microsd 32gb kingston. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/memoria-microsd-32gb-kingston-21.jpg"
+  },
+  {
+    "id": "product-022",
+    "slug": "sensor-de-movimiento-60w-es-b03-socket-sensor-360-infrarojo-schubert-22",
+    "name": "SENSOR DE MOVIMIENTO 60W ES B03 SOCKET SENSOR 360 INFRAROJO SCHUBERT",
+    "category": "USB/Memorias",
+    "description": "Sensor de movimiento 60w es b03 socket sensor 360 infrarojo schubert. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/sensor-de-movimiento-60w-es-b03-socket-sensor-360-infrarojo-schubert-22.jpg"
+  },
+  {
+    "id": "product-023",
+    "slug": "cable-tranyoo-v8-3m-s7v-23",
+    "name": "CABLE TRANYOO V8 3M S7V",
+    "category": "Cables",
+    "description": "Cable tranyoo v8 3m s7v. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-tranyoo-v8-3m-s7v-23.jpg"
+  },
+  {
+    "id": "product-024",
+    "slug": "cargador-tranyoo-67w-tipo-usb-c-us2c-24",
+    "name": "CARGADOR TRANYOO 67W TIPO USB-C US2C",
+    "category": "Cargadores",
+    "description": "Cargador tranyoo 67w tipo usb-c us2c. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-tranyoo-67w-tipo-usb-c-us2c-24.jpg"
+  },
+  {
+    "id": "product-025",
+    "slug": "cargador-sanci-130w-sc-t2909t-ac-25",
+    "name": "CARGADOR SANCI 130W SC T2909T AC",
+    "category": "Cargadores",
+    "description": "Cargador sanci 130w sc t2909t ac. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-sanci-130w-sc-t2909t-ac-25.webp"
+  },
+  {
+    "id": "product-026",
+    "slug": "cargador-sanci-30w-sc-t1173v-ac-26",
+    "name": "CARGADOR SANCI 30W SC T1173V AC",
+    "category": "Cargadores",
+    "description": "Cargador sanci 30w sc t1173v ac. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-sanci-30w-sc-t1173v-ac-26.jpg"
+  },
+  {
+    "id": "product-027",
+    "slug": "cable-multiusos-pulpo-3-en-1-super-6a-s4-remallado-trenzado-reforzado-dizoyin-27",
+    "name": "CABLE MULTIUSOS PULPO 3 EN 1 SUPER 6A S4 REMALLADO TRENZADO REFORZADO DIZOYIN",
+    "category": "Cables",
+    "description": "Cable multiusos pulpo 3 en 1 super 6a s4 remallado trenzado reforzado dizoyin. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-multiusos-pulpo-3-en-1-super-6a-s4-remallado-trenzado-reforzado-dizoyin-27.jpg"
+  },
+  {
+    "id": "product-028",
+    "slug": "cable-usb-3-tipos-de-entrada-turbo-s5-charge-28",
+    "name": "CABLE USB 3 TIPOS DE ENTRADA TURBO S5 CHARGE",
+    "category": "Cables",
+    "description": "Cable usb 3 tipos de entrada turbo s5 charge. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-usb-3-tipos-de-entrada-turbo-s5-charge-28.jpg"
+  },
+  {
+    "id": "product-029",
+    "slug": "cable-imantado-magnetico-3-salidas-qiitcell-qi-b22-29",
+    "name": "CABLE IMANTADO MAGNETICO 3 SALIDAS QIITCELL QI B22",
+    "category": "Cables",
+    "description": "Cable imantado magnetico 3 salidas qiitcell qi b22. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-imantado-magnetico-3-salidas-qiitcell-qi-b22-29.jpg"
+  },
+  {
+    "id": "product-030",
+    "slug": "cable-auxiliar-huavi-y-01-1m-30",
+    "name": "CABLE AUXILIAR HUAVI Y 01 1M",
+    "category": "Cables",
+    "description": "Cable auxiliar huavi y 01 1m. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-auxiliar-huavi-y-01-1m-30.jpg"
+  },
+  {
+    "id": "product-031",
+    "slug": "cable-magnetico-flujo-led-carga-rapida-rotacion-360-31",
+    "name": "CABLE MAGNETICO FLUJO LED CARGA RAPIDA ROTACION 360°",
+    "category": "Cables",
+    "description": "Cable magnetico flujo led carga rapida rotacion 360°. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-magnetico-flujo-led-carga-rapida-rotacion-360-31.jpg"
+  },
+  {
+    "id": "product-032",
+    "slug": "cable-magnetico-de-carga-rapida-3-en-1-mxdz-631-meseta-32",
+    "name": "CABLE MAGNETICO DE CARGA RAPIDA 3 EN 1 MXDZ 631 MESETA",
+    "category": "Cables",
+    "description": "Cable magnetico de carga rapida 3 en 1 mxdz 631 meseta. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-magnetico-de-carga-rapida-3-en-1-mxdz-631-meseta-32.jpg"
+  },
+  {
+    "id": "product-033",
+    "slug": "cable-magnetico-quitcell-w-20-33",
+    "name": "CABLE MAGNETICO QUITCELL W 20",
+    "category": "Cables",
+    "description": "Cable magnetico quitcell w 20. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-magnetico-quitcell-w-20-33.jpg"
+  },
+  {
+    "id": "product-034",
+    "slug": "xiaomi-mi-stereo-handsfree-audifonos-mi-21-14b-34",
+    "name": "XIAOMI MI STEREO HANDSFREE AUDIFONOS MI 21 14B",
+    "category": "Audífonos",
+    "description": "Xiaomi mi stereo handsfree audifonos mi 21 14b. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/xiaomi-mi-stereo-handsfree-audifonos-mi-21-14b-34.jpg"
+  },
+  {
+    "id": "product-035",
+    "slug": "cargador-de-auto-wayja-v8-cable-plegable-35",
+    "name": "CARGADOR DE AUTO WAYJA V8 CABLE PLEGABLE",
+    "category": "Cables",
+    "description": "Cargador de auto wayja v8 cable plegable. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-de-auto-wayja-v8-cable-plegable-35.jpg"
+  },
+  {
+    "id": "product-036",
+    "slug": "cable-rca-rca-para-tv-dvd-1-5m-36",
+    "name": "CABLE RCA - RCA PARA TV DVD 1.5M",
+    "category": "Cables",
+    "description": "Cable rca - rca para tv dvd 1.5m. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-rca-rca-para-tv-dvd-1-5m-36.jpg"
+  },
+  {
+    "id": "product-037",
+    "slug": "cable-hdmi-5m-hochi-37",
+    "name": "CABLE HDMI 5M HOCHI",
+    "category": "Cables",
+    "description": "Cable hdmi 5m hochi. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-hdmi-5m-hochi-37.webp"
+  },
+  {
+    "id": "product-038",
+    "slug": "cable-tipo-c-usb-b-impresora-38",
+    "name": "CABLE TIPO C - USB B IMPRESORA",
+    "category": "Cables",
+    "description": "Cable tipo c - usb b impresora. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-tipo-c-usb-b-impresora-38.jpg"
+  },
+  {
+    "id": "product-039",
+    "slug": "cable-usb-usb-b-impresora-39",
+    "name": "CABLE USB -  USB B IMPRESORA",
+    "category": "Cables",
+    "description": "Cable usb -  usb b impresora. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-usb-usb-b-impresora-39.jpg"
+  },
+  {
+    "id": "product-040",
+    "slug": "patch-cord-lt-usa-utp-cat6-lszh-azul-1mts-lt-pc6-1-40",
+    "name": "Patch Cord LT USA UTP CAT6 LSZH Azul 1Mts LT-PC6-1",
+    "category": "Cables",
+    "description": "Patch cord lt usa utp cat6 lszh azul 1mts lt-pc6-1. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/patch-cord-lt-usa-utp-cat6-lszh-azul-1mts-lt-pc6-1-40.jpg"
+  },
+  {
+    "id": "product-041",
+    "slug": "cable-patch-cord-cat6-3-metros-lt-usa-ltt-pc6-3-lszh-41",
+    "name": "Cable Patch Cord Cat6 3 Metros LT USA LTT-PC6-3. LSZH",
+    "category": "Cables",
+    "description": "Cable patch cord cat6 3 metros lt usa ltt-pc6-3. lszh. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-patch-cord-cat6-3-metros-lt-usa-ltt-pc6-3-lszh-41.png"
+  },
+  {
+    "id": "product-042",
+    "slug": "patch-cord-cat6-15-metros-american-dakar-pc6-15m-azul-conexion-gigabit-estable-a-larga-distancia-42",
+    "name": "Patch Cord Cat6 15 Metros American Dakar PC6-15M Azul: ¡Conexión Gigabit Estable a Larga Distancia!",
+    "category": "Cables",
+    "description": "Patch cord cat6 15 metros american dakar pc6-15m azul: ¡conexión gigabit estable a larga distancia!. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/patch-cord-cat6-15-metros-american-dakar-pc6-15m-azul-conexion-gigabit-estable-a-larga-distancia-42.webp"
+  },
+  {
+    "id": "product-043",
+    "slug": "cable-v8-huavi-1m-u06-43",
+    "name": "CABLE V8 HUAVI 1M U06",
+    "category": "Cables",
+    "description": "Cable v8 huavi 1m u06. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-v8-huavi-1m-u06-43.jpg"
+  },
+  {
+    "id": "product-044",
+    "slug": "cable-v8-huavi-3m-h20-44",
+    "name": "CABLE V8 HUAVI 3M H20",
+    "category": "Cables",
+    "description": "Cable v8 huavi 3m h20. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-v8-huavi-3m-h20-44.png"
+  },
+  {
+    "id": "product-045",
+    "slug": "extension-opalux-3-salidas-5m-neon-op-fl1205-45",
+    "name": "EXTENSION OPALUX 3 SALIDAS 5M NEON OP FL1205",
+    "category": "Extensiones",
+    "description": "Extension opalux 3 salidas 5m neon op fl1205. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/extension-opalux-3-salidas-5m-neon-op-fl1205-45.jpg"
+  },
+  {
+    "id": "product-046",
+    "slug": "extension-electrica-home-light-5-metros-3-tomas-universales-16awg-12a-2600w-amarilla-46",
+    "name": "EXTENSIÓN ELÉCTRICA HOME LIGHT 5 METROS 3 TOMAS UNIVERSALES 16AWG 12A 2600W AMARILLA",
+    "category": "Otros",
+    "description": "Extensión eléctrica home light 5 metros 3 tomas universales 16awg 12a 2600w amarilla. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/extension-electrica-home-light-5-metros-3-tomas-universales-16awg-12a-2600w-amarilla-46.jpg"
+  },
+  {
+    "id": "product-047",
+    "slug": "extension-usb-por-cable-red-rj45-utp-adaptador-50-metros-cat-negro-47",
+    "name": "Extensión USB por Cable Red Rj45 UTP Adaptador 50 Metros Cat Negro",
+    "category": "Cables",
+    "description": "Extensión usb por cable red rj45 utp adaptador 50 metros cat negro. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/extension-usb-por-cable-red-rj45-utp-adaptador-50-metros-cat-negro-47.jpg"
+  },
+  {
+    "id": "product-048",
+    "slug": "funda-anti-golpes-case-disco-duro-externo-cremallera-liso-48",
+    "name": "Funda Anti Golpes Case Disco Duro Externo Cremallera Liso",
+    "category": "Protectores",
+    "description": "Funda anti golpes case disco duro externo cremallera liso. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/funda-anti-golpes-case-disco-duro-externo-cremallera-liso-48.jpg"
+  },
+  {
+    "id": "product-049",
+    "slug": "extensor-hdmi-rj45-utp-30-metros-full-hd-1080p-cat-5e-6-49",
+    "name": "Extensor Hdmi Rj45 Utp 30 Metros Full Hd 1080p Cat-5e/6",
+    "category": "Extensiones",
+    "description": "Extensor hdmi rj45 utp 30 metros full hd 1080p cat-5e/6. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/extensor-hdmi-rj45-utp-30-metros-full-hd-1080p-cat-5e-6-49.jpg"
+  },
+  {
+    "id": "product-050",
+    "slug": "adaptador-de-red-rj45-lan-usb-3-0-gigabit-ethernet-para-pc-50",
+    "name": "Adaptador de Red RJ45 LAN USB 3.0 Gigabit Ethernet para PC",
+    "category": "USB/Memorias",
+    "description": "Adaptador de red rj45 lan usb 3.0 gigabit ethernet para pc. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/adaptador-de-red-rj45-lan-usb-3-0-gigabit-ethernet-para-pc-50.jpg"
+  },
+  {
+    "id": "product-051",
+    "slug": "cabezal-de-carga-rapida-my-7106-baihuo-city-51",
+    "name": "Cabezal de Carga Rapida MY 7106 BAIHUO CITY",
+    "category": "Cargadores",
+    "description": "Cabezal de carga rapida my 7106 baihuo city. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cabezal-de-carga-rapida-my-7106-baihuo-city-51.webp"
+  },
+  {
+    "id": "product-052",
+    "slug": "cubo-cargador-buytiti-de-carga-rapida-con-puerto-usb-y-usb-c-60w-car-707-52",
+    "name": "Cubo cargador buytiti de carga rápida con puerto usb y usb-c, 60w / car-707",
+    "category": "Cargadores",
+    "description": "Cubo cargador buytiti de carga rápida con puerto usb y usb-c, 60w / car-707. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cubo-cargador-buytiti-de-carga-rapida-con-puerto-usb-y-usb-c-60w-car-707-52.jpg"
+  },
+  {
+    "id": "product-053",
+    "slug": "usb-32gb-data-traveler-exodia-kingston-53",
+    "name": "USB 32GB DATA TRAVELER EXODIA KINGSTON",
+    "category": "USB/Memorias",
+    "description": "Usb 32gb data traveler exodia kingston. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-32gb-data-traveler-exodia-kingston-53.jpg"
+  },
+  {
+    "id": "product-054",
+    "slug": "usb-16gb-data-traveler-s9-kingston-54",
+    "name": "USB 16GB DATA TRAVELER S9 KINGSTON",
+    "category": "USB/Memorias",
+    "description": "Usb 16gb data traveler s9 kingston. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-16gb-data-traveler-s9-kingston-54.png"
+  },
+  {
+    "id": "product-055",
+    "slug": "usb-32gb-data-traveler-s9-kingston-55",
+    "name": "USB 32GB DATA TRAVELER S9 KINGSTON",
+    "category": "USB/Memorias",
+    "description": "Usb 32gb data traveler s9 kingston. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-32gb-data-traveler-s9-kingston-55.webp"
+  },
+  {
+    "id": "product-056",
+    "slug": "usb-8gb-data-traveler-flash-kingston-56",
+    "name": "USB 8GB DATA TRAVELER FLASH KINGSTON",
+    "category": "USB/Memorias",
+    "description": "Usb 8gb data traveler flash kingston. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-8gb-data-traveler-flash-kingston-56.avif"
+  },
+  {
+    "id": "product-057",
+    "slug": "usb-4gb-data-traveler-flash-kingston-57",
+    "name": "USB 4GB DATA TRAVELER FLASH KINGSTON",
+    "category": "USB/Memorias",
+    "description": "Usb 4gb data traveler flash kingston. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/usb-4gb-data-traveler-flash-kingston-57.jpg"
+  },
+  {
+    "id": "product-058",
+    "slug": "cable-superaz-tipo-c-6-8a-1m-sa027t-58",
+    "name": "CABLE SUPERAZ TIPO C 6.8A 1M SA027T",
+    "category": "Cables",
+    "description": "Cable superaz tipo c 6.8a 1m sa027t. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-superaz-tipo-c-6-8a-1m-sa027t-58.jpg"
+  },
+  {
+    "id": "product-059",
+    "slug": "cable-super-tipo-c-2m-s2-cb191-59",
+    "name": "CABLE SUPER TIPO C 2M S2 CB191",
+    "category": "Cables",
+    "description": "Cable super tipo c 2m s2 cb191. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-super-tipo-c-2m-s2-cb191-59.webp"
+  },
+  {
+    "id": "product-060",
+    "slug": "cable-tranyoo-v8-6a-t-s14-v-60",
+    "name": "CABLE TRANYOO V8 6A T S14 V",
+    "category": "Cables",
+    "description": "Cable tranyoo v8 6a t s14 v. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-tranyoo-v8-6a-t-s14-v-60.jpg"
+  },
+  {
+    "id": "product-061",
+    "slug": "cable-tranyoo-tipo-c-t-514-c-61",
+    "name": "CABLE TRANYOO TIPO C T 514 C",
+    "category": "Cables",
+    "description": "Cable tranyoo tipo c t 514 c. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-tranyoo-tipo-c-t-514-c-61.jpg"
+  },
+  {
+    "id": "product-062",
+    "slug": "cable-tipo-c-redd-6-1a-rd33t-62",
+    "name": "CABLE TIPO C REDD 6.1A RD33T",
+    "category": "Cables",
+    "description": "Cable tipo c redd 6.1a rd33t. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-tipo-c-redd-6-1a-rd33t-62.avif"
+  },
+  {
+    "id": "product-063",
+    "slug": "cable-ligthning-1-2m-3a-vq-d129-63",
+    "name": "CABLE LIGTHNING 1.2M  3A VQ D129",
+    "category": "Cables",
+    "description": "Cable ligthning 1.2m  3a vq d129. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-ligthning-1-2m-3a-vq-d129-63.jpg"
+  },
+  {
+    "id": "product-064",
+    "slug": "adaptador-de-corriente-romax-6-2a-80w-tcc0526-dado-cubo-64",
+    "name": "ADAPTADOR DE CORRIENTE ROMAX 6.2A 80W TCC0526 DADO CUBO",
+    "category": "Adaptadores",
+    "description": "Adaptador de corriente romax 6.2a 80w tcc0526 dado cubo. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/adaptador-de-corriente-romax-6-2a-80w-tcc0526-dado-cubo-64.jpg"
+  },
+  {
+    "id": "product-065",
+    "slug": "adaptador-de-corriente-gaucho-6-2a-50w-ys2404-dado-cubo-65",
+    "name": "ADAPTADOR DE CORRIENTE GAUCHO 6.2A 50W YS2404 DADO CUBO",
+    "category": "Adaptadores",
+    "description": "Adaptador de corriente gaucho 6.2a 50w ys2404 dado cubo. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/adaptador-de-corriente-gaucho-6-2a-50w-ys2404-dado-cubo-65.jpg"
+  },
+  {
+    "id": "product-066",
+    "slug": "cargador-miccell-2-4a-vq-t06-66",
+    "name": "CARGADOR MICCELL 2.4A  VQ T06",
+    "category": "Cargadores",
+    "description": "Cargador miccell 2.4a  vq t06. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-miccell-2-4a-vq-t06-66.jpg"
+  },
+  {
+    "id": "product-067",
+    "slug": "cargador-hoco-tipo-c-2-1-cs11-67",
+    "name": "CARGADOR HOCO TIPO C 2.1 CS11",
+    "category": "Cargadores",
+    "description": "Cargador hoco tipo c 2.1 cs11. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-hoco-tipo-c-2-1-cs11-67.webp"
+  },
+  {
+    "id": "product-068",
+    "slug": "cable-auxiliar-l-redd-rd-20216-68",
+    "name": "CABLE AUXILIAR L REDD RD 20216",
+    "category": "Cables",
+    "description": "Cable auxiliar l redd rd 20216. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cable-auxiliar-l-redd-rd-20216-68.webp"
+  },
+  {
+    "id": "product-069",
+    "slug": "cargador-de-auto-romax-5-5a-35w-69",
+    "name": "CARGADOR DE AUTO ROMAX 5.5A 35W",
+    "category": "Cargadores",
+    "description": "Cargador de auto romax 5.5a 35w. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-de-auto-romax-5-5a-35w-69.jpg"
+  },
+  {
+    "id": "product-070",
+    "slug": "cargador-de-carro-redd-5-5a-rd4055-70",
+    "name": "CARGADOR DE CARRO REDD 5.5A RD4055",
+    "category": "Cargadores",
+    "description": "Cargador de carro redd 5.5a rd4055. Tecnología y accesorios con atención cercana en Cyber Byte Perú.",
+    "image": "/products/real/cargador-de-carro-redd-5-5a-rd4055-70.jpg"
+  },
+  {
+    "id": "product-071",
+    "slug": "cargador-tipo-c-dw-5-1a-25w-tcc0371-71",
+    "name": "CARGADOR TIPO C DW 5.1A 25W TCC0371",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR TIPO C DW 5.1A 25W TCC0371 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-tipo-c-dw-5-1a-25w-tcc0371-71.jpg"
+  },
+  {
+    "id": "product-072",
+    "slug": "cargador-redd-tipo-c-8a-100w-rd6153c-72",
+    "name": "CARGADOR REDD TIPO C 8A 100W RD6153C",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR REDD TIPO C 8A 100W RD6153C ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-redd-tipo-c-8a-100w-rd6153c-72.jpg"
+  },
+  {
+    "id": "product-073",
+    "slug": "cargador-de-auto-redd-87w-rd4063pd-73",
+    "name": "CARGADOR DE AUTO REDD 87W RD4063PD",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE AUTO REDD 87W RD4063PD ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-auto-redd-87w-rd4063pd-73.jpg"
+  },
+  {
+    "id": "product-074",
+    "slug": "cargador-redd-tipo-c-rd32cc-74",
+    "name": "CARGADOR REDD TIPO C RD32CC",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR REDD TIPO C RD32CC ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-redd-tipo-c-rd32cc-74.webp"
+  },
+  {
+    "id": "product-075",
+    "slug": "audifonos-romax-extra-bass-tca0311-75",
+    "name": "AUDIFONOS ROMAX EXTRA BASS TCA0311",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS ROMAX EXTRA BASS TCA0311, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-romax-extra-bass-tca0311-75.jpg"
+  },
+  {
+    "id": "product-076",
+    "slug": "audifonos-bossney-lightniing-bs-1012i-76",
+    "name": "AUDIFONOS BOSSNEY LIGHTNIING BS 1012i",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS BOSSNEY LIGHTNIING BS 1012i, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-bossney-lightniing-bs-1012i-76.jpg"
+  },
+  {
+    "id": "product-077",
+    "slug": "cable-auxiliar-reforazo-remallado-trenzado-77",
+    "name": "CABLE AUXILIAR REFORAZO REMALLADO TRENZADO",
+    "category": "Cables",
+    "description": "Cable CABLE AUXILIAR REFORAZO REMALLADO TRENZADO pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-auxiliar-reforazo-remallado-trenzado-77.webp"
+  },
+  {
+    "id": "product-078",
+    "slug": "cable-c-c-borofone-x107-78",
+    "name": "CABLE C - C BOROFONE X107",
+    "category": "Cables",
+    "description": "Cable CABLE C - C BOROFONE X107 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-c-c-borofone-x107-78.jpg"
+  },
+  {
+    "id": "product-079",
+    "slug": "adaptador-de-corriente-redd-3-8a-rd-5-cubo-dado-79",
+    "name": "ADAPTADOR DE CORRIENTE REDD 3.8A RD 5 CUBO DADO",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR DE CORRIENTE REDD 3.8A RD 5 CUBO DADO.",
+    "image": "/products/real/adaptador-de-corriente-redd-3-8a-rd-5-cubo-dado-79.jpg"
+  },
+  {
+    "id": "product-080",
+    "slug": "cable-micro-usb-hdmi-haoqi-80",
+    "name": "CABLE MICRO USB - HDMI HAOQI",
+    "category": "Cables",
+    "description": "Cable CABLE MICRO USB - HDMI HAOQI pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-micro-usb-hdmi-haoqi-80.jpg"
+  },
+  {
+    "id": "product-081",
+    "slug": "cable-aldeepo-ad-i610-81",
+    "name": "CABLE ALDEEPO AD I610",
+    "category": "Cables",
+    "description": "Cable CABLE ALDEEPO AD I610 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-aldeepo-ad-i610-81.avif"
+  },
+  {
+    "id": "product-082",
+    "slug": "cable-lext-5-1a-xf-34-82",
+    "name": "CABLE LEXT 5.1A XF 34",
+    "category": "Cables",
+    "description": "Cable CABLE LEXT 5.1A XF 34 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-lext-5-1a-xf-34-82.jpg"
+  },
+  {
+    "id": "product-083",
+    "slug": "cable-once-oc-426-83",
+    "name": "CABLE ONCE OC 426",
+    "category": "Cables",
+    "description": "Cable CABLE ONCE OC 426 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-once-oc-426-83.jpg"
+  },
+  {
+    "id": "product-084",
+    "slug": "cargador-de-tablet-5v-2a-wayja-84",
+    "name": "CARGADOR DE TABLET 5V 2A WAYJA",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE TABLET 5V 2A WAYJA ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-tablet-5v-2a-wayja-84.jpg"
+  },
+  {
+    "id": "product-085",
+    "slug": "audifonos-superaz-tipo-c-st-13-85",
+    "name": "AUDIFONOS SUPERAZ TIPO C ST 13",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS SUPERAZ TIPO C ST 13, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-superaz-tipo-c-st-13-85.jpg"
+  },
+  {
+    "id": "product-086",
+    "slug": "audifonos-superaz-tipo-c-st-09-86",
+    "name": "AUDIFONOS SUPERAZ TIPO C ST 09",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS SUPERAZ TIPO C ST 09, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-superaz-tipo-c-st-09-86.jpg"
+  },
+  {
+    "id": "product-087",
+    "slug": "adaptador-de-corriente-redd-45w-rd17pd-87",
+    "name": "ADAPTADOR DE CORRIENTE REDD 45W RD17PD",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR DE CORRIENTE REDD 45W RD17PD.",
+    "image": "/products/real/adaptador-de-corriente-redd-45w-rd17pd-87.jpg"
+  },
+  {
+    "id": "product-088",
+    "slug": "adaptador-de-corriente-redd-67w-rd8-88",
+    "name": "ADAPTADOR DE CORRIENTE REDD 67W RD8",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR DE CORRIENTE REDD 67W RD8.",
+    "image": "/products/real/adaptador-de-corriente-redd-67w-rd8-88.webp"
+  },
+  {
+    "id": "product-089",
+    "slug": "audifonos-philips-she3501pk-89",
+    "name": "AUDIFONOS PHILIPS SHE3501PK",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS PHILIPS SHE3501PK, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-philips-she3501pk-89.jpg"
+  },
+  {
+    "id": "product-090",
+    "slug": "audifonos-philips-myjam-she3555rd-00-90",
+    "name": "AUDIFONOS PHILIPS MYJAM  SHE3555RD/00",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS PHILIPS MYJAM  SHE3555RD/00, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-philips-myjam-she3555rd-00-90.webp"
+  },
+  {
+    "id": "product-091",
+    "slug": "auriculares-motorola-earbuds-2-con-microfono-91",
+    "name": "Auriculares Motorola Earbuds 2 Con Micrófono",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Auriculares Motorola Earbuds 2 Con Micrófono, una opción cómoda para tu día a día.",
+    "image": "/products/real/auriculares-motorola-earbuds-2-con-microfono-91.png"
+  },
+  {
+    "id": "product-092",
+    "slug": "audifonos-earbuds-3-s-motorola-92",
+    "name": "AUDIFONOS EARBUDS 3-S MOTOROLA",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS EARBUDS 3-S MOTOROLA, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-earbuds-3-s-motorola-92.png"
+  },
+  {
+    "id": "product-093",
+    "slug": "romax-tpl0018-lectora-memoria-usb-4-en-1-93",
+    "name": "ROMAX TPL0018 LECTORA MEMORIA USB 4 EN 1",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: ROMAX TPL0018 LECTORA MEMORIA USB 4 EN 1.",
+    "image": "/products/real/romax-tpl0018-lectora-memoria-usb-4-en-1-93.jpg"
+  },
+  {
+    "id": "product-094",
+    "slug": "huawei-am116-auriculares-intrauditivos-con-microfono-y-control-de-volumen-metalico-cancelacion-de-ruido-llamadas-de-audio-de-alta-definicion-para-huawei-honor-94",
+    "name": "HUAWEI AM116 Auriculares intrauditivos con micrófono y control de volumen metálico Cancelación de ruido Llamadas de audio de alta definición para HUAWEI Honor",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con HUAWEI AM116 Auriculares intrauditivos con micrófono y control de volumen metálico Cancelación de ruido Llamadas de audio de alta definición para HUAWEI Honor, una opción cómoda para tu día a día.",
+    "image": "/products/real/huawei-am116-auriculares-intrauditivos-con-microfono-y-control-de-volumen-metalico-cancelacion-de-ruido-llamadas-de-audio-de-alta-definicion-para-huawei-honor-94.png"
+  },
+  {
+    "id": "product-095",
+    "slug": "cargador-de-auto-ldnio-c2-36w-led-display-dual-qc3-0-95",
+    "name": "CARGADOR DE AUTO LDNIO C2 36W LED DISPLAY DUAL QC3.0",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE AUTO LDNIO C2 36W LED DISPLAY DUAL QC3.0 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-auto-ldnio-c2-36w-led-display-dual-qc3-0-95.webp"
+  },
+  {
+    "id": "product-096",
+    "slug": "cable-ldnio-ls441-usb-micro-v8-carga-rapida-1m-ls442-96",
+    "name": "CABLE LDNIO LS441 USB MICRO V8 CARGA RAPIDA 1M LS442",
+    "category": "Cables",
+    "description": "Cable CABLE LDNIO LS441 USB MICRO V8 CARGA RAPIDA 1M LS442 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-ldnio-ls441-usb-micro-v8-carga-rapida-1m-ls442-96.jpg"
+  },
+  {
+    "id": "product-097",
+    "slug": "cable-ldnio-90-tipo-c-2m-2-4a-ls422-97",
+    "name": "Cable LDNIO 90° Tipo C 2M 2.4A LS422",
+    "category": "Cables",
+    "description": "Cable Cable LDNIO 90° Tipo C 2M 2.4A LS422 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-ldnio-90-tipo-c-2m-2-4a-ls422-97.jpg"
+  },
+  {
+    "id": "product-098",
+    "slug": "cable-ldnio-lc441i-de-carga-rapida-usb-c-a-lightning-30w-de-1-m-98",
+    "name": "CABLE LDNIO LC441I DE CARGA RÁPIDA USB-C A LIGHTNING 30W DE 1 M",
+    "category": "Cables",
+    "description": "Cable CABLE LDNIO LC441I DE CARGA RÁPIDA USB-C A LIGHTNING 30W DE 1 M pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-ldnio-lc441i-de-carga-rapida-usb-c-a-lightning-30w-de-1-m-98.jpg"
+  },
+  {
+    "id": "product-099",
+    "slug": "cable-ldnio-lc671i-tipo-c-a-lightning-de-1m-30w-carga-rapida-99",
+    "name": "CABLE LDNIO LC671I TIPO C A LIGHTNING DE 1M 30W CARGA RÁPIDA",
+    "category": "Cables",
+    "description": "Cable CABLE LDNIO LC671I TIPO C A LIGHTNING DE 1M 30W CARGA RÁPIDA pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-ldnio-lc671i-tipo-c-a-lightning-de-1m-30w-carga-rapida-99.jpg"
+  },
+  {
+    "id": "product-100",
+    "slug": "cable-data-ldnio-type-c-a-lighting-lc111-100",
+    "name": "CABLE DATA LDNIO TYPE-C A LIGHTING LC111",
+    "category": "Cables",
+    "description": "Cable CABLE DATA LDNIO TYPE-C A LIGHTING LC111 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-data-ldnio-type-c-a-lighting-lc111-100.jpg"
+  },
+  {
+    "id": "product-101",
+    "slug": "cable-ldnio-lc441c-de-carga-rapida-usb-c-a-usb-c-65w-de-1-m-101",
+    "name": "CABLE LDNIO LC441C DE CARGA RÁPIDA USB-C A USB-C 65W DE 1 M",
+    "category": "Cables",
+    "description": "Cable CABLE LDNIO LC441C DE CARGA RÁPIDA USB-C A USB-C 65W DE 1 M pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-ldnio-lc441c-de-carga-rapida-usb-c-a-usb-c-65w-de-1-m-101.jpg"
+  },
+  {
+    "id": "product-102",
+    "slug": "cable-usb-tipo-c-1-metro-ldnio-ls63-carga-rapida-2-4a-y-sincronizacion-reforzada-102",
+    "name": "Cable USB Tipo C 1 Metro LDNIO LS63 | Carga Rápida 2.4A y Sincronización Reforzada",
+    "category": "Cables",
+    "description": "Cable Cable USB Tipo C 1 Metro LDNIO LS63 | Carga Rápida 2.4A y Sincronización Reforzada pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-usb-tipo-c-1-metro-ldnio-ls63-carga-rapida-2-4a-y-sincronizacion-reforzada-102.jpg"
+  },
+  {
+    "id": "product-103",
+    "slug": "cable-carga-rapida-ldnio-usb-ls641-tc-ls641-tc-103",
+    "name": "CABLE CARGA RÁPIDA LDNIO USB LS641 TC (LS641 TC)",
+    "category": "Cables",
+    "description": "Cable CABLE CARGA RÁPIDA LDNIO USB LS641 TC (LS641 TC) pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-carga-rapida-ldnio-usb-ls641-tc-ls641-tc-103.webp"
+  },
+  {
+    "id": "product-104",
+    "slug": "cable-ldnio-ls63-carga-rapida-2-4a-usb-a-lightning-1m-104",
+    "name": "Cable LDNIO LS63 Carga Rápida 2.4a Usb A Lightning 1m",
+    "category": "Cables",
+    "description": "Cable Cable LDNIO LS63 Carga Rápida 2.4a Usb A Lightning 1m pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-ldnio-ls63-carga-rapida-2-4a-usb-a-lightning-1m-104.jpg"
+  },
+  {
+    "id": "product-105",
+    "slug": "cargador-para-auto-con-cable-3-en-1-denmen-dz06e-carga-rapida-15w-105",
+    "name": "CARGADOR PARA AUTO CON CABLE 3 EN 1 DENMEN DZ06E CARGA RAPIDA 15W",
+    "category": "Cables",
+    "description": "Cable CARGADOR PARA AUTO CON CABLE 3 EN 1 DENMEN DZ06E CARGA RAPIDA 15W pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cargador-para-auto-con-cable-3-en-1-denmen-dz06e-carga-rapida-15w-105.jpg"
+  },
+  {
+    "id": "product-106",
+    "slug": "adaptador-receptor-de-audio-usb-bt-bluetooth-audio-stereo-multicolor-106",
+    "name": "Adaptador Receptor De Audio USB BT Bluetooth Audio Stereo Multicolor",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: Adaptador Receptor De Audio USB BT Bluetooth Audio Stereo Multicolor.",
+    "image": "/products/real/adaptador-receptor-de-audio-usb-bt-bluetooth-audio-stereo-multicolor-106.jpg"
+  },
+  {
+    "id": "product-107",
+    "slug": "audifonos-de-unicornio-by-2303-107",
+    "name": "AUDIFONOS DE UNICORNIO BY 2303",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS DE UNICORNIO BY 2303, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-de-unicornio-by-2303-107.jpg"
+  },
+  {
+    "id": "product-108",
+    "slug": "cinta-doble-contacto-shurtape-df622c-108",
+    "name": "CINTA DOBLE CONTACTO SHURTAPE DF622C",
+    "category": "Otros",
+    "description": "Encuentra CINTA DOBLE CONTACTO SHURTAPE DF622C para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-doble-contacto-shurtape-df622c-108.jpg"
+  },
+  {
+    "id": "product-109",
+    "slug": "rj45-109",
+    "name": "RJ45",
+    "category": "Redes",
+    "description": "Conecta tus equipos y mejora tu red con RJ45.",
+    "image": "/products/real/rj45-109.jpg"
+  },
+  {
+    "id": "product-110",
+    "slug": "adaptador-de-dvi-hdmi-110",
+    "name": "ADAPTADOR DE DVI - HDMI",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR DE DVI - HDMI.",
+    "image": "/products/real/adaptador-de-dvi-hdmi-110.jpg"
+  },
+  {
+    "id": "product-111",
+    "slug": "cigarrera-miccell-vq-c03-111",
+    "name": "CIGARRERA MICCELL VQ C03",
+    "category": "Otros",
+    "description": "Encuentra CIGARRERA MICCELL VQ C03 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cigarrera-miccell-vq-c03-111.jpg"
+  },
+  {
+    "id": "product-112",
+    "slug": "adaptador-de-teclado-y-mouse-mix-lite-112",
+    "name": "ADAPTADOR DE TECLADO Y MOUSE MIX LITE",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR DE TECLADO Y MOUSE MIX LITE.",
+    "image": "/products/real/adaptador-de-teclado-y-mouse-mix-lite-112.jpg"
+  },
+  {
+    "id": "product-113",
+    "slug": "otc-tipo-c-usb-113",
+    "name": "OTC TIPO C - USB",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: OTC TIPO C - USB.",
+    "image": "/products/real/otc-tipo-c-usb-113.jpg"
+  },
+  {
+    "id": "product-114",
+    "slug": "cable-de-datos-4-en-1-carga-rapida-6a-salida-120w-romax-114",
+    "name": "Cable de Datos 4 en 1 Carga Rapida 6A Salida 120w Romax",
+    "category": "Cables",
+    "description": "Cable Cable de Datos 4 en 1 Carga Rapida 6A Salida 120w Romax pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-de-datos-4-en-1-carga-rapida-6a-salida-120w-romax-114.jpg"
+  },
+  {
+    "id": "product-115",
+    "slug": "cable-tipo-c-a-plug-xc-008tp-115",
+    "name": "CABLE TIPO C A PLUG XC-008TP",
+    "category": "Cables",
+    "description": "Cable CABLE TIPO C A PLUG XC-008TP pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-tipo-c-a-plug-xc-008tp-115.jpg"
+  },
+  {
+    "id": "product-116",
+    "slug": "adaptador-huawei-hw-059200chq-116",
+    "name": "adaptador HUAWEI HW 059200CHQ",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: adaptador HUAWEI HW 059200CHQ.",
+    "image": "/products/real/adaptador-huawei-hw-059200chq-116.jpg"
+  },
+  {
+    "id": "product-117",
+    "slug": "cable-tipo-c-ip-1hora-cab273-117",
+    "name": "CABLE TIPO C - IP 1HORA CAB273",
+    "category": "Cables",
+    "description": "Cable CABLE TIPO C - IP 1HORA CAB273 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-tipo-c-ip-1hora-cab273-117.jpg"
+  },
+  {
+    "id": "product-118",
+    "slug": "cable-ewtto-et-e4339c-118",
+    "name": "CABLE EWTTO ET E4339C",
+    "category": "Cables",
+    "description": "Cable CABLE EWTTO ET E4339C pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-ewtto-et-e4339c-118.jpg"
+  },
+  {
+    "id": "product-119",
+    "slug": "cable-v8-motorola-turbo-power-119",
+    "name": "CABLE V8 MOTOROLA TURBO POWER",
+    "category": "Cables",
+    "description": "Cable CABLE V8 MOTOROLA TURBO POWER pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-v8-motorola-turbo-power-119.webp"
+  },
+  {
+    "id": "product-120",
+    "slug": "cargador-motorola-g60-ep-ta200-120",
+    "name": "Cargador Motorola g60 ep ta200",
+    "category": "Cargadores",
+    "description": "Cargador Cargador Motorola g60 ep ta200 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-motorola-g60-ep-ta200-120.webp"
+  },
+  {
+    "id": "product-121",
+    "slug": "cable-samsung-usb-tipo-c-a-c-fast-charger-premium-negro-121",
+    "name": "Cable Samsung USB Tipo C a C Fast Charger Premium - Negro",
+    "category": "Cables",
+    "description": "Cable Cable Samsung USB Tipo C a C Fast Charger Premium - Negro pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-samsung-usb-tipo-c-a-c-fast-charger-premium-negro-121.jpg"
+  },
+  {
+    "id": "product-122",
+    "slug": "audifonos-inalambricos-urban-rock2-122",
+    "name": "AUDIFONOS INALAMBRICOS URBAN ROCK2",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS INALAMBRICOS URBAN ROCK2, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-inalambricos-urban-rock2-122.jpg"
+  },
+  {
+    "id": "product-123",
+    "slug": "audifonos-hoco-esd15-bluetooth-con-microfono-12-horas-123",
+    "name": "AUDÍFONOS HOCO ESD15 BLUETOOTH CON MICRÓFONO 12 HORAS",
+    "category": "Otros",
+    "description": "Encuentra AUDÍFONOS HOCO ESD15 BLUETOOTH CON MICRÓFONO 12 HORAS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/audifonos-hoco-esd15-bluetooth-con-microfono-12-horas-123.jpg"
+  },
+  {
+    "id": "product-124",
+    "slug": "manguera-expandible-de-30-metros-magic-hose-verde-124",
+    "name": "Manguera Expandible de 30 Metros Magic Hose - VERDE",
+    "category": "Otros",
+    "description": "Encuentra Manguera Expandible de 30 Metros Magic Hose - VERDE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/manguera-expandible-de-30-metros-magic-hose-verde-124.jpg"
+  },
+  {
+    "id": "product-125",
+    "slug": "audifonos-gamer-misde-light-x7-125",
+    "name": "Audífonos Gamer Misde Light X7",
+    "category": "Otros",
+    "description": "Encuentra Audífonos Gamer Misde Light X7 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/audifonos-gamer-misde-light-x7-125.avif"
+  },
+  {
+    "id": "product-126",
+    "slug": "auriculares-gamer-samzo-ain-gm990-negro-handsup-126",
+    "name": "Auriculares Gamer Samzo Ain GM990 – Negro – HandsUp",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Auriculares Gamer Samzo Ain GM990 – Negro – HandsUp, una opción cómoda para tu día a día.",
+    "image": "/products/real/auriculares-gamer-samzo-ain-gm990-negro-handsup-126.png"
+  },
+  {
+    "id": "product-127",
+    "slug": "cigarrera-para-auto-kts-c933-dual-usb-charger-audio-music-wireless-handsfree-fm-transmitter-mp3-player-charger-bt-car-kit-radio-receiver-127",
+    "name": "CIGARRERA PARA AUTO KTS-C933 Dual Usb Charger Audio Music Wireless Handsfree Fm Transmitter Mp3 Player Charger Bt Car Kit Radio Receiver",
+    "category": "Cargadores",
+    "description": "Cargador CIGARRERA PARA AUTO KTS-C933 Dual Usb Charger Audio Music Wireless Handsfree Fm Transmitter Mp3 Player Charger Bt Car Kit Radio Receiver ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cigarrera-para-auto-kts-c933-dual-usb-charger-audio-music-wireless-handsfree-fm-transmitter-mp3-player-charger-bt-car-kit-radio-receiver-127.jpg"
+  },
+  {
+    "id": "product-128",
+    "slug": "soporte-para-auto-rt-60h-air-outlet-car-128",
+    "name": "SOPORTE PARA AUTO RT 60H AIR OUTLET CAR",
+    "category": "Otros",
+    "description": "Encuentra SOPORTE PARA AUTO RT 60H AIR OUTLET CAR para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-para-auto-rt-60h-air-outlet-car-128.jpg"
+  },
+  {
+    "id": "product-129",
+    "slug": "soporte-para-auto-romax-holder-magnetico-imantado-tch0268-129",
+    "name": "SOPORTE PARA AUTO ROMAX HOLDER MAGNETICO IMANTADO TCH0268",
+    "category": "Otros",
+    "description": "Encuentra SOPORTE PARA AUTO ROMAX HOLDER MAGNETICO IMANTADO TCH0268 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-para-auto-romax-holder-magnetico-imantado-tch0268-129.jpg"
+  },
+  {
+    "id": "product-130",
+    "slug": "soporte-para-celular-o-tablet-manito-ok-stand-flexible-130",
+    "name": "Soporte Para Celular O Tablet Manito Ok Stand Flexible",
+    "category": "Otros",
+    "description": "Encuentra Soporte Para Celular O Tablet Manito Ok Stand Flexible para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-para-celular-o-tablet-manito-ok-stand-flexible-130.jpg"
+  },
+  {
+    "id": "product-131",
+    "slug": "aldeepo-ad-m053-mouse-optico-131",
+    "name": "ALDEEPO AD-M053 MOUSE OPTICO",
+    "category": "Otros",
+    "description": "Encuentra ALDEEPO AD-M053 MOUSE OPTICO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/aldeepo-ad-m053-mouse-optico-131.jpg"
+  },
+  {
+    "id": "product-132",
+    "slug": "mouse-hochi-gamer-gm-02-132",
+    "name": "MOUSE HOCHI GAMER GM-02",
+    "category": "Otros",
+    "description": "Encuentra MOUSE HOCHI GAMER GM-02 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-hochi-gamer-gm-02-132.jpg"
+  },
+  {
+    "id": "product-133",
+    "slug": "soporte-de-coche-telescopico-giratorio-xo-c146-133",
+    "name": "Soporte de Coche Telescopico Giratorio XO C146",
+    "category": "Otros",
+    "description": "Encuentra Soporte de Coche Telescopico Giratorio XO C146 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-de-coche-telescopico-giratorio-xo-c146-133.webp"
+  },
+  {
+    "id": "product-134",
+    "slug": "mouse-pad-gamer-jx-3080-134",
+    "name": "MOUSE PAD GAMER JX-3080.",
+    "category": "Otros",
+    "description": "Encuentra MOUSE PAD GAMER JX-3080. para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-pad-gamer-jx-3080-134.png"
+  },
+  {
+    "id": "product-135",
+    "slug": "elite-j1-vex-135",
+    "name": "ELITE J1 VEX",
+    "category": "Otros",
+    "description": "Encuentra ELITE J1 VEX para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/elite-j1-vex-135.jpg"
+  },
+  {
+    "id": "product-136",
+    "slug": "altavoz-wireless-speaker-lx06-136",
+    "name": "Altavoz Wireless Speaker - Lx06",
+    "category": "Otros",
+    "description": "Encuentra Altavoz Wireless Speaker - Lx06 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/altavoz-wireless-speaker-lx06-136.png"
+  },
+  {
+    "id": "product-137",
+    "slug": "altavoz-wireless-speaker-lx05-137",
+    "name": "Altavoz Wireless Speaker - Lx05",
+    "category": "Otros",
+    "description": "Encuentra Altavoz Wireless Speaker - Lx05 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/altavoz-wireless-speaker-lx05-137.jpg"
+  },
+  {
+    "id": "product-138",
+    "slug": "audifonos-xinkuang-xk-hb104-138",
+    "name": "AUDIFONOS XINKUANG XK HB104",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS XINKUANG XK HB104, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-xinkuang-xk-hb104-138.jpg"
+  },
+  {
+    "id": "product-139",
+    "slug": "estabilizador-900va-450w-forza-fvr-902-8-tomas-139",
+    "name": "ESTABILIZADOR 900VA(450W) FORZA FVR- 902 8-Tomas",
+    "category": "Extensiones",
+    "description": "Más alcance y comodidad para tus conexiones con ESTABILIZADOR 900VA(450W) FORZA FVR- 902 8-Tomas.",
+    "image": "/products/real/estabilizador-900va-450w-forza-fvr-902-8-tomas-139.avif"
+  },
+  {
+    "id": "product-140",
+    "slug": "estabilizador-1200va-600w-forza-fvr-1222usb-8-tomas-2pt-usb-proteccion-inteligente-frente-a-variaciones-electricas-140",
+    "name": "ESTABILIZADOR 1200VA(600W) FORZA FVR-1222USB 8-Tomas 2pt-USB Proteccion inteligente frente a variaciones electricas.",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: ESTABILIZADOR 1200VA(600W) FORZA FVR-1222USB 8-Tomas 2pt-USB Proteccion inteligente frente a variaciones electricas..",
+    "image": "/products/real/estabilizador-1200va-600w-forza-fvr-1222usb-8-tomas-2pt-usb-proteccion-inteligente-frente-a-variaciones-electricas-140.png"
+  },
+  {
+    "id": "product-141",
+    "slug": "foco-qx-15-portiza-141",
+    "name": "FOCO QX 15 PORTIZA",
+    "category": "Otros",
+    "description": "Encuentra FOCO QX 15 PORTIZA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-qx-15-portiza-141.jpg"
+  },
+  {
+    "id": "product-142",
+    "slug": "mouse-enkore-cadet-ekm-115-142",
+    "name": "MOUSE ENKORE CADET EKM 115",
+    "category": "Otros",
+    "description": "Encuentra MOUSE ENKORE CADET EKM 115 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-enkore-cadet-ekm-115-142.webp"
+  },
+  {
+    "id": "product-143",
+    "slug": "mouse-enkore-pivot-ekm-105-143",
+    "name": "MOUSE ENKORE PIVOT EKM 105",
+    "category": "Otros",
+    "description": "Encuentra MOUSE ENKORE PIVOT EKM 105 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-enkore-pivot-ekm-105-143.png"
+  },
+  {
+    "id": "product-144",
+    "slug": "mouse-enkore-access-ekm134-144",
+    "name": "MOUSE ENKORE ACCESS EKM134",
+    "category": "Otros",
+    "description": "Encuentra MOUSE ENKORE ACCESS EKM134 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-enkore-access-ekm134-144.jpg"
+  },
+  {
+    "id": "product-145",
+    "slug": "mouse-super-pc06-m2024su-145",
+    "name": "MOUSE SUPER PC06 M2024SU",
+    "category": "Otros",
+    "description": "Encuentra MOUSE SUPER PC06 M2024SU para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-super-pc06-m2024su-145.jpg"
+  },
+  {
+    "id": "product-146",
+    "slug": "mouse-volcan-pc10-m2024su-146",
+    "name": "MOUSE VOLCAN PC10 M2024SU",
+    "category": "Otros",
+    "description": "Encuentra MOUSE VOLCAN PC10 M2024SU para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-volcan-pc10-m2024su-146.webp"
+  },
+  {
+    "id": "product-147",
+    "slug": "mouse-gamer-seisa-dn-c332-147",
+    "name": "MOUSE GAMER SEISA DN C332",
+    "category": "Otros",
+    "description": "Encuentra MOUSE GAMER SEISA DN C332 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mouse-gamer-seisa-dn-c332-147.jpg"
+  },
+  {
+    "id": "product-148",
+    "slug": "cargador-de-auto-ldnio-c313q-148",
+    "name": "CARGADOR DE AUTO LDNIO C313Q",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE AUTO LDNIO C313Q ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-auto-ldnio-c313q-148.png"
+  },
+  {
+    "id": "product-149",
+    "slug": "audifonos-uwo-u06-149",
+    "name": "Audifonos UWO U06",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Audifonos UWO U06, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-uwo-u06-149.avif"
+  },
+  {
+    "id": "product-150",
+    "slug": "audifono-con-cable-deluxe-a9-super-extra-bass-150",
+    "name": "AUDIFONO CON CABLE DELUXE A9 SUPER EXTRA BASS",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONO CON CABLE DELUXE A9 SUPER EXTRA BASS, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifono-con-cable-deluxe-a9-super-extra-bass-150.webp"
+  },
+  {
+    "id": "product-151",
+    "slug": "cargador-de-auto-tronsmart-c24-151",
+    "name": "CARGADOR DE AUTO TRONSMART C24",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE AUTO TRONSMART C24 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-auto-tronsmart-c24-151.jpg"
+  },
+  {
+    "id": "product-152",
+    "slug": "cable-xiaomi-v8-obyw-152",
+    "name": "CABLE XIAOMI V8 OBYW",
+    "category": "Cables",
+    "description": "Cable CABLE XIAOMI V8 OBYW pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-xiaomi-v8-obyw-152.jpg"
+  },
+  {
+    "id": "product-153",
+    "slug": "cable-xiaomi-tipo-c-obyw-153",
+    "name": "CABLE XIAOMI TIPO C OBYW",
+    "category": "Cables",
+    "description": "Cable CABLE XIAOMI TIPO C OBYW pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-xiaomi-tipo-c-obyw-153.jpg"
+  },
+  {
+    "id": "product-154",
+    "slug": "cargador-aldeepo-adc08-154",
+    "name": "CARGADOR ALDEEPO ADC08",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR ALDEEPO ADC08 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-aldeepo-adc08-154.png"
+  },
+  {
+    "id": "product-155",
+    "slug": "otg-ldnio-tipo-c-usb-lc150-155",
+    "name": "OTG LDNIO TIPO C - USB LC150",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: OTG LDNIO TIPO C - USB LC150.",
+    "image": "/products/real/otg-ldnio-tipo-c-usb-lc150-155.webp"
+  },
+  {
+    "id": "product-156",
+    "slug": "adaptador-multiple-opalux-op-603-l-156",
+    "name": "ADAPTADOR MULTIPLE OPALUX OP 603 L",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR MULTIPLE OPALUX OP 603 L.",
+    "image": "/products/real/adaptador-multiple-opalux-op-603-l-156.jpg"
+  },
+  {
+    "id": "product-157",
+    "slug": "adaptador-multiple-opalux-op-603-k-157",
+    "name": "ADAPTADOR MULTIPLE OPALUX OP 603 K",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR MULTIPLE OPALUX OP 603 K.",
+    "image": "/products/real/adaptador-multiple-opalux-op-603-k-157.png"
+  },
+  {
+    "id": "product-158",
+    "slug": "cable-tipo-c-miccell-con-estuche-158",
+    "name": "CABLE TIPO C MICCELL CON ESTUCHE",
+    "category": "Cables",
+    "description": "Cable CABLE TIPO C MICCELL CON ESTUCHE pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-tipo-c-miccell-con-estuche-158.png"
+  },
+  {
+    "id": "product-159",
+    "slug": "control-panasonic-led-smart-cps171-159",
+    "name": "CONTROL PANASONIC LED SMART CPS171",
+    "category": "Otros",
+    "description": "Encuentra CONTROL PANASONIC LED SMART CPS171 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-panasonic-led-smart-cps171-159.jpg"
+  },
+  {
+    "id": "product-160",
+    "slug": "control-lg-smart-4k-cps-5315-160",
+    "name": "CONTROL LG SMART 4K CPS 5315",
+    "category": "Otros",
+    "description": "Encuentra CONTROL LG SMART 4K CPS 5315 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-lg-smart-4k-cps-5315-160.jpg"
+  },
+  {
+    "id": "product-161",
+    "slug": "control-jvc-smart-4k-cps-229-161",
+    "name": "CONTROL JVC SMART 4K CPS 229",
+    "category": "Otros",
+    "description": "Encuentra CONTROL JVC SMART 4K CPS 229 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-jvc-smart-4k-cps-229-161.jpg"
+  },
+  {
+    "id": "product-162",
+    "slug": "control-aoc-wa-4215-162",
+    "name": "CONTROL AOC WA 4215",
+    "category": "Otros",
+    "description": "Encuentra CONTROL AOC WA 4215 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-aoc-wa-4215-162.jpg"
+  },
+  {
+    "id": "product-163",
+    "slug": "audifonos-dexbo-tipo-c-dea1990m-163",
+    "name": "AUDIFONOS DEXBO TIPO C DEA1990M",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS DEXBO TIPO C DEA1990M, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-dexbo-tipo-c-dea1990m-163.jpg"
+  },
+  {
+    "id": "product-164",
+    "slug": "control-universal-w-190-wayja-164",
+    "name": "CONTROL UNIVERSAL W 190 WAYJA",
+    "category": "Otros",
+    "description": "Encuentra CONTROL UNIVERSAL W 190 WAYJA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-universal-w-190-wayja-164.webp"
+  },
+  {
+    "id": "product-165",
+    "slug": "control-remoto-smart-4k-wj-5497-165",
+    "name": "CONTROL REMOTO SMART 4K WJ 5497",
+    "category": "Otros",
+    "description": "Encuentra CONTROL REMOTO SMART 4K WJ 5497 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-remoto-smart-4k-wj-5497-165.jpg"
+  },
+  {
+    "id": "product-166",
+    "slug": "control-remoto-hyundai-wh-5115-smart-166",
+    "name": "CONTROL REMOTO HYUNDAI WH 5115 SMART",
+    "category": "Otros",
+    "description": "Encuentra CONTROL REMOTO HYUNDAI WH 5115 SMART para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-remoto-hyundai-wh-5115-smart-166.jpg"
+  },
+  {
+    "id": "product-167",
+    "slug": "control-aoc-wa-3210-167",
+    "name": "CONTROL AOC WA 3210",
+    "category": "Otros",
+    "description": "Encuentra CONTROL AOC WA 3210 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-aoc-wa-3210-167.webp"
+  },
+  {
+    "id": "product-168",
+    "slug": "control-miray-wm-828-168",
+    "name": "CONTROL MIRAY WM 828",
+    "category": "Otros",
+    "description": "Encuentra CONTROL MIRAY WM 828 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-miray-wm-828-168.png"
+  },
+  {
+    "id": "product-169",
+    "slug": "control-aoc-wa-4955-169",
+    "name": "CONTROL AOC WA 4955",
+    "category": "Otros",
+    "description": "Encuentra CONTROL AOC WA 4955 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-aoc-wa-4955-169.jpg"
+  },
+  {
+    "id": "product-170",
+    "slug": "control-jvc-smart-4k-l44hn-170",
+    "name": "CONTROL JVC SMART 4K L44HN",
+    "category": "Otros",
+    "description": "Encuentra CONTROL JVC SMART 4K L44HN para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-jvc-smart-4k-l44hn-170.jpg"
+  },
+  {
+    "id": "product-171",
+    "slug": "control-jvc-smart-4k-wj5598-171",
+    "name": "CONTROL JVC SMART 4K WJ5598",
+    "category": "Otros",
+    "description": "Encuentra CONTROL JVC SMART 4K WJ5598 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-jvc-smart-4k-wj5598-171.jpg"
+  },
+  {
+    "id": "product-172",
+    "slug": "control-hyunday-wh5210-smart-172",
+    "name": "CONTROL HYUNDAY WH5210 SMART",
+    "category": "Otros",
+    "description": "Encuentra CONTROL HYUNDAY WH5210 SMART para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/control-hyunday-wh5210-smart-172.jpg"
+  },
+  {
+    "id": "product-173",
+    "slug": "funda-protectora-control-lg-magic-mr20-mr19-negro-variado-colores-rojo-wayja-173",
+    "name": "FUNDA PROTECTORA CONTROL LG MAGIC MR20 MR19 NEGRO VARIADO COLORES ROJO WAYJA",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con FUNDA PROTECTORA CONTROL LG MAGIC MR20 MR19 NEGRO VARIADO COLORES ROJO WAYJA, pensado para el uso diario.",
+    "image": "/products/real/funda-protectora-control-lg-magic-mr20-mr19-negro-variado-colores-rojo-wayja-173.jpg"
+  },
+  {
+    "id": "product-174",
+    "slug": "funda-de-control-samsung-174",
+    "name": "FUNDA DE CONTROL SAMSUNG",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con FUNDA DE CONTROL SAMSUNG, pensado para el uso diario.",
+    "image": "/products/real/funda-de-control-samsung-174.webp"
+  },
+  {
+    "id": "product-175",
+    "slug": "camion-y-dinosaurio-de-juguete-para-ninos-661-5d-175",
+    "name": "CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 5D",
+    "category": "Otros",
+    "description": "Encuentra CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 5D para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/camion-y-dinosaurio-de-juguete-para-ninos-661-5d-175.png"
+  },
+  {
+    "id": "product-176",
+    "slug": "camion-y-dinosaurio-de-juguete-para-ninos-661-6d-176",
+    "name": "CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 6D",
+    "category": "Otros",
+    "description": "Encuentra CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 6D para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/camion-y-dinosaurio-de-juguete-para-ninos-661-6d-176.jpg"
+  },
+  {
+    "id": "product-177",
+    "slug": "coleccion-transformers-galaxy-version-01-roll-out-blokee-9-disenos-177",
+    "name": "Colección Transformers | Galaxy Version 01 Roll Out | Blokee 9 Diseños",
+    "category": "Otros",
+    "description": "Encuentra Colección Transformers | Galaxy Version 01 Roll Out | Blokee 9 Diseños para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/coleccion-transformers-galaxy-version-01-roll-out-blokee-9-disenos-177.jpg"
+  },
+  {
+    "id": "product-178",
+    "slug": "pistola-hidrogel-mp5-water-bonb-gun-178",
+    "name": "Pistola Hidrogel MP5 WATER BONB GUN",
+    "category": "Otros",
+    "description": "Encuentra Pistola Hidrogel MP5 WATER BONB GUN para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pistola-hidrogel-mp5-water-bonb-gun-178.png"
+  },
+  {
+    "id": "product-179",
+    "slug": "transformer-robot-armable-convertible-0908-179",
+    "name": "Transformer Robot Armable Convertible 0908",
+    "category": "Otros",
+    "description": "Encuentra Transformer Robot Armable Convertible 0908 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/transformer-robot-armable-convertible-0908-179.jpg"
+  },
+  {
+    "id": "product-180",
+    "slug": "pistola-attack-force-supper-shot-manual-soft-bullet-gun-180",
+    "name": "PISTOLA ATTACK FORCE SUPPER SHOT MANUAL SOFT BULLET GUN",
+    "category": "Otros",
+    "description": "Encuentra PISTOLA ATTACK FORCE SUPPER SHOT MANUAL SOFT BULLET GUN para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pistola-attack-force-supper-shot-manual-soft-bullet-gun-180.jpg"
+  },
+  {
+    "id": "product-181",
+    "slug": "blokees-transformers-classic-scourge-armable-71143-181",
+    "name": "Blokees Transformers Classic Scourge Armable 71143",
+    "category": "Otros",
+    "description": "Encuentra Blokees Transformers Classic Scourge Armable 71143 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/blokees-transformers-classic-scourge-armable-71143-181.jpg"
+  },
+  {
+    "id": "product-182",
+    "slug": "hasbro-blokees-transformers-classic-bumblebee-figura-de-accion-armable-71142-182",
+    "name": "Hasbro | Blokees Transformers Classic Bumblebee Figura de Acción Armable 71142",
+    "category": "Otros",
+    "description": "Encuentra Hasbro | Blokees Transformers Classic Bumblebee Figura de Acción Armable 71142 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/hasbro-blokees-transformers-classic-bumblebee-figura-de-accion-armable-71142-182.jpg"
+  },
+  {
+    "id": "product-183",
+    "slug": "coleccion-transformers-galaxy-version-02-sos-blokee-9-disenos-183",
+    "name": "Colección Transformers | Galaxy Version 02 SOS| Blokee 9 Diseños",
+    "category": "Otros",
+    "description": "Encuentra Colección Transformers | Galaxy Version 02 SOS| Blokee 9 Diseños para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/coleccion-transformers-galaxy-version-02-sos-blokee-9-disenos-183.jpg"
+  },
+  {
+    "id": "product-184",
+    "slug": "coleccion-transformers-galaxy-version-04-fractured-space-time-blokee-9-disenos-184",
+    "name": "Colección Transformers | Galaxy Version 04 FRACTURED SPACE - TIME | Blokee 9 Diseños",
+    "category": "Redes",
+    "description": "Conecta tus equipos y mejora tu red con Colección Transformers | Galaxy Version 04 FRACTURED SPACE - TIME | Blokee 9 Diseños.",
+    "image": "/products/real/coleccion-transformers-galaxy-version-04-fractured-space-time-blokee-9-disenos-184.avif"
+  },
+  {
+    "id": "product-185",
+    "slug": "diamantina-de-colores-varios-escarcha-en-bolsa-185",
+    "name": "DIAMANTINA DE COLORES VARIOS ESCARCHA EN BOLSA",
+    "category": "Otros",
+    "description": "Encuentra DIAMANTINA DE COLORES VARIOS ESCARCHA EN BOLSA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/diamantina-de-colores-varios-escarcha-en-bolsa-185.jpg"
+  },
+  {
+    "id": "product-186",
+    "slug": "antenas-magneticas-con-senal-digital-antenas-yamil100-alta-definicion-186",
+    "name": "ANTENAS MAGNETICAS CON SEÑAL DIGITAL ANTENAS YAMIL100% ALTA DEFINICION",
+    "category": "Redes",
+    "description": "Conecta tus equipos y mejora tu red con ANTENAS MAGNETICAS CON SEÑAL DIGITAL ANTENAS YAMIL100% ALTA DEFINICION.",
+    "image": "/products/real/antenas-magneticas-con-senal-digital-antenas-yamil100-alta-definicion-186.webp"
+  },
+  {
+    "id": "product-187",
+    "slug": "soporte-de-celular-yuntnfg-54692-187",
+    "name": "SOPORTE DE CELULAR YUNTNFG 54692",
+    "category": "Otros",
+    "description": "Encuentra SOPORTE DE CELULAR YUNTNFG 54692 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-de-celular-yuntnfg-54692-187.png"
+  },
+  {
+    "id": "product-188",
+    "slug": "antena-de-televisor-senal-digital-alta-definicion-inversiones-mau-188",
+    "name": "ANTENA DE TELEVISOR SEÑAL DIGITAL ALTA DEFINICION INVERSIONES MAU",
+    "category": "Redes",
+    "description": "Conecta tus equipos y mejora tu red con ANTENA DE TELEVISOR SEÑAL DIGITAL ALTA DEFINICION INVERSIONES MAU.",
+    "image": "/products/real/antena-de-televisor-senal-digital-alta-definicion-inversiones-mau-188.jpg"
+  },
+  {
+    "id": "product-189",
+    "slug": "pila-alcalina-grande-d-2-mmi30082-duracell-189",
+    "name": "Pila Alcalina Grande D/2 Mmi30082 Duracell",
+    "category": "Otros",
+    "description": "Encuentra Pila Alcalina Grande D/2 Mmi30082 Duracell para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pila-alcalina-grande-d-2-mmi30082-duracell-189.webp"
+  },
+  {
+    "id": "product-190",
+    "slug": "protector-de-teclado-14-pulgadas-190",
+    "name": "PROTECTOR DE TECLADO 14\" PULGADAS",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con PROTECTOR DE TECLADO 14\" PULGADAS, pensado para el uso diario.",
+    "image": "/products/real/protector-de-teclado-14-pulgadas-190.avif"
+  },
+  {
+    "id": "product-191",
+    "slug": "escuadron-de-reglas-estuche-geometrico-cristal-30cm-191",
+    "name": "ESCUADRON DE REGLAS ESTUCHE GEOMETRICO CRISTAL 30CM",
+    "category": "Otros",
+    "description": "Encuentra ESCUADRON DE REGLAS ESTUCHE GEOMETRICO CRISTAL 30CM para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/escuadron-de-reglas-estuche-geometrico-cristal-30cm-191.jpg"
+  },
+  {
+    "id": "product-192",
+    "slug": "regla-artesco-30cm-192",
+    "name": "REGLA ARTESCO 30CM",
+    "category": "Otros",
+    "description": "Encuentra REGLA ARTESCO 30CM para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/regla-artesco-30cm-192.webp"
+  },
+  {
+    "id": "product-193",
+    "slug": "10-plastilinas-delgadas-artesco-193",
+    "name": "10 PLASTILINAS DELGADAS ARTESCO",
+    "category": "Otros",
+    "description": "Encuentra 10 PLASTILINAS DELGADAS ARTESCO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/10-plastilinas-delgadas-artesco-193.jpg"
+  },
+  {
+    "id": "product-194",
+    "slug": "usb-bt-receptor-ewtto-et-e0515-194",
+    "name": "USB BT RECEPTOR EWTTO ET E0515",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: USB BT RECEPTOR EWTTO ET E0515.",
+    "image": "/products/real/usb-bt-receptor-ewtto-et-e0515-194.jpg"
+  },
+  {
+    "id": "product-195",
+    "slug": "linterna-hel-2020-hao-ear-liang-195",
+    "name": "LINTERNA HEL 2020 HAO EAR LIANG",
+    "category": "Otros",
+    "description": "Encuentra LINTERNA HEL 2020 HAO EAR LIANG para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/linterna-hel-2020-hao-ear-liang-195.avif"
+  },
+  {
+    "id": "product-196",
+    "slug": "microfono-lavalier-hoco-lightning-l14-196",
+    "name": "MICROFONO LAVALIER HOCO LIGHTNING L14",
+    "category": "Otros",
+    "description": "Encuentra MICROFONO LAVALIER HOCO LIGHTNING L14 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/microfono-lavalier-hoco-lightning-l14-196.webp"
+  },
+  {
+    "id": "product-197",
+    "slug": "cinta-masking-tape-multiuso-500-1-2-25yds-197",
+    "name": "CINTA MASKING TAPE MULTIUSO 500 1/2\" 25yds",
+    "category": "Otros",
+    "description": "Encuentra CINTA MASKING TAPE MULTIUSO 500 1/2\" 25yds para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-masking-tape-multiuso-500-1-2-25yds-197.jpg"
+  },
+  {
+    "id": "product-198",
+    "slug": "maskingtape-super-shurtape-3-4-55yds-198",
+    "name": "MASKINGTAPE SUPER SHURTAPE 3/4\" 55YDS",
+    "category": "Otros",
+    "description": "Encuentra MASKINGTAPE SUPER SHURTAPE 3/4\" 55YDS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/maskingtape-super-shurtape-3-4-55yds-198.jpg"
+  },
+  {
+    "id": "product-199",
+    "slug": "12-colores-super-intensos-artesco-199",
+    "name": "12 COLORES SUPER INTENSOS ARTESCO",
+    "category": "Otros",
+    "description": "Encuentra 12 COLORES SUPER INTENSOS ARTESCO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/12-colores-super-intensos-artesco-199.jpg"
+  },
+  {
+    "id": "product-200",
+    "slug": "12-lapices-grafito-2b-artesco-200",
+    "name": "12 LAPICES GRAFITO 2B ARTESCO",
+    "category": "Otros",
+    "description": "Encuentra 12 LAPICES GRAFITO 2B ARTESCO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/12-lapices-grafito-2b-artesco-200.jpg"
+  },
+  {
+    "id": "product-201",
+    "slug": "12-lapices-chequeo-artesco-201",
+    "name": "12 LAPICES CHEQUEO ARTESCO",
+    "category": "Otros",
+    "description": "Encuentra 12 LAPICES CHEQUEO ARTESCO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/12-lapices-chequeo-artesco-201.jpg"
+  },
+  {
+    "id": "product-202",
+    "slug": "12-pcs-wb-9506-weibo-pink-202",
+    "name": "12 PCS WB 9506 WEIBO PINK",
+    "category": "Otros",
+    "description": "Encuentra 12 PCS WB 9506 WEIBO PINK para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/12-pcs-wb-9506-weibo-pink-202.png"
+  },
+  {
+    "id": "product-203",
+    "slug": "12-pcs-wb-9506-weibo-yellow-203",
+    "name": "12 PCS WB 9506 WEIBO YELLOW",
+    "category": "Otros",
+    "description": "Encuentra 12 PCS WB 9506 WEIBO YELLOW para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/12-pcs-wb-9506-weibo-yellow-203.avif"
+  },
+  {
+    "id": "product-204",
+    "slug": "12-pcs-wb-9506-weibo-sky-blue-celeste-204",
+    "name": "12 PCS WB 9506 WEIBO SKY BLUE CELESTE",
+    "category": "Otros",
+    "description": "Encuentra 12 PCS WB 9506 WEIBO SKY BLUE CELESTE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/12-pcs-wb-9506-weibo-sky-blue-celeste-204.png"
+  },
+  {
+    "id": "product-205",
+    "slug": "sticky-notes-100-sheets-3x3inch-76-76mm-205",
+    "name": "STICKY NOTES 100 SHEETS 3X3INCH 76*76MM",
+    "category": "Otros",
+    "description": "Encuentra STICKY NOTES 100 SHEETS 3X3INCH 76*76MM para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/sticky-notes-100-sheets-3x3inch-76-76mm-205.webp"
+  },
+  {
+    "id": "product-206",
+    "slug": "sticky-notes-100-sheets-3x3inch-76-76mm-corazon-heart-206",
+    "name": "STICKY NOTES 100 SHEETS 3X3INCH 76*76MM CORAZON HEART",
+    "category": "Otros",
+    "description": "Encuentra STICKY NOTES 100 SHEETS 3X3INCH 76*76MM CORAZON HEART para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/sticky-notes-100-sheets-3x3inch-76-76mm-corazon-heart-206.png"
+  },
+  {
+    "id": "product-207",
+    "slug": "cinta-masking-tape-multiuso-500-18mmx22-86m-3-7-x25yds-207",
+    "name": "CINTA MASKING TAPE MULTIUSO 500 18MMX22.86M 3/7\"X25yds",
+    "category": "Otros",
+    "description": "Encuentra CINTA MASKING TAPE MULTIUSO 500 18MMX22.86M 3/7\"X25yds para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-masking-tape-multiuso-500-18mmx22-86m-3-7-x25yds-207.jpg"
+  },
+  {
+    "id": "product-208",
+    "slug": "reloj-cronometro-temporizador-bossney-bs-k2554-208",
+    "name": "RELOJ CRONOMETRO TEMPORIZADOR BOSSNEY BS K2554",
+    "category": "Otros",
+    "description": "Encuentra RELOJ CRONOMETRO TEMPORIZADOR BOSSNEY BS K2554 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/reloj-cronometro-temporizador-bossney-bs-k2554-208.png"
+  },
+  {
+    "id": "product-209",
+    "slug": "mini-linterna-llavero-con-luz-led-recargable-209",
+    "name": "MINI LINTERNA LLAVERO CON LUZ LED RECARGABLE",
+    "category": "Otros",
+    "description": "Encuentra MINI LINTERNA LLAVERO CON LUZ LED RECARGABLE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mini-linterna-llavero-con-luz-led-recargable-209.jpg"
+  },
+  {
+    "id": "product-210",
+    "slug": "linterna-detector-billetes-uv-ultravioleta-zoom-395nm-recargable-210",
+    "name": "Linterna Detector Billetes Uv Ultravioleta Zoom 395nm Recargable",
+    "category": "Otros",
+    "description": "Encuentra Linterna Detector Billetes Uv Ultravioleta Zoom 395nm Recargable para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/linterna-detector-billetes-uv-ultravioleta-zoom-395nm-recargable-210.webp"
+  },
+  {
+    "id": "product-211",
+    "slug": "linterna-ewtoo-tipo-lapicero-de-bolsillo-portatil-potente-ewtto-etf8238-211",
+    "name": "Linterna Ewtoo Tipo Lapicero De Bolsillo Portatil Potente EWTTO ETF8238",
+    "category": "Otros",
+    "description": "Encuentra Linterna Ewtoo Tipo Lapicero De Bolsillo Portatil Potente EWTTO ETF8238 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/linterna-ewtoo-tipo-lapicero-de-bolsillo-portatil-potente-ewtto-etf8238-211.jpg"
+  },
+  {
+    "id": "product-212",
+    "slug": "organizador-de-cable-clips-6-piezas-212",
+    "name": "ORGANIZADOR DE CABLE CLIPS 6 PIEZAS",
+    "category": "Cables",
+    "description": "Cable ORGANIZADOR DE CABLE CLIPS 6 PIEZAS pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/organizador-de-cable-clips-6-piezas-212.jpg"
+  },
+  {
+    "id": "product-213",
+    "slug": "organizador-de-cable-cc949-cable-clips-set-213",
+    "name": "ORGANIZADOR DE CABLE CC949 CABLE CLIPS SET",
+    "category": "Cables",
+    "description": "Cable ORGANIZADOR DE CABLE CC949 CABLE CLIPS SET pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/organizador-de-cable-cc949-cable-clips-set-213.jpg"
+  },
+  {
+    "id": "product-214",
+    "slug": "mini-linterna-led-cob-zoom-aleacion-de-aluminio-exterior-usb-recargable-telescopico-linterna-buytiti-sd-563-214",
+    "name": "mini linterna LED COB+ZOOM aleación de aluminio exterior USB recargable telescópico linterna BUYTITI SD-563",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: mini linterna LED COB+ZOOM aleación de aluminio exterior USB recargable telescópico linterna BUYTITI SD-563.",
+    "image": "/products/real/mini-linterna-led-cob-zoom-aleacion-de-aluminio-exterior-usb-recargable-telescopico-linterna-buytiti-sd-563-214.jpg"
+  },
+  {
+    "id": "product-215",
+    "slug": "etiquetas-de-oferta-215",
+    "name": "ETIQUETAS DE OFERTA",
+    "category": "Otros",
+    "description": "Encuentra ETIQUETAS DE OFERTA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/etiquetas-de-oferta-215.jpg"
+  },
+  {
+    "id": "product-216",
+    "slug": "gancho-adhesivo-de-pared-juxin-216",
+    "name": "GANCHO ADHESIVO DE PARED JUXIN",
+    "category": "Redes",
+    "description": "Conecta tus equipos y mejora tu red con GANCHO ADHESIVO DE PARED JUXIN.",
+    "image": "/products/real/gancho-adhesivo-de-pared-juxin-216.jpg"
+  },
+  {
+    "id": "product-217",
+    "slug": "cutter-grande-217",
+    "name": "CUTTER GRANDE",
+    "category": "Otros",
+    "description": "Encuentra CUTTER GRANDE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cutter-grande-217.jpg"
+  },
+  {
+    "id": "product-218",
+    "slug": "imanes-relajantes-de-juguete-plancha-sets-218",
+    "name": "IMANES RELAJANTES DE JUGUETE PLANCHA SETS",
+    "category": "Otros",
+    "description": "Encuentra IMANES RELAJANTES DE JUGUETE PLANCHA SETS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/imanes-relajantes-de-juguete-plancha-sets-218.png"
+  },
+  {
+    "id": "product-219",
+    "slug": "tijera-de-precision-n-5-219",
+    "name": "TIJERA DE PRECISION N° 5",
+    "category": "Otros",
+    "description": "Encuentra TIJERA DE PRECISION N° 5 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tijera-de-precision-n-5-219.jpg"
+  },
+  {
+    "id": "product-220",
+    "slug": "sacacorcho-abridor-de-vino-220",
+    "name": "SACACORCHO ABRIDOR DE VINO",
+    "category": "Otros",
+    "description": "Encuentra SACACORCHO ABRIDOR DE VINO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/sacacorcho-abridor-de-vino-220.png"
+  },
+  {
+    "id": "product-221",
+    "slug": "sacacorcho-de-alas-azul-tornillero-acero-templado-palanca-suave-221",
+    "name": "SACACORCHO DE ALAS AZUL TORNILLERO ACERO TEMPLADO PALANCA SUAVE",
+    "category": "Otros",
+    "description": "Encuentra SACACORCHO DE ALAS AZUL TORNILLERO ACERO TEMPLADO PALANCA SUAVE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/sacacorcho-de-alas-azul-tornillero-acero-templado-palanca-suave-221.webp"
+  },
+  {
+    "id": "product-222",
+    "slug": "encendedor-de-cocina-gas-recargable-3-222",
+    "name": "ENCENDEDOR DE COCINA GAS RECARGABLE 3",
+    "category": "Otros",
+    "description": "Encuentra ENCENDEDOR DE COCINA GAS RECARGABLE 3 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/encendedor-de-cocina-gas-recargable-3-222.png"
+  },
+  {
+    "id": "product-223",
+    "slug": "encendedor-electrico-recargable-223",
+    "name": "ENCENDEDOR ELECTRICO RECARGABLE",
+    "category": "Otros",
+    "description": "Encuentra ENCENDEDOR ELECTRICO RECARGABLE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/encendedor-electrico-recargable-223.avif"
+  },
+  {
+    "id": "product-224",
+    "slug": "lazos-de-regalo-x10u-colores-varios-224",
+    "name": "LAZOS DE REGALO X10U COLORES VARIOS",
+    "category": "Otros",
+    "description": "Encuentra LAZOS DE REGALO X10U COLORES VARIOS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/lazos-de-regalo-x10u-colores-varios-224.jpg"
+  },
+  {
+    "id": "product-225",
+    "slug": "cargador-romax-6-2a-66w-tcc0622-225",
+    "name": "CARGADOR ROMAX 6.2A 66W TCC0622",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR ROMAX 6.2A 66W TCC0622 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-romax-6-2a-66w-tcc0622-225.avif"
+  },
+  {
+    "id": "product-226",
+    "slug": "cargador-de-celular-para-auto-10a-80w-tcc0522-cigarrera-romax-226",
+    "name": "CARGADOR DE CELULAR PARA AUTO 10A 80W TCC0522 CIGARRERA ROMAX",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE CELULAR PARA AUTO 10A 80W TCC0522 CIGARRERA ROMAX ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-celular-para-auto-10a-80w-tcc0522-cigarrera-romax-226.jpg"
+  },
+  {
+    "id": "product-227",
+    "slug": "cable-romax-tipo-c-6a-66w-tcd0691-227",
+    "name": "CABLE ROMAX TIPO C 6A 66W TCD0691",
+    "category": "Cables",
+    "description": "Cable CABLE ROMAX TIPO C 6A 66W TCD0691 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-romax-tipo-c-6a-66w-tcd0691-227.jpg"
+  },
+  {
+    "id": "product-228",
+    "slug": "cargador-de-celular-para-auto-cigarrera-redd-7-2a-87w-rd-4063pd-228",
+    "name": "CARGADOR DE CELULAR PARA AUTO CIGARRERA REDD 7.2A 87W RD 4063PD",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE CELULAR PARA AUTO CIGARRERA REDD 7.2A 87W RD 4063PD ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-celular-para-auto-cigarrera-redd-7-2a-87w-rd-4063pd-228.jpg"
+  },
+  {
+    "id": "product-229",
+    "slug": "teclado-usb-standard-halion-ha-k390-229",
+    "name": "TECLADO USB STANDARD HALION HA-K390",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: TECLADO USB STANDARD HALION HA-K390.",
+    "image": "/products/real/teclado-usb-standard-halion-ha-k390-229.webp"
+  },
+  {
+    "id": "product-230",
+    "slug": "teclado-para-ofina-usb-rm-k15-ramko-230",
+    "name": "TECLADO PARA OFINA USB RM-K15 RAMKO",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: TECLADO PARA OFINA USB RM-K15 RAMKO.",
+    "image": "/products/real/teclado-para-ofina-usb-rm-k15-ramko-230.webp"
+  },
+  {
+    "id": "product-231",
+    "slug": "microfono-maxtron-singer-mx-708-wl-231",
+    "name": "Microfono Maxtron Singer - MX 708 WL",
+    "category": "Otros",
+    "description": "Encuentra Microfono Maxtron Singer - MX 708 WL para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/microfono-maxtron-singer-mx-708-wl-231.webp"
+  },
+  {
+    "id": "product-232",
+    "slug": "audifonos-auricular-lentes-de-sol-bluetooh-gafas-k300-azul-232",
+    "name": "Audifonos Auricular Lentes de Sol Bluetooh Gafas k300 azul",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Audifonos Auricular Lentes de Sol Bluetooh Gafas k300 azul, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-auricular-lentes-de-sol-bluetooh-gafas-k300-azul-232.jpg"
+  },
+  {
+    "id": "product-233",
+    "slug": "microfono-dinamico-inalambrico-para-parlantes-karaoke-eventos-conferencias-receptor-sanci-sch8017-233",
+    "name": "Microfono Dinamico Inalambrico para Parlantes Karaoke Eventos Conferencias Receptor SANCI sch8017",
+    "category": "Otros",
+    "description": "Encuentra Microfono Dinamico Inalambrico para Parlantes Karaoke Eventos Conferencias Receptor SANCI sch8017 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/microfono-dinamico-inalambrico-para-parlantes-karaoke-eventos-conferencias-receptor-sanci-sch8017-233.jpg"
+  },
+  {
+    "id": "product-234",
+    "slug": "bolso-para-bicicleta-porta-celular-estuche-impermeable-234",
+    "name": "Bolso para Bicicleta - Porta Celular - Estuche Impermeable",
+    "category": "Otros",
+    "description": "Encuentra Bolso para Bicicleta - Porta Celular - Estuche Impermeable para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bolso-para-bicicleta-porta-celular-estuche-impermeable-234.png"
+  },
+  {
+    "id": "product-235",
+    "slug": "soporte-de-coche-telescopico-giratorio-xo-c146-235",
+    "name": "Soporte de Coche Telescopico Giratorio XO C146",
+    "category": "Otros",
+    "description": "Encuentra Soporte de Coche Telescopico Giratorio XO C146 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-de-coche-telescopico-giratorio-xo-c146-235.avif"
+  },
+  {
+    "id": "product-236",
+    "slug": "soporte-de-celular-360-para-auto-de-tableros-y-parabrisas-brysoon-236",
+    "name": "Soporte De Celular 360° Para Auto De Tableros Y Parabrisas Brysoon",
+    "category": "Otros",
+    "description": "Encuentra Soporte De Celular 360° Para Auto De Tableros Y Parabrisas Brysoon para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-de-celular-360-para-auto-de-tableros-y-parabrisas-brysoon-236.webp"
+  },
+  {
+    "id": "product-237",
+    "slug": "xiaomi-sound-pocket-parlante-portatil-5w-ip67-de-hasta-10-horas-bk-237",
+    "name": "Xiaomi Sound Pocket Parlante Portátil 5W IP67 de hasta 10 horas - BK",
+    "category": "Otros",
+    "description": "Encuentra Xiaomi Sound Pocket Parlante Portátil 5W IP67 de hasta 10 horas - BK para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/xiaomi-sound-pocket-parlante-portatil-5w-ip67-de-hasta-10-horas-bk-237.jpg"
+  },
+  {
+    "id": "product-238",
+    "slug": "microfono-alambrico-e-inalambrico-maxtron-beats-mx600-238",
+    "name": "MICRÓFONO ALÁMBRICO E INALÁMBRICO MAXTRON BEATS MX600",
+    "category": "Otros",
+    "description": "Encuentra MICRÓFONO ALÁMBRICO E INALÁMBRICO MAXTRON BEATS MX600 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/microfono-alambrico-e-inalambrico-maxtron-beats-mx600-238.jpg"
+  },
+  {
+    "id": "product-239",
+    "slug": "supresor-de-picos-opalux-de-90cm-6-tomas-14-515ab-0-9m-239",
+    "name": "Supresor de picos Opalux de 90cm 6 tomas 14-515AB-0.9M",
+    "category": "Extensiones",
+    "description": "Más alcance y comodidad para tus conexiones con Supresor de picos Opalux de 90cm 6 tomas 14-515AB-0.9M.",
+    "image": "/products/real/supresor-de-picos-opalux-de-90cm-6-tomas-14-515ab-0-9m-239.jpg"
+  },
+  {
+    "id": "product-240",
+    "slug": "teclado-enkore-gospel-enk-300-240",
+    "name": "Teclado Enkore Gospel ENK 300",
+    "category": "Otros",
+    "description": "Encuentra Teclado Enkore Gospel ENK 300 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/teclado-enkore-gospel-enk-300-240.jpg"
+  },
+  {
+    "id": "product-241",
+    "slug": "ventilador-portatil-para-escritorio-recargable-241",
+    "name": "Ventilador Portátil Para Escritorio Recargable",
+    "category": "Otros",
+    "description": "Encuentra Ventilador Portátil Para Escritorio Recargable para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/ventilador-portatil-para-escritorio-recargable-241.jpg"
+  },
+  {
+    "id": "product-242",
+    "slug": "linterna-tactica-led-multifuncion-bossney-bs-l3311-tg-242",
+    "name": "LINTERNA TACTICA LED MULTIFUNCION BOSSNEY BS-L3311-TG",
+    "category": "Otros",
+    "description": "Encuentra LINTERNA TACTICA LED MULTIFUNCION BOSSNEY BS-L3311-TG para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/linterna-tactica-led-multifuncion-bossney-bs-l3311-tg-242.jpg"
+  },
+  {
+    "id": "product-243",
+    "slug": "linterna-led-recargable-zoom-et-f8903-25000w-243",
+    "name": "Linterna Led Recargable Zoom ET-F8903-25000W",
+    "category": "Otros",
+    "description": "Encuentra Linterna Led Recargable Zoom ET-F8903-25000W para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/linterna-led-recargable-zoom-et-f8903-25000w-243.png"
+  },
+  {
+    "id": "product-244",
+    "slug": "foco-qx-18-portiza-244",
+    "name": "FOCO QX 18 PORTIZA",
+    "category": "Otros",
+    "description": "Encuentra FOCO QX 18 PORTIZA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-qx-18-portiza-244.jpg"
+  },
+  {
+    "id": "product-245",
+    "slug": "foco-qx-30-portiza-245",
+    "name": "FOCO QX 30 PORTIZA",
+    "category": "Otros",
+    "description": "Encuentra FOCO QX 30 PORTIZA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-qx-30-portiza-245.png"
+  },
+  {
+    "id": "product-246",
+    "slug": "foco-qb-15-portiza-246",
+    "name": "FOCO QB 15 PORTIZA",
+    "category": "Otros",
+    "description": "Encuentra FOCO QB 15 PORTIZA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-qb-15-portiza-246.jpg"
+  },
+  {
+    "id": "product-247",
+    "slug": "foco-dixon-7w-247",
+    "name": "FOCO DIXON 7W",
+    "category": "Otros",
+    "description": "Encuentra FOCO DIXON 7W para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-dixon-7w-247.webp"
+  },
+  {
+    "id": "product-248",
+    "slug": "foco-opalux-5w-248",
+    "name": "FOCO OPALUX  5W",
+    "category": "Otros",
+    "description": "Encuentra FOCO OPALUX  5W para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-opalux-5w-248.jpg"
+  },
+  {
+    "id": "product-249",
+    "slug": "foco-opalux-15w-249",
+    "name": "FOCO OPALUX 15W",
+    "category": "Otros",
+    "description": "Encuentra FOCO OPALUX 15W para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-opalux-15w-249.png"
+  },
+  {
+    "id": "product-250",
+    "slug": "foco-opalux-20w-250",
+    "name": "FOCO OPALUX 20W",
+    "category": "Otros",
+    "description": "Encuentra FOCO OPALUX 20W para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-opalux-20w-250.png"
+  },
+  {
+    "id": "product-251",
+    "slug": "folder-manila-a4-251",
+    "name": "FOLDER MANILA A4",
+    "category": "Otros",
+    "description": "Encuentra FOLDER MANILA A4 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/folder-manila-a4-251.avif"
+  },
+  {
+    "id": "product-252",
+    "slug": "sobre-manila-a4-252",
+    "name": "SOBRE MANILA A4",
+    "category": "Otros",
+    "description": "Encuentra SOBRE MANILA A4 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/sobre-manila-a4-252.webp"
+  },
+  {
+    "id": "product-253",
+    "slug": "mica-transaparente-a4-253",
+    "name": "MICA TRANSAPARENTE A4",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con MICA TRANSAPARENTE A4, pensado para el uso diario.",
+    "image": "/products/real/mica-transaparente-a4-253.jpg"
+  },
+  {
+    "id": "product-254",
+    "slug": "mica-oficio-legal-a3-transparente-254",
+    "name": "MICA OFICIO LEGAL A3 TRANSPARENTE",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con MICA OFICIO LEGAL A3 TRANSPARENTE, pensado para el uso diario.",
+    "image": "/products/real/mica-oficio-legal-a3-transparente-254.jpg"
+  },
+  {
+    "id": "product-255",
+    "slug": "sobre-manila-legal-a3-255",
+    "name": "SOBRE MANILA LEGAL A3",
+    "category": "Otros",
+    "description": "Encuentra SOBRE MANILA LEGAL A3 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/sobre-manila-legal-a3-255.jpg"
+  },
+  {
+    "id": "product-256",
+    "slug": "protector-de-pantalla-android-mica-gruesa-10d-256",
+    "name": "PROTECTOR DE PANTALLA ANDROID MICA GRUESA 10D",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con PROTECTOR DE PANTALLA ANDROID MICA GRUESA 10D, pensado para el uso diario.",
+    "image": "/products/real/protector-de-pantalla-android-mica-gruesa-10d-256.webp"
+  },
+  {
+    "id": "product-257",
+    "slug": "color-ball-bluetooth-speaker-257",
+    "name": "Color Ball Bluetooth Speaker",
+    "category": "Otros",
+    "description": "Encuentra Color Ball Bluetooth Speaker para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/color-ball-bluetooth-speaker-257.webp"
+  },
+  {
+    "id": "product-258",
+    "slug": "8-5-lcd-writing-tablet-258",
+    "name": "8.5\" LCD WRITING TABLET",
+    "category": "Otros",
+    "description": "Encuentra 8.5\" LCD WRITING TABLET para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/8-5-lcd-writing-tablet-258.jpg"
+  },
+  {
+    "id": "product-259",
+    "slug": "power-bank-baby-milo-20000mah-259",
+    "name": "POWER BANK BABY MILO 20000MAH",
+    "category": "Cargadores",
+    "description": "Cargador POWER BANK BABY MILO 20000MAH ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/power-bank-baby-milo-20000mah-259.png"
+  },
+  {
+    "id": "product-260",
+    "slug": "power-bank-oso-bear-cute-bateria-portatil-260",
+    "name": "POWER BANK OSO BEAR CUTE BATERIA PORTATIL",
+    "category": "Cargadores",
+    "description": "Cargador POWER BANK OSO BEAR CUTE BATERIA PORTATIL ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/power-bank-oso-bear-cute-bateria-portatil-260.webp"
+  },
+  {
+    "id": "product-261",
+    "slug": "parlante-bluetooth-alien-x18-261",
+    "name": "Parlante Bluetooth Alien X18",
+    "category": "Otros",
+    "description": "Encuentra Parlante Bluetooth Alien X18 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/parlante-bluetooth-alien-x18-261.jpg"
+  },
+  {
+    "id": "product-262",
+    "slug": "teclado-logitech-mk120-corded-262",
+    "name": "TECLADO LOGITECH MK120 CORDED",
+    "category": "Cables",
+    "description": "Cable TECLADO LOGITECH MK120 CORDED pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/teclado-logitech-mk120-corded-262.jpg"
+  },
+  {
+    "id": "product-263",
+    "slug": "teclado-flexible-seisa-st2021-263",
+    "name": "TECLADO FLEXIBLE SEISA ST2021",
+    "category": "Otros",
+    "description": "Encuentra TECLADO FLEXIBLE SEISA ST2021 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/teclado-flexible-seisa-st2021-263.jpg"
+  },
+  {
+    "id": "product-264",
+    "slug": "pilas-aaa2-alcalina-264",
+    "name": "PILAS AAA2 ALCALINA",
+    "category": "Otros",
+    "description": "Encuentra PILAS AAA2 ALCALINA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pilas-aaa2-alcalina-264.png"
+  },
+  {
+    "id": "product-265",
+    "slug": "usb-samsung-8gb-star-wars-darth-veider-skool-265",
+    "name": "USB SAMSUNG 8GB STAR WARS DARTH VEIDER SKOOL",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: USB SAMSUNG 8GB STAR WARS DARTH VEIDER SKOOL.",
+    "image": "/products/real/usb-samsung-8gb-star-wars-darth-veider-skool-265.webp"
+  },
+  {
+    "id": "product-266",
+    "slug": "usb-samsung-8gb-avengers-captain-america-skool-266",
+    "name": "USB SAMSUNG 8GB AVENGERS CAPTAIN AMERICA SKOOL",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: USB SAMSUNG 8GB AVENGERS CAPTAIN AMERICA SKOOL.",
+    "image": "/products/real/usb-samsung-8gb-avengers-captain-america-skool-266.jpg"
+  },
+  {
+    "id": "product-267",
+    "slug": "ear-buds-avengers-267",
+    "name": "EAR BUDS AVENGERS",
+    "category": "Otros",
+    "description": "Encuentra EAR BUDS AVENGERS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/ear-buds-avengers-267.png"
+  },
+  {
+    "id": "product-268",
+    "slug": "3-5-mm-metallic-splitter-flat-cable-radioshack-268",
+    "name": "3.5 MM METALLIC SPLITTER FLAT CABLE RADIOSHACK",
+    "category": "Cables",
+    "description": "Cable 3.5 MM METALLIC SPLITTER FLAT CABLE RADIOSHACK pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/3-5-mm-metallic-splitter-flat-cable-radioshack-268.png"
+  },
+  {
+    "id": "product-269",
+    "slug": "ewtto-2-en-1-soporte-y-cargador-de-auto-etd7453b-269",
+    "name": "EWTTO 2 EN 1 SOPORTE Y CARGADOR DE AUTO ETD7453B",
+    "category": "Cargadores",
+    "description": "Cargador EWTTO 2 EN 1 SOPORTE Y CARGADOR DE AUTO ETD7453B ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/ewtto-2-en-1-soporte-y-cargador-de-auto-etd7453b-269.webp"
+  },
+  {
+    "id": "product-270",
+    "slug": "cable-baseus-display-cable-usc-tipo-c-5a-catsk-01-270",
+    "name": "CABLE BASEUS DISPLAY CABLE USC TIPO C 5A CATSK 01",
+    "category": "Cables",
+    "description": "Cable CABLE BASEUS DISPLAY CABLE USC TIPO C 5A CATSK 01 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-baseus-display-cable-usc-tipo-c-5a-catsk-01-270.jpg"
+  },
+  {
+    "id": "product-271",
+    "slug": "teclado-gamer-de-una-mano-yelandar-jx-k7-35-teclas-led-rgb-ergonomico-271",
+    "name": "Teclado Gamer de una Mano, Yelandar JX-K7, 35 Teclas LED RGB ergonómico",
+    "category": "Otros",
+    "description": "Encuentra Teclado Gamer de una Mano, Yelandar JX-K7, 35 Teclas LED RGB ergonómico para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/teclado-gamer-de-una-mano-yelandar-jx-k7-35-teclas-led-rgb-ergonomico-271.webp"
+  },
+  {
+    "id": "product-272",
+    "slug": "estabilizador-de-voltaje-power-lite-pulsar-pli-1000-8-tomas-272",
+    "name": "Estabilizador de Voltaje Power Lite pulsar PLI 1000 8 Tomas",
+    "category": "Extensiones",
+    "description": "Más alcance y comodidad para tus conexiones con Estabilizador de Voltaje Power Lite pulsar PLI 1000 8 Tomas.",
+    "image": "/products/real/estabilizador-de-voltaje-power-lite-pulsar-pli-1000-8-tomas-272.avif"
+  },
+  {
+    "id": "product-273",
+    "slug": "power-bank-romax-10000-mah-tcp0129-273",
+    "name": "POWER BANK ROMAX 10000 MAH TCP0129",
+    "category": "Cargadores",
+    "description": "Cargador POWER BANK ROMAX 10000 MAH TCP0129 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/power-bank-romax-10000-mah-tcp0129-273.jpg"
+  },
+  {
+    "id": "product-274",
+    "slug": "power-bank-remax-rpp-10-negro-10000mah-carga-rapida-274",
+    "name": "Power Bank Remax RPP-10 Negro 10000mAh Carga rápida",
+    "category": "Cargadores",
+    "description": "Cargador Power Bank Remax RPP-10 Negro 10000mAh Carga rápida ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/power-bank-remax-rpp-10-negro-10000mah-carga-rapida-274.jpg"
+  },
+  {
+    "id": "product-275",
+    "slug": "power-bank-xiaomi-20000-mah-18w-carga-rapida-275",
+    "name": "Power Bank Xiaomi 20000 mAh 18W Carga Rapida",
+    "category": "Cargadores",
+    "description": "Cargador Power Bank Xiaomi 20000 mAh 18W Carga Rapida ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/power-bank-xiaomi-20000-mah-18w-carga-rapida-275.jpg"
+  },
+  {
+    "id": "product-276",
+    "slug": "bicycle-holder-bicycle-mount-tch046-276",
+    "name": "Bicycle Holder / Bicycle Mount TCH046",
+    "category": "Otros",
+    "description": "Encuentra Bicycle Holder / Bicycle Mount TCH046 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bicycle-holder-bicycle-mount-tch046-276.avif"
+  },
+  {
+    "id": "product-277",
+    "slug": "power-bank-movisun-rocket-x22-277",
+    "name": "POWER BANK MOVISUN ROCKET X22",
+    "category": "Cargadores",
+    "description": "Cargador POWER BANK MOVISUN ROCKET X22 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/power-bank-movisun-rocket-x22-277.png"
+  },
+  {
+    "id": "product-278",
+    "slug": "audifonos-pro-5s-278",
+    "name": "AUDIFONOS PRO 5S",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS PRO 5S, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-pro-5s-278.webp"
+  },
+  {
+    "id": "product-279",
+    "slug": "cargadores-miccell-tipo-c-vq-t-06-279",
+    "name": "CARGADORES MICCELL TIPO C VQ T 06",
+    "category": "Cargadores",
+    "description": "Cargador CARGADORES MICCELL TIPO C VQ T 06 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargadores-miccell-tipo-c-vq-t-06-279.jpg"
+  },
+  {
+    "id": "product-280",
+    "slug": "soporte-para-moto-bicicleta-buytiti-sop-1059-280",
+    "name": "SOPORTE PARA MOTO BICICLETA BUYTITI SOP 1059",
+    "category": "Otros",
+    "description": "Encuentra SOPORTE PARA MOTO BICICLETA BUYTITI SOP 1059 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-para-moto-bicicleta-buytiti-sop-1059-280.jpg"
+  },
+  {
+    "id": "product-281",
+    "slug": "soporte-para-moto-bicicleta-redd-rd-721h-281",
+    "name": "SOPORTE PARA MOTO BICICLETA REDD RD 721H",
+    "category": "Redes",
+    "description": "Conecta tus equipos y mejora tu red con SOPORTE PARA MOTO BICICLETA REDD RD 721H.",
+    "image": "/products/real/soporte-para-moto-bicicleta-redd-rd-721h-281.png"
+  },
+  {
+    "id": "product-282",
+    "slug": "soporte-de-celular-para-auto-redd-rd-717h-282",
+    "name": "SOPORTE DE CELULAR PARA AUTO REDD RD 717H",
+    "category": "Redes",
+    "description": "Conecta tus equipos y mejora tu red con SOPORTE DE CELULAR PARA AUTO REDD RD 717H.",
+    "image": "/products/real/soporte-de-celular-para-auto-redd-rd-717h-282.avif"
+  },
+  {
+    "id": "product-283",
+    "slug": "soporte-universal-ajustable-360-para-auto-car-mount-universal-360-adjustable-holder-283",
+    "name": "Soporte Universal Ajustable 360° para Auto | Car Mount Universal 360° Adjustable Holder",
+    "category": "Otros",
+    "description": "Encuentra Soporte Universal Ajustable 360° para Auto | Car Mount Universal 360° Adjustable Holder para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-universal-ajustable-360-para-auto-car-mount-universal-360-adjustable-holder-283.avif"
+  },
+  {
+    "id": "product-284",
+    "slug": "powerbank-bateria-portatil-tcp115-20000-mah-no1-284",
+    "name": "POWERBANK BATERIA PORTATIL TCP115 20000 MAH NO1",
+    "category": "Cargadores",
+    "description": "Cargador POWERBANK BATERIA PORTATIL TCP115 20000 MAH NO1 ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/powerbank-bateria-portatil-tcp115-20000-mah-no1-284.jpg"
+  },
+  {
+    "id": "product-285",
+    "slug": "antivirus-eset-nod32-1-ano-licencia-original-1-equipo-285",
+    "name": "ANTIVIRUS ESET NOD32 1 AÑO LICENCIA ORIGINAL 1 EQUIPO",
+    "category": "Otros",
+    "description": "Encuentra ANTIVIRUS ESET NOD32 1 AÑO LICENCIA ORIGINAL 1 EQUIPO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/antivirus-eset-nod32-1-ano-licencia-original-1-equipo-285.jpg"
+  },
+  {
+    "id": "product-286",
+    "slug": "cable-usb-tipo-c-a-usb-de-30w-ldnio-ls671-286",
+    "name": "Cable USB Tipo C a USB de 30W LDNIO LS671",
+    "category": "Cables",
+    "description": "Cable Cable USB Tipo C a USB de 30W LDNIO LS671 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-usb-tipo-c-a-usb-de-30w-ldnio-ls671-286.jpg"
+  },
+  {
+    "id": "product-287",
+    "slug": "controlador-de-video-con-huella-dactilar-para-telefono-movil-dispositivo-de-control-remoto-con-giro-de-pagina-de-video-corta-ble-m3-nuevo-287",
+    "name": "Controlador de vídeo con huella dactilar para teléfono móvil, dispositivo de Control remoto con giro de página de vídeo corta, BLE-M3, nuevo",
+    "category": "Otros",
+    "description": "Encuentra Controlador de vídeo con huella dactilar para teléfono móvil, dispositivo de Control remoto con giro de página de vídeo corta, BLE-M3, nuevo para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/controlador-de-video-con-huella-dactilar-para-telefono-movil-dispositivo-de-control-remoto-con-giro-de-pagina-de-video-corta-ble-m3-nuevo-287.jpg"
+  },
+  {
+    "id": "product-288",
+    "slug": "cargador-miccell-vq-t17-de-18w-tipo-a-288",
+    "name": "Cargador Miccell VQ-T17 DE 18W tipo A",
+    "category": "Cargadores",
+    "description": "Cargador Cargador Miccell VQ-T17 DE 18W tipo A ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-miccell-vq-t17-de-18w-tipo-a-288.jpg"
+  },
+  {
+    "id": "product-289",
+    "slug": "adaptador-de-corriente-baseus-quick-charger-si-tipo-c-289",
+    "name": "ADAPTADOR DE CORRIENTE BASEUS QUICK CHARGER SI TIPO C",
+    "category": "Cargadores",
+    "description": "Cargador ADAPTADOR DE CORRIENTE BASEUS QUICK CHARGER SI TIPO C ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/adaptador-de-corriente-baseus-quick-charger-si-tipo-c-289.jpg"
+  },
+  {
+    "id": "product-290",
+    "slug": "cargador-ldnio-a2317-30w-usb-c-pd-usb-adaptador-de-pared-290",
+    "name": "Cargador Ldnio A2317 30w Usb-c Pd + Usb Adaptador De Pared",
+    "category": "Cargadores",
+    "description": "Cargador Cargador Ldnio A2317 30w Usb-c Pd + Usb Adaptador De Pared ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-ldnio-a2317-30w-usb-c-pd-usb-adaptador-de-pared-290.jpg"
+  },
+  {
+    "id": "product-291",
+    "slug": "cargador-vex-para-celular-3-1a-usb-type-c-2-puertos-tipo-c-291",
+    "name": "CARGADOR VEX PARA CELULAR 3.1A USB TYPE C (2 PUERTOS) TIPO C",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR VEX PARA CELULAR 3.1A USB TYPE C (2 PUERTOS) TIPO C ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-vex-para-celular-3-1a-usb-type-c-2-puertos-tipo-c-291.webp"
+  },
+  {
+    "id": "product-292",
+    "slug": "cargador-de-celular-para-auto-redd-5-8a-55w-292",
+    "name": "CARGADOR DE CELULAR PARA AUTO REDD 5.8A 55W",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DE CELULAR PARA AUTO REDD 5.8A 55W ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-de-celular-para-auto-redd-5-8a-55w-292.jpg"
+  },
+  {
+    "id": "product-293",
+    "slug": "cargador-usb-pd-de-120w-5-puertos-2usb-a-3usb-c-pd-qc3-0-adaptador-de-carga-rapida-de-pared-enchufe-de-ue-enchufe-de-ee-uu-para-iphone-15-14-13-pro-para-samsung-galaxy-z-flip6-para-huawei-nova-flip-para-xiaomi-civi-4pro-enchufe-blanco-y-eu-293",
+    "name": "Cargador USB PD de 120W 5 puertos 2USB-A + 3USB-C PD QC3.0 Adaptador de carga rápida de pared Enchufe de UE Enchufe de EE. UU. para iPhone 15 14 13 Pro para Samsung Galaxy Z Flip6 para Huawei Nova Flip para Xiaomi Civi 4Pro - enchufe blanco y eu",
+    "category": "Cargadores",
+    "description": "Cargador Cargador USB PD de 120W 5 puertos 2USB-A + 3USB-C PD QC3.0 Adaptador de carga rápida de pared Enchufe de UE Enchufe de EE. UU. para iPhone 15 14 13 Pro para Samsung Galaxy Z Flip6 para Huawei Nova Flip para Xiaomi Civi 4Pro - enchufe blanco y eu ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-usb-pd-de-120w-5-puertos-2usb-a-3usb-c-pd-qc3-0-adaptador-de-carga-rapida-de-pared-enchufe-de-ue-enchufe-de-ee-uu-para-iphone-15-14-13-pro-para-samsung-galaxy-z-flip6-para-huawei-nova-flip-para-xiaomi-civi-4pro-enchufe-blanco-y-eu-293.png"
+  },
+  {
+    "id": "product-294",
+    "slug": "audifonos-borofone-m30-max-tipo-c-294",
+    "name": "Audifonos Borofone M30 Max Tipo C",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Audifonos Borofone M30 Max Tipo C, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-borofone-m30-max-tipo-c-294.jpg"
+  },
+  {
+    "id": "product-295",
+    "slug": "cable-redd-6-2a-60w-tipo-c-295",
+    "name": "CABLE REDD 6.2A 60W TIPO C",
+    "category": "Cables",
+    "description": "Cable CABLE REDD 6.2A 60W TIPO C pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-redd-6-2a-60w-tipo-c-295.jpg"
+  },
+  {
+    "id": "product-296",
+    "slug": "cable-microusb-hello-kitty-romax-296",
+    "name": "CABLE MICROUSB HELLO KITTY ROMAX",
+    "category": "Cables",
+    "description": "Cable CABLE MICROUSB HELLO KITTY ROMAX pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-microusb-hello-kitty-romax-296.webp"
+  },
+  {
+    "id": "product-297",
+    "slug": "cable-usb-3-1-macho-a-micro-b-para-disco-duro-externo-hdd-azul-297",
+    "name": "Cable USB 3.1 Macho A Micro B Para Disco Duro Externo Hdd Azul",
+    "category": "Cables",
+    "description": "Cable Cable USB 3.1 Macho A Micro B Para Disco Duro Externo Hdd Azul pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-usb-3-1-macho-a-micro-b-para-disco-duro-externo-hdd-azul-297.jpg"
+  },
+  {
+    "id": "product-298",
+    "slug": "cable-usb-usb-azul-3-0-298",
+    "name": "CABLE USB - USB AZUL 3.0",
+    "category": "Cables",
+    "description": "Cable CABLE USB - USB AZUL 3.0 pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-usb-usb-azul-3-0-298.jpg"
+  },
+  {
+    "id": "product-299",
+    "slug": "cable-tipoc-150w-120w-299",
+    "name": "CABLE TIPOC 150W - 120W",
+    "category": "Cables",
+    "description": "Cable CABLE TIPOC 150W - 120W pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-tipoc-150w-120w-299.png"
+  },
+  {
+    "id": "product-300",
+    "slug": "car-holder-3-en-1-para-telefono-y-montaje-para-automovile-300",
+    "name": "car holder 3 en 1 para telefono y montaje para automovile",
+    "category": "Otros",
+    "description": "Encuentra car holder 3 en 1 para telefono y montaje para automovile para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/car-holder-3-en-1-para-telefono-y-montaje-para-automovile-300.jpg"
+  },
+  {
+    "id": "product-301",
+    "slug": "tripode-portatil-celular-parante-celular-301",
+    "name": "Trípode Portátil Celular | Parante Celular",
+    "category": "Otros",
+    "description": "Encuentra Trípode Portátil Celular | Parante Celular para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tripode-portatil-celular-parante-celular-301.jpg"
+  },
+  {
+    "id": "product-302",
+    "slug": "protector-de-pantalla-9h-safe-mica-302",
+    "name": "PROTECTOR DE PANTALLA 9H SAFE MICA",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con PROTECTOR DE PANTALLA 9H SAFE MICA, pensado para el uso diario.",
+    "image": "/products/real/protector-de-pantalla-9h-safe-mica-302.avif"
+  },
+  {
+    "id": "product-303",
+    "slug": "tinta-para-impresora-epson-504-cian-magenta-amarillo-y-negro-computintes-303",
+    "name": "TINTA PARA IMPRESORA EPSON 504 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES",
+    "category": "Otros",
+    "description": "Encuentra TINTA PARA IMPRESORA EPSON 504 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-para-impresora-epson-504-cian-magenta-amarillo-y-negro-computintes-303.jpg"
+  },
+  {
+    "id": "product-304",
+    "slug": "tinta-para-impresora-epson-544-cian-magenta-amarillo-y-negro-computintes-304",
+    "name": "TINTA PARA IMPRESORA EPSON 544 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES",
+    "category": "Otros",
+    "description": "Encuentra TINTA PARA IMPRESORA EPSON 544 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-para-impresora-epson-544-cian-magenta-amarillo-y-negro-computintes-304.jpg"
+  },
+  {
+    "id": "product-305",
+    "slug": "tinta-para-impresora-epson-t664-cian-magenta-amarillo-y-negro-topjet-305",
+    "name": "TINTA PARA IMPRESORA EPSON T664 CIAN,MAGENTA,AMARILLO Y NEGRO TOPJET",
+    "category": "Otros",
+    "description": "Encuentra TINTA PARA IMPRESORA EPSON T664 CIAN,MAGENTA,AMARILLO Y NEGRO TOPJET para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-para-impresora-epson-t664-cian-magenta-amarillo-y-negro-topjet-305.jpg"
+  },
+  {
+    "id": "product-306",
+    "slug": "tinta-para-impresora-canon-pixma-190-cian-magenta-amarillo-y-negro-306",
+    "name": "TINTA PARA IMPRESORA CANON PIXMA 190 CIAN,MAGENTA,AMARILLO Y NEGRO",
+    "category": "Otros",
+    "description": "Encuentra TINTA PARA IMPRESORA CANON PIXMA 190 CIAN,MAGENTA,AMARILLO Y NEGRO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-para-impresora-canon-pixma-190-cian-magenta-amarillo-y-negro-306.jpg"
+  },
+  {
+    "id": "product-307",
+    "slug": "tinta-epson-664-duprint-dp-cian-magenta-amarillo-y-negro-307",
+    "name": "TINTA EPSON 664 DUPRINT DP CIAN,MAGENTA,AMARILLO Y NEGRO",
+    "category": "Otros",
+    "description": "Encuentra TINTA EPSON 664 DUPRINT DP CIAN,MAGENTA,AMARILLO Y NEGRO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-epson-664-duprint-dp-cian-magenta-amarillo-y-negro-307.jpg"
+  },
+  {
+    "id": "product-308",
+    "slug": "tinta-canon-cian-magenta-amarillo-y-negro-premium-ink-308",
+    "name": "TINTA CANON CIAN,MAGENTA,AMARILLO Y NEGRO PREMIUM INK",
+    "category": "Otros",
+    "description": "Encuentra TINTA CANON CIAN,MAGENTA,AMARILLO Y NEGRO PREMIUM INK para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-canon-cian-magenta-amarillo-y-negro-premium-ink-308.jpg"
+  },
+  {
+    "id": "product-309",
+    "slug": "tinta-epson-504-negro-amarillo-magenta-y-cian-pamas-309",
+    "name": "Tinta Epson 504 - Negro , Amarillo , Magenta y Cian PAMAS",
+    "category": "Otros",
+    "description": "Encuentra Tinta Epson 504 - Negro , Amarillo , Magenta y Cian PAMAS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-epson-504-negro-amarillo-magenta-y-cian-pamas-309.webp"
+  },
+  {
+    "id": "product-310",
+    "slug": "tinta-epson-664-cian-magenta-amarillo-y-negro-ink-mate-310",
+    "name": "Tinta Epson 664 CIAN,MAGENTA,AMARILLO Y NEGRO INK MATE",
+    "category": "Otros",
+    "description": "Encuentra Tinta Epson 664 CIAN,MAGENTA,AMARILLO Y NEGRO INK MATE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-epson-664-cian-magenta-amarillo-y-negro-ink-mate-310.webp"
+  },
+  {
+    "id": "product-311",
+    "slug": "tinta-epson-664-jetlife-cian-magenta-amarillo-y-negro-311",
+    "name": "Tinta Epson 664 JetLife CIAN,MAGENTA,AMARILLO Y NEGRO",
+    "category": "Otros",
+    "description": "Encuentra Tinta Epson 664 JetLife CIAN,MAGENTA,AMARILLO Y NEGRO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-epson-664-jetlife-cian-magenta-amarillo-y-negro-311.jpg"
+  },
+  {
+    "id": "product-312",
+    "slug": "tinta-epson-original-664-negro-cian-magenta-y-amarillo-312",
+    "name": "Tinta Epson Original 664 NEGRO,CIAN,MAGENTA Y AMARILLO",
+    "category": "Otros",
+    "description": "Encuentra Tinta Epson Original 664 NEGRO,CIAN,MAGENTA Y AMARILLO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-epson-original-664-negro-cian-magenta-y-amarillo-312.webp"
+  },
+  {
+    "id": "product-313",
+    "slug": "tinta-epson-original-504-negro-cian-magenta-y-amarillo-313",
+    "name": "Tinta Epson Original 504 NEGRO , CIAN , MAGENTA Y AMARILLO",
+    "category": "Otros",
+    "description": "Encuentra Tinta Epson Original 504 NEGRO , CIAN , MAGENTA Y AMARILLO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-epson-original-504-negro-cian-magenta-y-amarillo-313.webp"
+  },
+  {
+    "id": "product-314",
+    "slug": "tinta-epson-504-544-premium-negro-cian-yellow-magenta-314",
+    "name": "Tinta Epson 504-544 Premium Negro Cian Yellow Magenta",
+    "category": "Otros",
+    "description": "Encuentra Tinta Epson 504-544 Premium Negro Cian Yellow Magenta para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-epson-504-544-premium-negro-cian-yellow-magenta-314.webp"
+  },
+  {
+    "id": "product-315",
+    "slug": "tinta-hp-magenta-cian-amarillo-negro-gt52-315",
+    "name": "TINTA HP MAGENTA , CIAN , AMARILLO NEGRO GT52",
+    "category": "Otros",
+    "description": "Encuentra TINTA HP MAGENTA , CIAN , AMARILLO NEGRO GT52 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-hp-magenta-cian-amarillo-negro-gt52-315.jpg"
+  },
+  {
+    "id": "product-316",
+    "slug": "tinta-jet-life-hgt52-cian-magenta-amarillo-y-negro-compatible-316",
+    "name": "Tinta Jet life HGT52 CIAN,MAGENTA,AMARILLO Y NEGRO - COMPATIBLE",
+    "category": "Otros",
+    "description": "Encuentra Tinta Jet life HGT52 CIAN,MAGENTA,AMARILLO Y NEGRO - COMPATIBLE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-jet-life-hgt52-cian-magenta-amarillo-y-negro-compatible-316.webp"
+  },
+  {
+    "id": "product-317",
+    "slug": "cable-hoco-u143-joy-4-en-1-usb-c-a-ip-y-tipo-c-240w-negro-317",
+    "name": "CABLE HOCO U143 JOY 4 EN 1 USB/C A IP Y TIPO-C 240W NEGRO",
+    "category": "Cables",
+    "description": "Cable CABLE HOCO U143 JOY 4 EN 1 USB/C A IP Y TIPO-C 240W NEGRO pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/cable-hoco-u143-joy-4-en-1-usb-c-a-ip-y-tipo-c-240w-negro-317.webp"
+  },
+  {
+    "id": "product-318",
+    "slug": "hub-usb-tipo-c-puertos-usb-tipo-c-y-microsd-318",
+    "name": "HUB USB TIPO C PUERTOS USB,TIPO C Y MICROSD",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: HUB USB TIPO C PUERTOS USB,TIPO C Y MICROSD.",
+    "image": "/products/real/hub-usb-tipo-c-puertos-usb-tipo-c-y-microsd-318.png"
+  },
+  {
+    "id": "product-319",
+    "slug": "hub-usb-tipo-c-puerto-ethernet-rj45-y-3-usb-319",
+    "name": "HUB USB TIPO C PUERTO ETHERNET RJ45 Y 3 USB",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: HUB USB TIPO C PUERTO ETHERNET RJ45 Y 3 USB.",
+    "image": "/products/real/hub-usb-tipo-c-puerto-ethernet-rj45-y-3-usb-319.avif"
+  },
+  {
+    "id": "product-320",
+    "slug": "hub-tipo-c-con-adaptador-usb-de-7-puertos-320",
+    "name": "HUB TIPO C CON ADAPTADOR USB DE 7 PUERTOS",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: HUB TIPO C CON ADAPTADOR USB DE 7 PUERTOS.",
+    "image": "/products/real/hub-tipo-c-con-adaptador-usb-de-7-puertos-320.webp"
+  },
+  {
+    "id": "product-321",
+    "slug": "cargador-xiaomi-120w-321",
+    "name": "CARGADOR XIAOMI 120W",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR XIAOMI 120W ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-xiaomi-120w-321.jpg"
+  },
+  {
+    "id": "product-322",
+    "slug": "calculadora-casio-de-12-digitos-negro-322",
+    "name": "Calculadora Casio De 12 Digitos Negro",
+    "category": "Otros",
+    "description": "Encuentra Calculadora Casio De 12 Digitos Negro para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/calculadora-casio-de-12-digitos-negro-322.jpg"
+  },
+  {
+    "id": "product-323",
+    "slug": "calculadora-casio-fx-991ms-323",
+    "name": "Calculadora Casio Fx 991MS",
+    "category": "Otros",
+    "description": "Encuentra Calculadora Casio Fx 991MS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/calculadora-casio-fx-991ms-323.jpg"
+  },
+  {
+    "id": "product-324",
+    "slug": "calculadora-casio-hl-815l-8-digitos-324",
+    "name": "Calculadora Casio Hl-815L 8 Dígitos",
+    "category": "Otros",
+    "description": "Encuentra Calculadora Casio Hl-815L 8 Dígitos para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/calculadora-casio-hl-815l-8-digitos-324.jpg"
+  },
+  {
+    "id": "product-325",
+    "slug": "slim-pomo-pote-yellow-sky-blue-325",
+    "name": "SLIM POMO POTE YELLOW SKY BLUE",
+    "category": "Otros",
+    "description": "Encuentra SLIM POMO POTE YELLOW SKY BLUE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/slim-pomo-pote-yellow-sky-blue-325.jpg"
+  },
+  {
+    "id": "product-326",
+    "slug": "tinta-para-tampo-artesco-326",
+    "name": "TINTA PARA TAMPO ARTESCO",
+    "category": "Otros",
+    "description": "Encuentra TINTA PARA TAMPO ARTESCO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tinta-para-tampo-artesco-326.jpg"
+  },
+  {
+    "id": "product-327",
+    "slug": "tajador-con-deposito-327",
+    "name": "TAJADOR CON DEPOSITO",
+    "category": "Otros",
+    "description": "Encuentra TAJADOR CON DEPOSITO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tajador-con-deposito-327.jpg"
+  },
+  {
+    "id": "product-328",
+    "slug": "lapiz-portaminas-con-grip-layconsa-328",
+    "name": "LAPIZ PORTAMINAS CON GRIP LAYCONSA",
+    "category": "Otros",
+    "description": "Encuentra LAPIZ PORTAMINAS CON GRIP LAYCONSA para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/lapiz-portaminas-con-grip-layconsa-328.png"
+  },
+  {
+    "id": "product-329",
+    "slug": "minas-0-5mm-2b-layconsa-329",
+    "name": "Minas 0.5mm 2b layconsa",
+    "category": "Otros",
+    "description": "Encuentra Minas 0.5mm 2b layconsa para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/minas-0-5mm-2b-layconsa-329.jpg"
+  },
+  {
+    "id": "product-330",
+    "slug": "limpiatipo-330",
+    "name": "limpiatipo",
+    "category": "Otros",
+    "description": "Encuentra limpiatipo para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/limpiatipo-330.jpg"
+  },
+  {
+    "id": "product-331",
+    "slug": "bloc-cuadriculado-pequeno-de-bolsillo-espiralado-331",
+    "name": "Bloc cuadriculado pequeño de bolsillo espiralado",
+    "category": "Otros",
+    "description": "Encuentra Bloc cuadriculado pequeño de bolsillo espiralado para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bloc-cuadriculado-pequeno-de-bolsillo-espiralado-331.jpg"
+  },
+  {
+    "id": "product-332",
+    "slug": "bloc-cuadriculado-pequeno-util-para-tomar-notas-tapa-dura-332",
+    "name": "Bloc cuadriculado pequeño util para tomar notas tapa dura",
+    "category": "Otros",
+    "description": "Encuentra Bloc cuadriculado pequeño util para tomar notas tapa dura para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bloc-cuadriculado-pequeno-util-para-tomar-notas-tapa-dura-332.webp"
+  },
+  {
+    "id": "product-333",
+    "slug": "resaltador-artesco-333",
+    "name": "Resaltador Artesco",
+    "category": "Otros",
+    "description": "Encuentra Resaltador Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/resaltador-artesco-333.webp"
+  },
+  {
+    "id": "product-334",
+    "slug": "corrector-vinifan-334",
+    "name": "Corrector Vinifan",
+    "category": "Otros",
+    "description": "Encuentra Corrector Vinifan para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/corrector-vinifan-334.webp"
+  },
+  {
+    "id": "product-335",
+    "slug": "corrector-artesco-335",
+    "name": "Corrector Artesco",
+    "category": "Otros",
+    "description": "Encuentra Corrector Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/corrector-artesco-335.png"
+  },
+  {
+    "id": "product-336",
+    "slug": "plumon-indeleble-marcador-2-puntas-artesco-336",
+    "name": "Plumon Indeleble Marcador 2 puntas Artesco",
+    "category": "Otros",
+    "description": "Encuentra Plumon Indeleble Marcador 2 puntas Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/plumon-indeleble-marcador-2-puntas-artesco-336.png"
+  },
+  {
+    "id": "product-337",
+    "slug": "plumon-de-pizarra-azul-negro-y-rojo-337",
+    "name": "Plumon de pizarra azul,negro y rojo",
+    "category": "Otros",
+    "description": "Encuentra Plumon de pizarra azul,negro y rojo para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/plumon-de-pizarra-azul-negro-y-rojo-337.jpg"
+  },
+  {
+    "id": "product-338",
+    "slug": "plumon-para-papel-negro-azul-y-rojo-338",
+    "name": "plumon para papel negro,azul y rojo",
+    "category": "Otros",
+    "description": "Encuentra plumon para papel negro,azul y rojo para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/plumon-para-papel-negro-azul-y-rojo-338.jpg"
+  },
+  {
+    "id": "product-339",
+    "slug": "silicona-liquida-artesco-339",
+    "name": "Silicona liquida Artesco",
+    "category": "Otros",
+    "description": "Encuentra Silicona liquida Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/silicona-liquida-artesco-339.jpg"
+  },
+  {
+    "id": "product-340",
+    "slug": "tempera-340",
+    "name": "Tempera",
+    "category": "Otros",
+    "description": "Encuentra Tempera para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tempera-340.jpg"
+  },
+  {
+    "id": "product-341",
+    "slug": "goma-liquida-artesco-341",
+    "name": "Goma Liquida Artesco",
+    "category": "Otros",
+    "description": "Encuentra Goma Liquida Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/goma-liquida-artesco-341.jpg"
+  },
+  {
+    "id": "product-342",
+    "slug": "goma-liquida-gotita-342",
+    "name": "Goma Liquida Gotita",
+    "category": "Otros",
+    "description": "Encuentra Goma Liquida Gotita para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/goma-liquida-gotita-342.png"
+  },
+  {
+    "id": "product-343",
+    "slug": "audifonos-hoco-pro-2-estuche-gato-343",
+    "name": "Audifonos Hoco Pro 2 estuche Gato",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Audifonos Hoco Pro 2 estuche Gato, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-hoco-pro-2-estuche-gato-343.jpg"
+  },
+  {
+    "id": "product-344",
+    "slug": "grapas-artesco-344",
+    "name": "Grapas Artesco",
+    "category": "Otros",
+    "description": "Encuentra Grapas Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/grapas-artesco-344.jpg"
+  },
+  {
+    "id": "product-345",
+    "slug": "minialmohadilla-para-sellos-artesco-345",
+    "name": "MiniAlmohadilla para sellos Artesco",
+    "category": "Otros",
+    "description": "Encuentra MiniAlmohadilla para sellos Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/minialmohadilla-para-sellos-artesco-345.jpg"
+  },
+  {
+    "id": "product-346",
+    "slug": "mini-engranpadora-artesco-346",
+    "name": "Mini Engranpadora Artesco",
+    "category": "Otros",
+    "description": "Encuentra Mini Engranpadora Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/mini-engranpadora-artesco-346.jpg"
+  },
+  {
+    "id": "product-347",
+    "slug": "borrador-blanco-artesco-347",
+    "name": "Borrador Blanco Artesco",
+    "category": "Otros",
+    "description": "Encuentra Borrador Blanco Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/borrador-blanco-artesco-347.jpg"
+  },
+  {
+    "id": "product-348",
+    "slug": "clips-mariposa-348",
+    "name": "Clips Mariposa",
+    "category": "Otros",
+    "description": "Encuentra Clips Mariposa para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/clips-mariposa-348.png"
+  },
+  {
+    "id": "product-349",
+    "slug": "perforadora-349",
+    "name": "Perforadora",
+    "category": "Otros",
+    "description": "Encuentra Perforadora para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/perforadora-349.jpg"
+  },
+  {
+    "id": "product-350",
+    "slug": "engranpadora-m-527-artesco-350",
+    "name": "Engranpadora M 527 Artesco",
+    "category": "Otros",
+    "description": "Encuentra Engranpadora M 527 Artesco para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/engranpadora-m-527-artesco-350.jpg"
+  },
+  {
+    "id": "product-351",
+    "slug": "almohadilla-para-sellos-351",
+    "name": "Almohadilla para sellos",
+    "category": "Otros",
+    "description": "Encuentra Almohadilla para sellos para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/almohadilla-para-sellos-351.jpg"
+  },
+  {
+    "id": "product-352",
+    "slug": "cinta-de-embalaje-352",
+    "name": "Cinta de embalaje",
+    "category": "Otros",
+    "description": "Encuentra Cinta de embalaje para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-de-embalaje-352.jpg"
+  },
+  {
+    "id": "product-353",
+    "slug": "cinta-de-embalaje-gruesa-353",
+    "name": "Cinta de embalaje gruesa",
+    "category": "Otros",
+    "description": "Encuentra Cinta de embalaje gruesa para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-de-embalaje-gruesa-353.jpg"
+  },
+  {
+    "id": "product-354",
+    "slug": "tampon-dactilar-artesco-azul-354",
+    "name": "Tampon Dactilar Artesco Azul",
+    "category": "Otros",
+    "description": "Encuentra Tampon Dactilar Artesco Azul para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tampon-dactilar-artesco-azul-354.jpg"
+  },
+  {
+    "id": "product-355",
+    "slug": "cinta-aislante-355",
+    "name": "Cinta Aislante",
+    "category": "Otros",
+    "description": "Encuentra Cinta Aislante para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-aislante-355.jpg"
+  },
+  {
+    "id": "product-356",
+    "slug": "cinta-decorativa-356",
+    "name": "Cinta decorativa",
+    "category": "Otros",
+    "description": "Encuentra Cinta decorativa para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-decorativa-356.avif"
+  },
+  {
+    "id": "product-357",
+    "slug": "cinta-de-color-amarillo-rojo-verde-357",
+    "name": "Cinta de color AMARILLO ROJO VERDE",
+    "category": "Otros",
+    "description": "Encuentra Cinta de color AMARILLO ROJO VERDE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-de-color-amarillo-rojo-verde-357.png"
+  },
+  {
+    "id": "product-358",
+    "slug": "cinta-scotch-358",
+    "name": "Cinta scotch",
+    "category": "Otros",
+    "description": "Encuentra Cinta scotch para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-scotch-358.jpg"
+  },
+  {
+    "id": "product-359",
+    "slug": "cinta-de-embalaje-marron-habano-359",
+    "name": "Cinta de embalaje marron Habano",
+    "category": "Otros",
+    "description": "Encuentra Cinta de embalaje marron Habano para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cinta-de-embalaje-marron-habano-359.jpg"
+  },
+  {
+    "id": "product-360",
+    "slug": "tempera-artesco-set-x-6-colores-pincel-paleta-360",
+    "name": "Témpera Artesco Set X 6 Colores + Pincel + Paleta",
+    "category": "Otros",
+    "description": "Encuentra Témpera Artesco Set X 6 Colores + Pincel + Paleta para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/tempera-artesco-set-x-6-colores-pincel-paleta-360.avif"
+  },
+  {
+    "id": "product-361",
+    "slug": "lapicero-rojo-031-f-trilux-0-8-mm-faber-castell-361",
+    "name": "Lapicero rojo 031-F trilux 0.8 mm faber castell",
+    "category": "Otros",
+    "description": "Encuentra Lapicero rojo 031-F trilux 0.8 mm faber castell para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/lapicero-rojo-031-f-trilux-0-8-mm-faber-castell-361.webp"
+  },
+  {
+    "id": "product-362",
+    "slug": "lapicero-azul-031-f-trilux-0-8-mm-faber-castell-362",
+    "name": "Lapicero azul 031-F trilux 0.8 mm faber castell",
+    "category": "Otros",
+    "description": "Encuentra Lapicero azul 031-F trilux 0.8 mm faber castell para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/lapicero-azul-031-f-trilux-0-8-mm-faber-castell-362.jpg"
+  },
+  {
+    "id": "product-363",
+    "slug": "lapicero-negro-031-f-trilux-0-8-mm-faber-castell-363",
+    "name": "Lapicero negro 031-F trilux 0.8 mm faber castell",
+    "category": "Otros",
+    "description": "Encuentra Lapicero negro 031-F trilux 0.8 mm faber castell para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/lapicero-negro-031-f-trilux-0-8-mm-faber-castell-363.webp"
+  },
+  {
+    "id": "product-364",
+    "slug": "lapicero-verde-031-f-trilux-0-8-mm-faber-castell-364",
+    "name": "Lapicero verde 031-F trilux 0.8 mm faber castell",
+    "category": "Otros",
+    "description": "Encuentra Lapicero verde 031-F trilux 0.8 mm faber castell para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/lapicero-verde-031-f-trilux-0-8-mm-faber-castell-364.jpg"
+  },
+  {
+    "id": "product-365",
+    "slug": "turrones-dmiel-750-g-365",
+    "name": "Turrones Dmiel 750 g",
+    "category": "Otros",
+    "description": "Encuentra Turrones Dmiel 750 g para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/turrones-dmiel-750-g-365.jpg"
+  },
+  {
+    "id": "product-366",
+    "slug": "turrones-d-miel-375-g-366",
+    "name": "Turrones D'miel 375 g",
+    "category": "Otros",
+    "description": "Encuentra Turrones D'miel 375 g para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/turrones-d-miel-375-g-366.jpg"
+  },
+  {
+    "id": "product-367",
+    "slug": "turrones-d-miel-190-g-367",
+    "name": "Turrones D'miel 190 g",
+    "category": "Otros",
+    "description": "Encuentra Turrones D'miel 190 g para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/turrones-d-miel-190-g-367.jpg"
+  },
+  {
+    "id": "product-368",
+    "slug": "turrones-d-miel-95-g-368",
+    "name": "Turrones D'miel 95 g",
+    "category": "Otros",
+    "description": "Encuentra Turrones D'miel 95 g para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/turrones-d-miel-95-g-368.jpg"
+  },
+  {
+    "id": "product-369",
+    "slug": "audifonos-cuelleros-tf600-akz-369",
+    "name": "AUDIFONOS CUELLEROS TF600 AKZ",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con AUDIFONOS CUELLEROS TF600 AKZ, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-cuelleros-tf600-akz-369.jpg"
+  },
+  {
+    "id": "product-370",
+    "slug": "linterna-ewtto-370",
+    "name": "LINTERNA EWTTO",
+    "category": "Otros",
+    "description": "Encuentra LINTERNA EWTTO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/linterna-ewtto-370.png"
+  },
+  {
+    "id": "product-371",
+    "slug": "adaptador-disco-duro-sata-ide-con-fuente-et-zjx-371",
+    "name": "Adaptador Disco Duro SATA/IDE Con Fuente ET-ZJX",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: Adaptador Disco Duro SATA/IDE Con Fuente ET-ZJX.",
+    "image": "/products/real/adaptador-disco-duro-sata-ide-con-fuente-et-zjx-371.jpg"
+  },
+  {
+    "id": "product-372",
+    "slug": "red-wi-fi-usb-tp-link-archer-t2u-nano-ac600-2band-372",
+    "name": "RED Wi-Fi USB TP-LINK Archer T2U Nano AC600 2BAND",
+    "category": "USB/Memorias",
+    "description": "Almacenamiento y conectividad en un formato práctico: RED Wi-Fi USB TP-LINK Archer T2U Nano AC600 2BAND.",
+    "image": "/products/real/red-wi-fi-usb-tp-link-archer-t2u-nano-ac600-2band-372.png"
+  },
+  {
+    "id": "product-373",
+    "slug": "adaptador-de-corriente-9v-12v-2-en-1-plugs-373",
+    "name": "ADAPTADOR DE CORRIENTE 9V/12V 2 EN 1 PLUGS",
+    "category": "Adaptadores",
+    "description": "Solución práctica para adaptar, conectar o ampliar tus equipos: ADAPTADOR DE CORRIENTE 9V/12V 2 EN 1 PLUGS.",
+    "image": "/products/real/adaptador-de-corriente-9v-12v-2-en-1-plugs-373.avif"
+  },
+  {
+    "id": "product-374",
+    "slug": "enchufe-smart-wifi-10a-pst-bsd01-tuya-374",
+    "name": "Enchufe Smart Wifi 10a Pst-bsd01 Tuya",
+    "category": "Extensiones",
+    "description": "Más alcance y comodidad para tus conexiones con Enchufe Smart Wifi 10a Pst-bsd01 Tuya.",
+    "image": "/products/real/enchufe-smart-wifi-10a-pst-bsd01-tuya-374.png"
+  },
+  {
+    "id": "product-375",
+    "slug": "interruptor-inteligente-con-wifi-para-el-hogar-dispositivo-de-automatizacion-con-monitor-de-potencia-temporizador-de-2-vias-funciona-con-alexa-google-yandex-tuya-375",
+    "name": "Interruptor inteligente con Wifi para el hogar, dispositivo de automatización con Monitor de potencia, temporizador de 2 vías, funciona con Alexa, Google, Yandex, Tuya",
+    "category": "Extensiones",
+    "description": "Más alcance y comodidad para tus conexiones con Interruptor inteligente con Wifi para el hogar, dispositivo de automatización con Monitor de potencia, temporizador de 2 vías, funciona con Alexa, Google, Yandex, Tuya.",
+    "image": "/products/real/interruptor-inteligente-con-wifi-para-el-hogar-dispositivo-de-automatizacion-con-monitor-de-potencia-temporizador-de-2-vias-funciona-con-alexa-google-yandex-tuya-375.jpg"
+  },
+  {
+    "id": "product-376",
+    "slug": "microfono-de-karaoke-inalambrico-bluetooth-con-luz-rgb-altavoz-de-microfono-de-karaoke-de-mano-para-ninos-adultos-compatible-con-voz-inteligente-ai-cambio-de-voz-coro-de-2-376",
+    "name": "Micrófono de Karaoke Inalámbrico Bluetooth con Luz RGB, Altavoz de Micrófono de Karaoke de Mano para Niños Adultos, Compatible con Voz Inteligente AI, Cambio de Voz, Coro de 2",
+    "category": "Otros",
+    "description": "Encuentra Micrófono de Karaoke Inalámbrico Bluetooth con Luz RGB, Altavoz de Micrófono de Karaoke de Mano para Niños Adultos, Compatible con Voz Inteligente AI, Cambio de Voz, Coro de 2 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/microfono-de-karaoke-inalambrico-bluetooth-con-luz-rgb-altavoz-de-microfono-de-karaoke-de-mano-para-ninos-adultos-compatible-con-voz-inteligente-ai-cambio-de-voz-coro-de-2-376.jpg"
+  },
+  {
+    "id": "product-377",
+    "slug": "parlante-bluetooth-karaoke-con-microfono-inalambrico-377",
+    "name": "Parlante Bluetooth Karaoke Con Microfono/ Inalambrico",
+    "category": "Otros",
+    "description": "Encuentra Parlante Bluetooth Karaoke Con Microfono/ Inalambrico para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/parlante-bluetooth-karaoke-con-microfono-inalambrico-377.jpg"
+  },
+  {
+    "id": "product-378",
+    "slug": "smartwatch-d18-reloj-inteligente-resistente-al-agua-monitor-de-actividad-podometro-con-medicion-de-presion-arterial-y-oxigeno-en-sangre-pulsera-inteligente-378",
+    "name": "Smartwatch D18, reloj inteligente resistente al agua, monitor de actividad, podómetro, con medición de presión arterial y oxígeno en sangre, pulsera inteligente",
+    "category": "Otros",
+    "description": "Encuentra Smartwatch D18, reloj inteligente resistente al agua, monitor de actividad, podómetro, con medición de presión arterial y oxígeno en sangre, pulsera inteligente para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/smartwatch-d18-reloj-inteligente-resistente-al-agua-monitor-de-actividad-podometro-con-medicion-de-presion-arterial-y-oxigeno-en-sangre-pulsera-inteligente-378.jpg"
+  },
+  {
+    "id": "product-379",
+    "slug": "cargador-ldnio-a3513q-carga-rapida-32w-2xusb-1-usb-c-379",
+    "name": "CARGADOR LDNIO A3513Q CARGA RÁPIDA 32W 2XUSB, 1 USB-C",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR LDNIO A3513Q CARGA RÁPIDA 32W 2XUSB, 1 USB-C ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-ldnio-a3513q-carga-rapida-32w-2xusb-1-usb-c-379.jpg"
+  },
+  {
+    "id": "product-380",
+    "slug": "foco-parlante-380",
+    "name": "Foco Parlante",
+    "category": "Otros",
+    "description": "Encuentra Foco Parlante para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/foco-parlante-380.jpg"
+  },
+  {
+    "id": "product-381",
+    "slug": "llavero-con-diseno-381",
+    "name": "Llavero con Diseño",
+    "category": "Otros",
+    "description": "Encuentra Llavero con Diseño para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/llavero-con-diseno-381.jpg"
+  },
+  {
+    "id": "product-382",
+    "slug": "corrector-de-cinta-382",
+    "name": "Corrector de Cinta",
+    "category": "Otros",
+    "description": "Encuentra Corrector de Cinta para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/corrector-de-cinta-382.jpg"
+  },
+  {
+    "id": "product-383",
+    "slug": "destornillador-pequenos-plano-estrella-versatil-383",
+    "name": "Destornillador pequeños plano - estrella versatil",
+    "category": "Otros",
+    "description": "Encuentra Destornillador pequeños plano - estrella versatil para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/destornillador-pequenos-plano-estrella-versatil-383.jpg"
+  },
+  {
+    "id": "product-384",
+    "slug": "destornillador-grande-plano-estrella-versatil-384",
+    "name": "Destornillador Grande plano - estrella versatil",
+    "category": "Otros",
+    "description": "Encuentra Destornillador Grande plano - estrella versatil para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/destornillador-grande-plano-estrella-versatil-384.webp"
+  },
+  {
+    "id": "product-385",
+    "slug": "pilas-x4-toshiba-385",
+    "name": "Pilas x4 Toshiba",
+    "category": "Otros",
+    "description": "Encuentra Pilas x4 Toshiba para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pilas-x4-toshiba-385.avif"
+  },
+  {
+    "id": "product-386",
+    "slug": "pilas-aa-toshiba-386",
+    "name": "Pilas AA Toshiba",
+    "category": "Otros",
+    "description": "Encuentra Pilas AA Toshiba para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pilas-aa-toshiba-386.webp"
+  },
+  {
+    "id": "product-387",
+    "slug": "pilas-aaa-toshiba-387",
+    "name": "Pilas AAA Toshiba",
+    "category": "Otros",
+    "description": "Encuentra Pilas AAA Toshiba para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pilas-aaa-toshiba-387.jpg"
+  },
+  {
+    "id": "product-388",
+    "slug": "extension-cable-mellizo-388",
+    "name": "Extension Cable mellizo",
+    "category": "Cables",
+    "description": "Cable Extension Cable mellizo pensado para conectar y cargar tus dispositivos con practicidad.",
+    "image": "/products/real/extension-cable-mellizo-388.jpg"
+  },
+  {
+    "id": "product-389",
+    "slug": "cargador-dw-tcc0443-tipo-c-4-2a-35w-carga-rapida-modelo-huawei-389",
+    "name": "CARGADOR DW TCC0443 TIPO C 4.2A 35W CARGA RAPIDA MODELO HUAWEI",
+    "category": "Cargadores",
+    "description": "Cargador CARGADOR DW TCC0443 TIPO C 4.2A 35W CARGA RAPIDA MODELO HUAWEI ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-dw-tcc0443-tipo-c-4-2a-35w-carga-rapida-modelo-huawei-389.webp"
+  },
+  {
+    "id": "product-390",
+    "slug": "cargador-samsung-s22-ultra-pd-390",
+    "name": "Cargador Samsung S22 Ultra PD",
+    "category": "Cargadores",
+    "description": "Cargador Cargador Samsung S22 Ultra PD ideal para mantener tus equipos listos en casa, oficina o auto.",
+    "image": "/products/real/cargador-samsung-s22-ultra-pd-390.jpg"
+  },
+  {
+    "id": "product-391",
+    "slug": "estuche-para-audifonos-391",
+    "name": "Estuche para audifonos",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Estuche para audifonos, una opción cómoda para tu día a día.",
+    "image": "/products/real/estuche-para-audifonos-391.png"
+  },
+  {
+    "id": "product-392",
+    "slug": "audifonos-gar156-392",
+    "name": "Audifonos GAR156",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Audifonos GAR156, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-gar156-392.jpg"
+  },
+  {
+    "id": "product-393",
+    "slug": "audifonos-cab246-393",
+    "name": "Audifonos CAB246",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Audifonos CAB246, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-cab246-393.avif"
+  },
+  {
+    "id": "product-394",
+    "slug": "pop-socket-personalizado-394",
+    "name": "POP SOCKET PERSONALIZADO",
+    "category": "Otros",
+    "description": "Encuentra POP SOCKET PERSONALIZADO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pop-socket-personalizado-394.jpg"
+  },
+  {
+    "id": "product-395",
+    "slug": "post-it-diseno-gato-395",
+    "name": "POST IT Diseño Gato",
+    "category": "Otros",
+    "description": "Encuentra POST IT Diseño Gato para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/post-it-diseno-gato-395.webp"
+  },
+  {
+    "id": "product-396",
+    "slug": "audifonos-remax-rb-s15-air-conduction-396",
+    "name": "Audífonos Remax RB-S15 Air Conduction",
+    "category": "Otros",
+    "description": "Encuentra Audífonos Remax RB-S15 Air Conduction para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/audifonos-remax-rb-s15-air-conduction-396.jpg"
+  },
+  {
+    "id": "product-397",
+    "slug": "audifonos-e6s-397",
+    "name": "Audifonos E6S",
+    "category": "Audífonos",
+    "description": "Disfruta tu contenido con Audifonos E6S, una opción cómoda para tu día a día.",
+    "image": "/products/real/audifonos-e6s-397.jpg"
+  },
+  {
+    "id": "product-398",
+    "slug": "bimbo-nito-398",
+    "name": "BIMBO NITO",
+    "category": "Otros",
+    "description": "Encuentra BIMBO NITO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bimbo-nito-398.jpg"
+  },
+  {
+    "id": "product-399",
+    "slug": "bimbo-pinguinos-399",
+    "name": "BIMBO PINGUINOS",
+    "category": "Otros",
+    "description": "Encuentra BIMBO PINGUINOS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bimbo-pinguinos-399.jpg"
+  },
+  {
+    "id": "product-400",
+    "slug": "bimbo-pinguinos-chocolate-400",
+    "name": "BIMBO PINGUINOS CHOCOLATE",
+    "category": "Otros",
+    "description": "Encuentra BIMBO PINGUINOS CHOCOLATE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bimbo-pinguinos-chocolate-400.jpg"
+  },
+  {
+    "id": "product-401",
+    "slug": "bimbo-gansito-401",
+    "name": "BIMBO GANSITO",
+    "category": "Otros",
+    "description": "Encuentra BIMBO GANSITO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bimbo-gansito-401.avif"
+  },
+  {
+    "id": "product-402",
+    "slug": "kekitos-pyc-402",
+    "name": "KEKITOS PYC",
+    "category": "Otros",
+    "description": "Encuentra KEKITOS PYC para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/kekitos-pyc-402.jpg"
+  },
+  {
+    "id": "product-403",
+    "slug": "bimboletes-chocolate-bimbo-403",
+    "name": "BIMBOLETES CHOCOLATE BIMBO",
+    "category": "Otros",
+    "description": "Encuentra BIMBOLETES CHOCOLATE BIMBO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bimboletes-chocolate-bimbo-403.webp"
+  },
+  {
+    "id": "product-404",
+    "slug": "estuche-de-bolsa-transparente-404",
+    "name": "ESTUCHE DE BOLSA TRANSPARENTE",
+    "category": "Otros",
+    "description": "Encuentra ESTUCHE DE BOLSA TRANSPARENTE para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/estuche-de-bolsa-transparente-404.webp"
+  },
+  {
+    "id": "product-405",
+    "slug": "dvd-405",
+    "name": "DVD",
+    "category": "Otros",
+    "description": "Encuentra DVD para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/dvd-405.png"
+  },
+  {
+    "id": "product-406",
+    "slug": "cd-406",
+    "name": "CD",
+    "category": "Otros",
+    "description": "Encuentra CD para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/cd-406.jpg"
+  },
+  {
+    "id": "product-407",
+    "slug": "dedales-gamer-407",
+    "name": "Dedales gamer",
+    "category": "Otros",
+    "description": "Encuentra Dedales gamer para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/dedales-gamer-407.jpg"
+  },
+  {
+    "id": "product-408",
+    "slug": "imperdible-grande-408",
+    "name": "Imperdible Grande",
+    "category": "Otros",
+    "description": "Encuentra Imperdible Grande para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/imperdible-grande-408.jpg"
+  },
+  {
+    "id": "product-409",
+    "slug": "imperdible-pequeno-409",
+    "name": "imperdible pequeño",
+    "category": "Otros",
+    "description": "Encuentra imperdible pequeño para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/imperdible-pequeno-409.png"
+  },
+  {
+    "id": "product-410",
+    "slug": "imperdible-410",
+    "name": "imperdible",
+    "category": "Otros",
+    "description": "Encuentra imperdible para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/imperdible-410.jpg"
+  },
+  {
+    "id": "product-411",
+    "slug": "chincheta-tachuela-de-clavo-de-sofa-tachuelas-de-tapiceria-tachuelas-de-unas-de-sofa-tachuelas-de-clavo-tachuelas-de-100-unidades-43-976-in-bronce-antiguo-decoracion-de-unas-joyeria-de-unas-411",
+    "name": "chincheta, tachuela de clavo de sofá, tachuelas de tapicería, tachuelas de uñas de sofá, tachuelas de clavo, tachuelas de 100 unidades, 43.976 in, bronce antiguo, decoración de uñas, joyería de uñas",
+    "category": "Otros",
+    "description": "Encuentra chincheta, tachuela de clavo de sofá, tachuelas de tapicería, tachuelas de uñas de sofá, tachuelas de clavo, tachuelas de 100 unidades, 43.976 in, bronce antiguo, decoración de uñas, joyería de uñas para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/chincheta-tachuela-de-clavo-de-sofa-tachuelas-de-tapiceria-tachuelas-de-unas-de-sofa-tachuelas-de-clavo-tachuelas-de-100-unidades-43-976-in-bronce-antiguo-decoracion-de-unas-joyeria-de-unas-411.jpg"
+  },
+  {
+    "id": "product-412",
+    "slug": "bateria-para-celular-sm-j2-j7-j5-412",
+    "name": "Bateria para Celular SM J2 , J7 , J5",
+    "category": "Otros",
+    "description": "Encuentra Bateria para Celular SM J2 , J7 , J5 para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/bateria-para-celular-sm-j2-j7-j5-412.jpg"
+  },
+  {
+    "id": "product-413",
+    "slug": "forro-vinifan-a4-413",
+    "name": "Forro Vinifan A4",
+    "category": "Protectores",
+    "description": "Cuida tus dispositivos con Forro Vinifan A4, pensado para el uso diario.",
+    "image": "/products/real/forro-vinifan-a4-413.jpg"
+  },
+  {
+    "id": "product-414",
+    "slug": "pinceles-414",
+    "name": "Pinceles",
+    "category": "Otros",
+    "description": "Encuentra Pinceles para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/pinceles-414.webp"
+  },
+  {
+    "id": "product-415",
+    "slug": "soporte-espejo-retrovisor-ewtto-415",
+    "name": "SOPORTE ESPEJO RETROVISOR EWTTO",
+    "category": "Otros",
+    "description": "Encuentra SOPORTE ESPEJO RETROVISOR EWTTO para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-espejo-retrovisor-ewtto-415.jpg"
+  },
+  {
+    "id": "product-416",
+    "slug": "soporte-de-escritorio-cafini-416",
+    "name": "SOPORTE DE ESCRITORIO CAFINI",
+    "category": "Otros",
+    "description": "Encuentra SOPORTE DE ESCRITORIO CAFINI para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-de-escritorio-cafini-416.jpg"
+  },
+  {
+    "id": "product-417",
+    "slug": "soporte-tripode-417",
+    "name": "Soporte Tripode",
+    "category": "Otros",
+    "description": "Encuentra Soporte Tripode para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/soporte-tripode-417.jpg"
+  },
+  {
+    "id": "product-418",
+    "slug": "wipes-toallas-para-limpiar-pantalla-418",
+    "name": "Wipes toallas para limpiar pantalla",
+    "category": "Otros",
+    "description": "Encuentra Wipes toallas para limpiar pantalla para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/wipes-toallas-para-limpiar-pantalla-418.jpg"
+  },
+  {
+    "id": "product-419",
+    "slug": "aro-de-luz-led-ljj-56-22-pulgadas-419",
+    "name": "ARO DE LUZ LED LJJ-56 22 PULGADAS",
+    "category": "Otros",
+    "description": "Encuentra ARO DE LUZ LED LJJ-56 22 PULGADAS para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/aro-de-luz-led-ljj-56-22-pulgadas-419.jpg"
+  },
+  {
+    "id": "product-420",
+    "slug": "aro-ljj-45-de-luz-led-45cm-rgb-420",
+    "name": "ARO LJJ-45 DE LUZ LED 45CM RGB",
+    "category": "Otros",
+    "description": "Encuentra ARO LJJ-45 DE LUZ LED 45CM RGB para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/aro-ljj-45-de-luz-led-45cm-rgb-420.jpg"
+  },
+  {
+    "id": "product-421",
+    "slug": "sacapuntas-osito-paradise-superme-421",
+    "name": "Sacapuntas osito paradise superme",
+    "category": "Otros",
+    "description": "Encuentra Sacapuntas osito paradise superme para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/sacapuntas-osito-paradise-superme-421.jpg"
+  },
+  {
+    "id": "product-422",
+    "slug": "lapicero-kawai-squishy-antiestres-422",
+    "name": "Lapicero Kawai Squishy antiestres",
+    "category": "Otros",
+    "description": "Encuentra Lapicero Kawai Squishy antiestres para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/lapicero-kawai-squishy-antiestres-422.png"
+  },
+  {
+    "id": "product-423",
+    "slug": "baby-panda-marcador-marcapaginas-con-postit-423",
+    "name": "Baby Panda Marcador marcapaginas con postit",
+    "category": "Otros",
+    "description": "Encuentra Baby Panda Marcador marcapaginas con postit para complementar tu espacio de trabajo, estudio o entretenimiento.",
+    "image": "/products/real/baby-panda-marcador-marcapaginas-con-postit-423.png"
+  }
+]

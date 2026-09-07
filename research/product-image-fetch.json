@@ -1,0 +1,503 @@
+{
+  "processed": 70,
+  "total": 423,
+  "counts": {
+    "ddg": 0,
+    "fallback": 70,
+    "downloaded": 0,
+    "remote": 0,
+    "errors": 70
+  },
+  "results": [
+    {
+      "id": "product-001",
+      "name": "SUPERGLUE SOLDIMIX 1G",
+      "query": "superglue soldimix 1g accesorio tecnológico producto",
+      "image": "/products/otros-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-002",
+      "name": "SUPERGLUE CHEMMER 3G",
+      "query": "superglue chemmer 3g accesorio tecnológico producto",
+      "image": "/products/otros-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-003",
+      "name": "FOLDER A4 C/2 BOLSILLOS FB1416-SF",
+      "query": "folder a4 bolsillos fb1416 sf accesorio tecnológico producto",
+      "image": "/products/otros-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-004",
+      "name": "PILAS AA 2 MN 1500B2",
+      "query": "pilas aa mn 1500b2 accesorio tecnológico producto",
+      "image": "/products/otros-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-005",
+      "name": "PILAS AAA 2 MN 2400B2",
+      "query": "pilas aaa mn 2400b2 accesorio tecnológico producto",
+      "image": "/products/otros-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-006",
+      "name": "SEPARADORES INDEX 12 DIVISIONES",
+      "query": "separadores index 12 divisiones accesorio tecnológico producto",
+      "image": "/products/otros-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-007",
+      "name": "SOBRE CON BROCHE TRANSPARENTE ARTESCO A4",
+      "query": "sobre broche transparente artesco a4 accesorio tecnológico producto",
+      "image": "/products/otros-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-008",
+      "name": "CATALOGO FLEX 10 FUNDAS",
+      "query": "catalogo flex 10 fundas protector pantalla celular producto",
+      "image": "/products/protectores-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-009",
+      "name": "MICROFONO PC SF-910 NOISE REDUCTION",
+      "query": "microfono pc sf 910 noise reduction redes router networking producto",
+      "image": "/products/redes-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-010",
+      "name": "USB 2 GB KINGSTON",
+      "query": "usb gb kingston memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-011",
+      "name": "USB 32GB KINGSTON SANDISK",
+      "query": "usb 32gb kingston sandisk memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-012",
+      "name": "USB 3.2 64GB KINGTSON EXODIA",
+      "query": "usb 64gb kingtson exodia memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-013",
+      "name": "MEMORIA MICROSD 4GB",
+      "query": "memoria microsd 4gb memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-014",
+      "name": "MEMORIA MICROSD 128GB",
+      "query": "memoria microsd 128gb memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-015",
+      "name": "ADAPTADOR DE AUDIO SEISA MICROFONO AUDIFONO ST 3051",
+      "query": "adaptador audio seisa microfono audifono st 3051 audífonos headset producto",
+      "image": "/products/audifonos-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-016",
+      "name": "GLASS PRO+ PROTECTOR DE PANTALLA TABLET 7\"",
+      "query": "glass pro protector pantalla tablet protector pantalla celular producto",
+      "image": "/products/protectores-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-017",
+      "name": "GLASS PRO+ T230",
+      "query": "glass pro t230 protector pantalla celular producto",
+      "image": "/products/protectores-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-018",
+      "name": "GLASS PRO+ T210",
+      "query": "glass pro t210 protector pantalla celular producto",
+      "image": "/products/protectores-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-019",
+      "name": "PRESENTADOR DE DIAPOSITIVAS CON PUNTERO LASER PPT POWER POINT PNT LCR",
+      "query": "presentador diapositivas puntero laser ppt power point pnt lcr accesorio tecnológico producto",
+      "image": "/products/otros-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-020",
+      "name": "PUNTERO LASER PARA PRESENTACIONES TIPO LAPIZ SLIM DELGADO WRLS PST",
+      "query": "puntero laser presentaciones lapiz slim delgado wrls pst accesorio tecnológico producto",
+      "image": "/products/otros-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-021",
+      "name": "Memoria Microsd 32GB KINGSTON",
+      "query": "memoria microsd 32gb kingston memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-022",
+      "name": "SENSOR DE MOVIMIENTO 60W ES B03 SOCKET SENSOR 360 INFRAROJO SCHUBERT",
+      "query": "sensor movimiento 60w es b03 socket sensor 360 infrarojo schubert memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-023",
+      "name": "CABLE TRANYOO V8 3M S7V",
+      "query": "cable tranyoo v8 3m s7v cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-024",
+      "name": "CARGADOR TRANYOO 67W TIPO USB-C US2C",
+      "query": "cargador tranyoo 67w usb us2c cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-025",
+      "name": "CARGADOR SANCI 130W SC T2909T AC",
+      "query": "cargador sanci 130w sc t2909t ac cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-026",
+      "name": "CARGADOR SANCI 30W SC T1173V AC",
+      "query": "cargador sanci 30w sc t1173v ac cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-027",
+      "name": "CABLE MULTIUSOS PULPO 3 EN 1 SUPER 6A S4 REMALLADO TRENZADO REFORZADO DIZOYIN",
+      "query": "cable multiusos pulpo super 6a s4 remallado trenzado reforzado dizoyin cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-028",
+      "name": "CABLE USB 3 TIPOS DE ENTRADA TURBO S5 CHARGE",
+      "query": "cable usb tipos entrada turbo s5 charge cable tecnológico accesorio producto",
+      "image": "/products/cables-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-029",
+      "name": "CABLE IMANTADO MAGNETICO 3 SALIDAS QIITCELL QI B22",
+      "query": "cable imantado magnetico salidas qiitcell qi b22 cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-030",
+      "name": "CABLE AUXILIAR HUAVI Y 01 1M",
+      "query": "cable auxiliar huavi 01 1m cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-031",
+      "name": "CABLE MAGNETICO FLUJO LED CARGA RAPIDA ROTACION 360°",
+      "query": "cable magnetico flujo led carga rapida rotacion 360 cable tecnológico accesorio producto",
+      "image": "/products/cables-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-032",
+      "name": "CABLE MAGNETICO DE CARGA RAPIDA 3 EN 1 MXDZ 631 MESETA",
+      "query": "cable magnetico carga rapida mxdz 631 meseta cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-033",
+      "name": "CABLE MAGNETICO QUITCELL W 20",
+      "query": "cable magnetico quitcell 20 cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-034",
+      "name": "XIAOMI MI STEREO HANDSFREE AUDIFONOS MI 21 14B",
+      "query": "xiaomi mi stereo handsfree audifonos mi 21 14b audífonos headset producto",
+      "image": "/products/audifonos-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-035",
+      "name": "CARGADOR DE AUTO WAYJA V8 CABLE PLEGABLE",
+      "query": "cargador auto wayja v8 cable plegable cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-036",
+      "name": "CABLE RCA - RCA PARA TV DVD 1.5M",
+      "query": "cable rca rca tv dvd 5m cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-037",
+      "name": "CABLE HDMI 5M HOCHI",
+      "query": "cable hdmi 5m hochi cable tecnológico accesorio producto",
+      "image": "/products/cables-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-038",
+      "name": "CABLE TIPO C - USB B IMPRESORA",
+      "query": "cable usb impresora cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-039",
+      "name": "CABLE USB -  USB B IMPRESORA",
+      "query": "cable usb usb impresora cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-040",
+      "name": "Patch Cord LT USA UTP CAT6 LSZH Azul 1Mts LT-PC6-1",
+      "query": "patch cord lt usa utp cat6 lszh azul 1mts lt pc6 cable tecnológico accesorio producto",
+      "image": "/products/cables-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-041",
+      "name": "Cable Patch Cord Cat6 3 Metros LT USA LTT-PC6-3. LSZH",
+      "query": "cable patch cord cat6 metros lt usa ltt pc6 lszh cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-042",
+      "name": "Patch Cord Cat6 15 Metros American Dakar PC6-15M Azul: ¡Conexión Gigabit Estable a Larga Distancia!",
+      "query": "patch cord cat6 15 metros american dakar pc6 15m azul conexion gigabit estable larga cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-043",
+      "name": "CABLE V8 HUAVI 1M U06",
+      "query": "cable v8 huavi 1m u06 cable tecnológico accesorio producto",
+      "image": "/products/cables-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-044",
+      "name": "CABLE V8 HUAVI 3M H20",
+      "query": "cable v8 huavi 3m h20 cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-045",
+      "name": "EXTENSION OPALUX 3 SALIDAS 5M NEON OP FL1205",
+      "query": "extension opalux salidas 5m neon op fl1205 extensión eléctrica producto",
+      "image": "/products/extensiones-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-046",
+      "name": "EXTENSIÓN ELÉCTRICA HOME LIGHT 5 METROS 3 TOMAS UNIVERSALES 16AWG 12A 2600W AMARILLA",
+      "query": "extension electrica home light metros tomas universales 16awg 12a 2600w amarilla accesorio tecnológico producto",
+      "image": "/products/otros-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-047",
+      "name": "Extensión USB por Cable Red Rj45 UTP Adaptador 50 Metros Cat Negro",
+      "query": "extension usb cable red rj45 utp adaptador 50 metros cat negro cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-048",
+      "name": "Funda Anti Golpes Case Disco Duro Externo Cremallera Liso",
+      "query": "funda anti golpes case disco duro externo cremallera liso protector pantalla celular producto",
+      "image": "/products/protectores-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-049",
+      "name": "Extensor Hdmi Rj45 Utp 30 Metros Full Hd 1080p Cat-5e/6",
+      "query": "extensor hdmi rj45 utp 30 metros full hd 1080p cat 5e extensión eléctrica producto",
+      "image": "/products/extensiones-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-050",
+      "name": "Adaptador de Red RJ45 LAN USB 3.0 Gigabit Ethernet para PC",
+      "query": "adaptador red rj45 lan usb gigabit ethernet pc memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-051",
+      "name": "Cabezal de Carga Rapida MY 7106 BAIHUO CITY",
+      "query": "cabezal carga rapida my 7106 baihuo city cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-052",
+      "name": "Cubo cargador buytiti de carga rápida con puerto usb y usb-c, 60w / car-707",
+      "query": "cubo cargador buytiti carga rapida puerto usb usb 60w car 707 cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-053",
+      "name": "USB 32GB DATA TRAVELER EXODIA KINGSTON",
+      "query": "usb 32gb data traveler exodia kingston memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-054",
+      "name": "USB 16GB DATA TRAVELER S9 KINGSTON",
+      "query": "usb 16gb data traveler s9 kingston memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-055",
+      "name": "USB 32GB DATA TRAVELER S9 KINGSTON",
+      "query": "usb 32gb data traveler s9 kingston memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-056",
+      "name": "USB 8GB DATA TRAVELER FLASH KINGSTON",
+      "query": "usb 8gb data traveler flash kingston memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-057",
+      "name": "USB 4GB DATA TRAVELER FLASH KINGSTON",
+      "query": "usb 4gb data traveler flash kingston memoria USB almacenamiento producto",
+      "image": "/products/usb-memorias-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-058",
+      "name": "CABLE SUPERAZ TIPO C 6.8A 1M SA027T",
+      "query": "cable superaz 8a 1m sa027t cable tecnológico accesorio producto",
+      "image": "/products/cables-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-059",
+      "name": "CABLE SUPER TIPO C 2M S2 CB191",
+      "query": "cable super 2m s2 cb191 cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-060",
+      "name": "CABLE TRANYOO V8 6A T S14 V",
+      "query": "cable tranyoo v8 6a s14 cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-061",
+      "name": "CABLE TRANYOO TIPO C T 514 C",
+      "query": "cable tranyoo 514 cable tecnológico accesorio producto",
+      "image": "/products/cables-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-062",
+      "name": "CABLE TIPO C REDD 6.1A RD33T",
+      "query": "cable redd 1a rd33t cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-063",
+      "name": "CABLE LIGTHNING 1.2M  3A VQ D129",
+      "query": "cable ligthning 2m 3a vq d129 cable tecnológico accesorio producto",
+      "image": "/products/cables-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-064",
+      "name": "ADAPTADOR DE CORRIENTE ROMAX 6.2A 80W TCC0526 DADO CUBO",
+      "query": "adaptador corriente romax 2a 80w tcc0526 dado cubo adaptador tecnológico producto",
+      "image": "/products/adaptadores-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-065",
+      "name": "ADAPTADOR DE CORRIENTE GAUCHO 6.2A 50W YS2404 DADO CUBO",
+      "query": "adaptador corriente gaucho 2a 50w ys2404 dado cubo adaptador tecnológico producto",
+      "image": "/products/adaptadores-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-066",
+      "name": "CARGADOR MICCELL 2.4A  VQ T06",
+      "query": "cargador miccell 4a vq t06 cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-067",
+      "name": "CARGADOR HOCO TIPO C 2.1 CS11",
+      "query": "cargador hoco cs11 cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-1.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-068",
+      "name": "CABLE AUXILIAR L REDD RD 20216",
+      "query": "cable auxiliar redd rd 20216 cable tecnológico accesorio producto",
+      "image": "/products/cables-2.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-069",
+      "name": "CARGADOR DE AUTO ROMAX 5.5A 35W",
+      "query": "cargador auto romax 5a 35w cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-3.webp",
+      "source": "fallback"
+    },
+    {
+      "id": "product-070",
+      "name": "CARGADOR DE CARRO REDD 5.5A RD4055",
+      "query": "cargador carro redd 5a rd4055 cargador tecnológico accesorio producto",
+      "image": "/products/cargadores-1.webp",
+      "source": "fallback"
+    }
+  ]
+}
