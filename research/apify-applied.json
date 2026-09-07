@@ -1,0 +1,4171 @@
+{
+  "appliedAt": "2026-09-07T04:05:50.346Z",
+  "datasets": [
+    {
+      "datasetId": "wWzWrgb10jXRDSRwO",
+      "rowCount": 67
+    },
+    {
+      "datasetId": "Iwf1OPsWMTGGdYmVX",
+      "rowCount": 69
+    },
+    {
+      "datasetId": "WHd3MieeOhPxQoNtu",
+      "rowCount": 70
+    },
+    {
+      "datasetId": "lfaZLg3p3oYt4ZLDD",
+      "rowCount": 68
+    },
+    {
+      "datasetId": "R3RXrLr8hnonjUV8f",
+      "rowCount": 70
+    },
+    {
+      "datasetId": "lSfs3OAd0pb6H56wB",
+      "rowCount": 73
+    }
+  ],
+  "rows": 417,
+  "matchedRows": 417,
+  "uniqueProducts": 416,
+  "duplicateRows": 1,
+  "replaced": 373,
+  "failed": 43,
+  "unmatched": [],
+  "failures": [
+    {
+      "productId": "product-146",
+      "name": "MOUSE VOLCAN PC10 M2024SU",
+      "query": "MOUSE VOLCAN PC10 M2024SU",
+      "url": "https://tiendavirtualsuper.com/uploads/products/erp-pc10-a33e3d69eec6.webp",
+      "image": "/products/real/mouse-volcan-pc10-m2024su-146.jpg",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "productId": "product-167",
+      "name": "CONTROL AOC WA 3210",
+      "query": "CONTROL AOC WA 3210",
+      "url": "https://rimage.ripley.cl/home.ripley/Attachment/MKP/7885/MPM10000283260/full_image-1.jpeg",
+      "image": "/products/real/control-aoc-wa-3210-167.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-148",
+      "name": "CARGADOR DE AUTO LDNIO C313Q",
+      "query": "CARGADOR DE AUTO LDNIO C313Q",
+      "url": "https://digitalcorptecnologia.com/wp-content/uploads/2022/10/CM-181B.jpg",
+      "image": "/products/real/cargador-de-auto-ldnio-c313q-148.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-174",
+      "name": "FUNDA DE CONTROL SAMSUNG",
+      "query": "FUNDA DE CONTROL SAMSUNG",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4379/PMP20000301180/full_image-1.png",
+      "image": "/products/real/funda-de-control-samsung-174.webp",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-154",
+      "name": "CARGADOR ALDEEPO ADC08",
+      "query": "CARGADOR ALDEEPO ADC08",
+      "url": "https://oecelperu.pe/assets/uploads/178cf48fabd9dd9416695bbd46fb78e8.png",
+      "image": "/products/real/cargador-aldeepo-adc08-154.jpg",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-209",
+      "name": "MINI LINTERNA LLAVERO CON LUZ LED RECARGABLE",
+      "query": "MINI LINTERNA LLAVERO CON LUZ LED RECARGABLE",
+      "url": "https://www.steren.com.sv/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/228425fc8/mini-linterna-led-tipo-llavero-con-bateria-recargable.jpg",
+      "image": "/products/real/mini-linterna-llavero-con-luz-led-recargable-209.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-164",
+      "name": "CONTROL UNIVERSAL W 190 WAYJA",
+      "query": "CONTROL UNIVERSAL W 190 WAYJA",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1370250756497360",
+      "image": "/products/real/control-universal-w-190-wayja-164.png",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-099",
+      "name": "CABLE LDNIO LC671I TIPO C A LIGHTNING DE 1M 30W CARGA RÁPIDA",
+      "query": "CABLE LDNIO LC671I TIPO C A LIGHTNING DE 1M 30W CARGA RÁPIDA",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3985/PMP20001410284/imagen2-1.jpeg",
+      "image": "/products/real/cable-ldnio-lc671i-tipo-c-a-lightning-de-1m-30w-carga-rapida-99.webp",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-096",
+      "name": "CABLE LDNIO LS441 USB MICRO V8 CARGA RAPIDA 1M LS442",
+      "query": "CABLE LDNIO LS441 USB MICRO V8 CARGA RAPIDA 1M LS442",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4269/PMP20000117155/full_image-1.jpeg",
+      "image": "/products/real/cable-ldnio-ls441-usb-micro-v8-carga-rapida-1m-ls442-96.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-108",
+      "name": "CINTA DOBLE CONTACTO SHURTAPE DF622C",
+      "query": "CINTA DOBLE CONTACTO SHURTAPE DF622C",
+      "url": "https://www.shurtapeperu.com/uploads/shares/1_Shurtape_Fotos_de_productos/11_Cintas_de_Doble_Contacto/Duplo_DF-622/duplo-df-622-foto-producto.jpg",
+      "image": "/products/real/cinta-doble-contacto-shurtape-df622c-108.webp",
+      "status": "failed",
+      "error": "unable to verify the first certificate"
+    },
+    {
+      "productId": "product-109",
+      "name": "RJ45",
+      "query": "RJ45",
+      "url": "https://fibconet.com/wp-content/uploads/2024/07/rj-connector.jpg",
+      "image": "/products/real/rj45-109.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-123",
+      "name": "AUDÍFONOS HOCO ESD15 BLUETOOTH CON MICRÓFONO 12 HORAS",
+      "query": "AUDÍFONOS HOCO ESD15 BLUETOOTH CON MICRÓFONO 12 HORAS",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4584/PMP20000249731/thumbnail-1.jpeg",
+      "image": "/products/real/audifonos-hoco-esd15-bluetooth-con-microfono-12-horas-123.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-083",
+      "name": "CABLE ONCE OC 426",
+      "query": "CABLE ONCE OC 426",
+      "url": "https://www.aisci.de/out/pictures/master/product/1/102-001-426.jpg",
+      "image": "/products/real/cable-once-oc-426-83.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-085",
+      "name": "AUDIFONOS SUPERAZ TIPO C ST 13",
+      "query": "AUDIFONOS SUPERAZ TIPO C ST 13",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3500745653791456661",
+      "image": "/products/real/audifonos-superaz-tipo-c-st-13-85.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-126",
+      "name": "Auriculares Gamer Samzo Ain GM990 – Negro – HandsUp",
+      "query": "Auriculares Gamer Samzo Ain GM990 – Negro – HandsUp",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=27859564737005970",
+      "image": "/products/real/auriculares-gamer-samzo-ain-gm990-negro-handsup-126.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-131",
+      "name": "ALDEEPO AD-M053 MOUSE OPTICO",
+      "query": "ALDEEPO AD-M053 MOUSE OPTICO",
+      "url": "https://oecelperu.pe/assets/uploads/fa3b6e9e02e7c0949df0cfad024b8240.jpeg",
+      "image": "/products/real/aldeepo-ad-m053-mouse-optico-131.webp",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-093",
+      "name": "ROMAX TPL0018 LECTORA MEMORIA USB 4 EN 1",
+      "query": "ROMAX TPL0018 LECTORA MEMORIA USB 4 EN 1",
+      "url": "https://oecelperu.pe/assets/uploads/82c55405539d3ad45f79968db16dc299.png",
+      "image": "/products/real/romax-tpl0018-lectora-memoria-usb-4-en-1-93.png",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-037",
+      "name": "CABLE HDMI 5M HOCHI",
+      "query": "CABLE HDMI 5M HOCHI",
+      "url": "https://oecelperu.pe/assets/uploads/e020b68f7949b65e8634923ca6378da8.png",
+      "image": "/products/real/cable-hdmi-5m-hochi-37.webp",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-026",
+      "name": "CARGADOR SANCI 30W SC T1173V AC",
+      "query": "CARGADOR SANCI 30W SC T1173V AC",
+      "url": "https://cafiniuruguay.com/wp-content/uploads/2025/08/Cargador_R_pido_Sanci_30W_con_Cable_USB_C_2.jpg",
+      "image": "/products/real/cargador-sanci-30w-sc-t1173v-ac-26.avif",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-058",
+      "name": "CABLE SUPERAZ TIPO C 6.8A 1M SA027T",
+      "query": "CABLE SUPERAZ TIPO C 6.8A 1M SA027T",
+      "url": "https://oecelperu.pe/assets/uploads/308cba87802d198cc7eb162367d8ce5f.png",
+      "image": "/products/real/cable-superaz-tipo-c-6-8a-1m-sa027t-58.webp",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-045",
+      "name": "EXTENSION OPALUX 3 SALIDAS 5M NEON OP FL1205",
+      "query": "EXTENSION OPALUX 3 SALIDAS 5M NEON OP FL1205",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4070/PMP20000419379/thumbnail-1.jpeg",
+      "image": "/products/real/extension-opalux-3-salidas-5m-neon-op-fl1205-45.avif",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-061",
+      "name": "CABLE TRANYOO TIPO C T 514 C",
+      "query": "CABLE TRANYOO TIPO C T 514 C",
+      "url": "https://cdn.mafrservices.com/pim-content/LBN/media/product/488044/1750752003/488044_main.jpg",
+      "image": "/products/real/cable-tranyoo-tipo-c-t-514-c-61.avif",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-025",
+      "name": "CARGADOR SANCI 130W SC T2909T AC",
+      "query": "CARGADOR SANCI 130W SC T2909T AC",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1459/PMP20001612084/full_image-1.jpeg",
+      "image": "/products/real/cargador-sanci-130w-sc-t2909t-ac-25.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-070",
+      "name": "CARGADOR DE CARRO REDD 5.5A RD4055",
+      "query": "CARGADOR DE CARRO REDD 5.5A RD4055",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5392610930819447",
+      "image": "/products/real/cargador-de-carro-redd-5-5a-rd4055-70.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-019",
+      "name": "PRESENTADOR DE DIAPOSITIVAS CON PUNTERO LASER PPT POWER POINT PNT LCR",
+      "query": "PRESENTADOR DE DIAPOSITIVAS CON PUNTERO LASER PPT POWER POINT PNT LCR",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4264/PMP20000270230/full_image-1.webp",
+      "image": "/products/real/presentador-de-diapositivas-con-puntero-laser-ppt-power-point-pnt-lcr-19.webp",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-067",
+      "name": "CARGADOR HOCO TIPO C 2.1 CS11",
+      "query": "CARGADOR HOCO TIPO C 2.1 CS11",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3920960394461781622",
+      "image": "/products/real/cargador-hoco-tipo-c-2-1-cs11-67.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-261",
+      "name": "Parlante Bluetooth Alien X18",
+      "query": "Parlante Bluetooth Alien X18",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=150114666405218",
+      "image": "/products/real/parlante-bluetooth-alien-x18-261.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-214",
+      "name": "mini linterna LED COB+ZOOM aleación de aluminio exterior USB recargable telescópico linterna BUYTITI SD-563",
+      "query": "mini linterna LED COB+ZOOM aleación de aluminio exterior USB recargable telescópico linterna BUYTITI SD-563",
+      "url": "https://buytiti.com/wp-content/uploads/2024/11/SD-563-6.jpg",
+      "image": "/products/real/mini-linterna-led-cob-zoom-aleacion-de-aluminio-exterior-usb-recargable-telescopico-linterna-buytiti-sd-563-214.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-244",
+      "name": "FOCO QX 18 PORTIZA",
+      "query": "FOCO QX 18 PORTIZA",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3899881271932367039",
+      "image": "/products/real/foco-qx-18-portiza-244.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-245",
+      "name": "FOCO QX 30 PORTIZA",
+      "query": "FOCO QX 30 PORTIZA",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3899877743926998941",
+      "image": "/products/real/foco-qx-30-portiza-245.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-280",
+      "name": "SOPORTE PARA MOTO BICICLETA BUYTITI SOP 1059",
+      "query": "SOPORTE PARA MOTO BICICLETA BUYTITI SOP 1059",
+      "url": "https://buytiti.com/wp-content/uploads/2024/05/SOP-1059-12.jpg",
+      "image": "/products/real/soporte-para-moto-bicicleta-buytiti-sop-1059-280.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-379",
+      "name": "CARGADOR LDNIO A3513Q CARGA RÁPIDA 32W 2XUSB, 1 USB-C",
+      "query": "CARGADOR LDNIO A3513Q CARGA RÁPIDA 32W 2XUSB, 1 USB-C",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1498/PMP20001113851/thumbnail-1.jpeg",
+      "image": "/products/real/cargador-ldnio-a3513q-carga-rapida-32w-2xusb-1-usb-c-379.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-365",
+      "name": "Turrones Dmiel 750 g",
+      "query": "Turrones Dmiel 750 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100047713641452",
+      "image": "/products/real/turrones-dmiel-750-g-365.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-366",
+      "name": "Turrones D'miel 375 g",
+      "query": "Turrones D'miel 375 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1452995931791788",
+      "image": "/products/real/turrones-d-miel-375-g-366.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-368",
+      "name": "Turrones D'miel 95 g",
+      "query": "Turrones D'miel 95 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066936750514",
+      "image": "/products/real/turrones-d-miel-95-g-368.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-367",
+      "name": "Turrones D'miel 190 g",
+      "query": "Turrones D'miel 190 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1452995931791788",
+      "image": "/products/real/turrones-d-miel-190-g-367.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-415",
+      "name": "SOPORTE ESPEJO RETROVISOR EWTTO",
+      "query": "SOPORTE ESPEJO RETROVISOR EWTTO",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3291896824352482709",
+      "image": "/products/real/soporte-espejo-retrovisor-ewtto-415.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-416",
+      "name": "SOPORTE DE ESCRITORIO CAFINI",
+      "query": "SOPORTE DE ESCRITORIO CAFINI",
+      "url": "https://cafiniuruguay.com/wp-content/uploads/2026/07/Soporte_Doble_Para_2_Monitores_De_Escritorio_13_A_27_Pulgadas_4-255x306.png",
+      "image": "/products/real/soporte-de-escritorio-cafini-416.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-422",
+      "name": "Lapicero Kawai Squishy antiestres",
+      "query": "Lapicero Kawai Squishy antiestres",
+      "url": "https://www.tiktok.com/api/img/?itemId=7252488663009873157&location=0&aid=1988",
+      "image": "/products/real/lapicero-kawai-squishy-antiestres-422.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-281",
+      "name": "SOPORTE PARA MOTO BICICLETA REDD RD 721H",
+      "query": "SOPORTE PARA MOTO BICICLETA REDD RD 721H",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=918319764472676",
+      "image": "/products/real/soporte-para-moto-bicicleta-redd-rd-721h-281.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-282",
+      "name": "SOPORTE DE CELULAR PARA AUTO REDD RD 717H",
+      "query": "SOPORTE DE CELULAR PARA AUTO REDD RD 717H",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2481241962325856",
+      "image": "/products/real/soporte-de-celular-para-auto-redd-rd-717h-282.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-291",
+      "name": "CARGADOR VEX PARA CELULAR 3.1A USB TYPE C (2 PUERTOS) TIPO C",
+      "query": "CARGADOR VEX PARA CELULAR 3.1A USB TYPE C (2 PUERTOS) TIPO C",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4348/PMP20000199382/thumbnail-1.jpeg",
+      "image": "/products/real/cargador-vex-para-celular-3-1a-usb-type-c-2-puertos-tipo-c-291.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-347",
+      "name": "Borrador Blanco Artesco",
+      "query": "Borrador Blanco Artesco",
+      "url": "http://fmdistribucionesdeltolima.com/wp-content/uploads/2025/03/Borrador-chico.jpg",
+      "image": "/products/real/borrador-blanco-artesco-347.webp",
+      "status": "failed",
+      "error": "HTTP 401"
+    }
+  ],
+  "results": [
+    {
+      "productId": "product-191",
+      "name": "ESCUADRON DE REGLAS ESTUCHE GEOMETRICO CRISTAL 30CM",
+      "query": "ESCUADRON DE REGLAS ESTUCHE GEOMETRICO CRISTAL 30CM",
+      "url": "https://offi.pe/image/catalog/PRODUCTOS/UTILES%20ESCOLARES/Utiles%20basicos/Reglas%20transportadores/estuche-geometrico-30cm-artesco.png",
+      "image": "/products/real/escuadron-de-reglas-estuche-geometrico-cristal-30cm-191.png",
+      "status": "replaced",
+      "bytes": 552950
+    },
+    {
+      "productId": "product-195",
+      "name": "LINTERNA HEL 2020 HAO EAR LIANG",
+      "query": "LINTERNA HEL 2020 HAO EAR LIANG",
+      "url": "https://image.made-in-china.com/202f0j00FZkvpqeWQMbB/Helius-Long-Range-Lighting-High-Power-Mining-Cap-Lamp-LED-Headlight-Rechargeable-Multipurpose-LED-Headlamp.jpg",
+      "image": "/products/real/linterna-hel-2020-hao-ear-liang-195.avif",
+      "status": "replaced",
+      "bytes": 11710
+    },
+    {
+      "productId": "product-193",
+      "name": "10 PLASTILINAS DELGADAS ARTESCO",
+      "query": "10 PLASTILINAS DELGADAS ARTESCO",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plastilina-delgada-artesco-x-10-und-1924-default-1.jpg",
+      "image": "/products/real/10-plastilinas-delgadas-artesco-193.jpg",
+      "status": "replaced",
+      "bytes": 112075
+    },
+    {
+      "productId": "product-143",
+      "name": "MOUSE ENKORE PIVOT EKM 105",
+      "query": "MOUSE ENKORE PIVOT EKM 105",
+      "url": "http://enkore.pe/cdn/shop/files/Frontal1920x1920BOTON.webp?v=1712337095",
+      "image": "/products/real/mouse-enkore-pivot-ekm-105-143.webp",
+      "status": "replaced",
+      "bytes": 46860
+    },
+    {
+      "productId": "product-166",
+      "name": "CONTROL REMOTO HYUNDAI WH 5115 SMART",
+      "query": "CONTROL REMOTO HYUNDAI WH 5115 SMART",
+      "url": "https://i.ytimg.com/vi/kCTPOga7y-I/maxresdefault.jpg",
+      "image": "/products/real/control-remoto-hyundai-wh-5115-smart-166.jpg",
+      "status": "replaced",
+      "bytes": 83845
+    },
+    {
+      "productId": "product-141",
+      "name": "FOCO QX 15 PORTIZA",
+      "query": "FOCO QX 15 PORTIZA",
+      "url": "https://loganelectricperu.com/wp-content/uploads/2024/10/FOCO-LED-SENSOR-DE-MOVIMIENTO-15W-PORTIZA-360%C2%B0.webp",
+      "image": "/products/real/foco-qx-15-portiza-141.webp",
+      "status": "replaced",
+      "bytes": 76804
+    },
+    {
+      "productId": "product-142",
+      "name": "MOUSE ENKORE CADET EKM 115",
+      "query": "MOUSE ENKORE CADET EKM 115",
+      "url": "https://www.impulso.pe/imagenes/galeria/productos/24788-impulso-informatico.webp",
+      "image": "/products/real/mouse-enkore-cadet-ekm-115-142.webp",
+      "status": "replaced",
+      "bytes": 154054
+    },
+    {
+      "productId": "product-194",
+      "name": "USB BT RECEPTOR EWTTO ET E0515",
+      "query": "USB BT RECEPTOR EWTTO ET E0515",
+      "url": "http://acdn-us.mitiendanube.com/stores/001/312/239/products/1-2f111e5dc6220f7cca17269257216851-640-0.webp",
+      "image": "/products/real/usb-bt-receptor-ewtto-et-e0515-194.webp",
+      "status": "replaced",
+      "bytes": 22368
+    },
+    {
+      "productId": "product-144",
+      "name": "MOUSE ENKORE ACCESS EKM134",
+      "query": "MOUSE ENKORE ACCESS EKM134",
+      "url": "https://www.impulso.pe/imagenes/galeria/productos/23460-impulso-informatico.webp",
+      "image": "/products/real/mouse-enkore-access-ekm134-144.webp",
+      "status": "replaced",
+      "bytes": 494018
+    },
+    {
+      "productId": "product-192",
+      "name": "REGLA ARTESCO 30CM",
+      "query": "REGLA ARTESCO 30CM",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/regla-30-cm-transp-artesco-10005100-287-default-1.jpg",
+      "image": "/products/real/regla-artesco-30cm-192.jpg",
+      "status": "replaced",
+      "bytes": 31512
+    },
+    {
+      "productId": "product-200",
+      "name": "12 LAPICES GRAFITO 2B ARTESCO",
+      "query": "12 LAPICES GRAFITO 2B ARTESCO",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/477302-1000-1000/image-0e40066a2adb4685b7320f2f519f2c97.jpg?v=637298224246630000",
+      "image": "/products/real/12-lapices-grafito-2b-artesco-200.webp",
+      "status": "replaced",
+      "bytes": 64186
+    },
+    {
+      "productId": "product-198",
+      "name": "MASKINGTAPE SUPER SHURTAPE 3/4\" 55YDS",
+      "query": "MASKINGTAPE SUPER SHURTAPE 3/4\" 55YDS",
+      "url": "http://www.shurtapeperu.com/uploads/shares/1_Shurtape_Fotos_de_productos/2_Masking_Tapes/Masking_Super/Masking-super-01.jpg",
+      "image": "/products/real/maskingtape-super-shurtape-3-4-55yds-198.jpg",
+      "status": "replaced",
+      "bytes": 107931
+    },
+    {
+      "productId": "product-146",
+      "name": "MOUSE VOLCAN PC10 M2024SU",
+      "query": "MOUSE VOLCAN PC10 M2024SU",
+      "url": "https://tiendavirtualsuper.com/uploads/products/erp-pc10-a33e3d69eec6.webp",
+      "image": "/products/real/mouse-volcan-pc10-m2024su-146.jpg",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "productId": "product-197",
+      "name": "CINTA MASKING TAPE MULTIUSO 500 1/2\" 25yds",
+      "query": "CINTA MASKING TAPE MULTIUSO 500 1/2\" 25yds",
+      "url": "https://comercialcaribe.com/cdn/shop/products/23346.jpg?v=1646261793&width=1946",
+      "image": "/products/real/cinta-masking-tape-multiuso-500-1-2-25yds-197.webp",
+      "status": "replaced",
+      "bytes": 27990
+    },
+    {
+      "productId": "product-199",
+      "name": "12 COLORES SUPER INTENSOS ARTESCO",
+      "query": "12 COLORES SUPER INTENSOS ARTESCO",
+      "url": "https://wongfood.vtexassets.com/arquivos/ids/418828-800-auto?v=637511611413930000&width=800&height=auto&aspect=true",
+      "image": "/products/real/12-colores-super-intensos-artesco-199.webp",
+      "status": "replaced",
+      "bytes": 69084
+    },
+    {
+      "productId": "product-167",
+      "name": "CONTROL AOC WA 3210",
+      "query": "CONTROL AOC WA 3210",
+      "url": "https://rimage.ripley.cl/home.ripley/Attachment/MKP/7885/MPM10000283260/full_image-1.jpeg",
+      "image": "/products/real/control-aoc-wa-3210-167.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-145",
+      "name": "MOUSE SUPER PC06 M2024SU",
+      "query": "MOUSE SUPER PC06 M2024SU",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/25885011-1000-1000/imageUrl_1.jpg?v=639184826857730000",
+      "image": "/products/real/mouse-super-pc06-m2024su-145.webp",
+      "status": "replaced",
+      "bytes": 49900
+    },
+    {
+      "productId": "product-168",
+      "name": "CONTROL MIRAY WM 828",
+      "query": "CONTROL MIRAY WM 828",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_813937-MPE32064804290_092019-O.webp",
+      "image": "/products/real/control-miray-wm-828-168.webp",
+      "status": "replaced",
+      "bytes": 14346
+    },
+    {
+      "productId": "product-196",
+      "name": "MICROFONO LAVALIER HOCO LIGHTNING L14",
+      "query": "MICROFONO LAVALIER HOCO LIGHTNING L14",
+      "url": "https://hocotech.com/wp-content/uploads/2022/02/hoco-l14-ltn-lavalier-microphone-package.jpg",
+      "image": "/products/real/microfono-lavalier-hoco-lightning-l14-196.jpg",
+      "status": "replaced",
+      "bytes": 95797
+    },
+    {
+      "productId": "product-148",
+      "name": "CARGADOR DE AUTO LDNIO C313Q",
+      "query": "CARGADOR DE AUTO LDNIO C313Q",
+      "url": "https://digitalcorptecnologia.com/wp-content/uploads/2022/10/CM-181B.jpg",
+      "image": "/products/real/cargador-de-auto-ldnio-c313q-148.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-169",
+      "name": "CONTROL AOC WA 4955",
+      "query": "CONTROL AOC WA 4955",
+      "url": "https://samplesmusicales.com.pe/wp-content/uploads/2021/02/WA4955.webp",
+      "image": "/products/real/control-aoc-wa-4955-169.webp",
+      "status": "replaced",
+      "bytes": 66946
+    },
+    {
+      "productId": "product-171",
+      "name": "CONTROL JVC SMART 4K WJ5598",
+      "query": "CONTROL JVC SMART 4K WJ5598",
+      "url": "https://i5.walmartimages.cl/asr/93ceeaa2-19a9-4efc-b402-07549e72f140.7beb6db3d83ead7aabf89c83a02c286a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+      "image": "/products/real/control-jvc-smart-4k-wj5598-171.avif",
+      "status": "replaced",
+      "bytes": 13592
+    },
+    {
+      "productId": "product-201",
+      "name": "12 LAPICES CHEQUEO ARTESCO",
+      "query": "12 LAPICES CHEQUEO ARTESCO",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/7911719/image-8ec0b37fbc9e494bb65a601d245a2284.jpg?v=638469935506570000",
+      "image": "/products/real/12-lapices-chequeo-artesco-201.webp",
+      "status": "replaced",
+      "bytes": 62172
+    },
+    {
+      "productId": "product-173",
+      "name": "FUNDA PROTECTORA CONTROL LG MAGIC MR20 MR19 NEGRO VARIADO COLORES ROJO WAYJA",
+      "query": "FUNDA PROTECTORA CONTROL LG MAGIC MR20 MR19 NEGRO VARIADO COLORES ROJO WAYJA",
+      "url": "https://m.media-amazon.com/images/I/6117gzSpgAL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/funda-protectora-control-lg-magic-mr20-mr19-negro-variado-colores-rojo-wayja-173.jpg",
+      "status": "replaced",
+      "bytes": 74603
+    },
+    {
+      "productId": "product-150",
+      "name": "AUDIFONO CON CABLE DELUXE A9 SUPER EXTRA BASS",
+      "query": "AUDIFONO CON CABLE DELUXE A9 SUPER EXTRA BASS",
+      "url": "https://smarttec.smarttec.pro/storage/uploads/items/AU199-20241217233605.png",
+      "image": "/products/real/audifono-con-cable-deluxe-a9-super-extra-bass-150.png",
+      "status": "replaced",
+      "bytes": 460655
+    },
+    {
+      "productId": "product-170",
+      "name": "CONTROL JVC SMART 4K L44HN",
+      "query": "CONTROL JVC SMART 4K L44HN",
+      "url": "https://m.media-amazon.com/images/I/61no9qcEM4L._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/control-jvc-smart-4k-l44hn-170.jpg",
+      "status": "replaced",
+      "bytes": 29133
+    },
+    {
+      "productId": "product-147",
+      "name": "MOUSE GAMER SEISA DN C332",
+      "query": "MOUSE GAMER SEISA DN C332",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_746806-MLA99949712589_112025-O.webp",
+      "image": "/products/real/mouse-gamer-seisa-dn-c332-147.webp",
+      "status": "replaced",
+      "bytes": 13414
+    },
+    {
+      "productId": "product-203",
+      "name": "12 PCS WB 9506 WEIBO YELLOW",
+      "query": "12 PCS WB 9506 WEIBO YELLOW",
+      "url": "https://www.weibo-group.com/image/cache/catalog/Pencil%20/9506/WB-9506%20(4)-312x312.jpg",
+      "image": "/products/real/12-pcs-wb-9506-weibo-yellow-203.jpg",
+      "status": "replaced",
+      "bytes": 9991
+    },
+    {
+      "productId": "product-151",
+      "name": "CARGADOR DE AUTO TRONSMART C24",
+      "query": "CARGADOR DE AUTO TRONSMART C24",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_707172-MLU75327263651_032024-O.webp",
+      "image": "/products/real/cargador-de-auto-tronsmart-c24-151.webp",
+      "status": "replaced",
+      "bytes": 10380
+    },
+    {
+      "productId": "product-149",
+      "name": "Audifonos UWO U06",
+      "query": "Audifonos UWO U06",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_692833-MLU78034533136_082024-O.webp",
+      "image": "/products/real/audifonos-uwo-u06-149.webp",
+      "status": "replaced",
+      "bytes": 3444
+    },
+    {
+      "productId": "product-204",
+      "name": "12 PCS WB 9506 WEIBO SKY BLUE CELESTE",
+      "query": "12 PCS WB 9506 WEIBO SKY BLUE CELESTE",
+      "url": "https://www.weibo-group.com/image/cache/catalog/Pencil%20/9506/WB-9506%20(4)-312x312.jpg",
+      "image": "/products/real/12-pcs-wb-9506-weibo-sky-blue-celeste-204.jpg",
+      "status": "replaced",
+      "bytes": 9991
+    },
+    {
+      "productId": "product-153",
+      "name": "CABLE XIAOMI TIPO C OBYW",
+      "query": "CABLE XIAOMI TIPO C OBYW",
+      "url": "https://m.media-amazon.com/images/I/51Z5px5jKWL.jpg",
+      "image": "/products/real/cable-xiaomi-tipo-c-obyw-153.jpg",
+      "status": "replaced",
+      "bytes": 58548
+    },
+    {
+      "productId": "product-175",
+      "name": "CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 5D",
+      "query": "CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 5D",
+      "url": "https://i5.walmartimages.com/asr/b71203b3-48f9-443d-8652-a0091730a681.81adcd3ced0b95b1660683d514b17fa2.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "image": "/products/real/camion-y-dinosaurio-de-juguete-para-ninos-661-5d-175.avif",
+      "status": "replaced",
+      "bytes": 89264
+    },
+    {
+      "productId": "product-174",
+      "name": "FUNDA DE CONTROL SAMSUNG",
+      "query": "FUNDA DE CONTROL SAMSUNG",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4379/PMP20000301180/full_image-1.png",
+      "image": "/products/real/funda-de-control-samsung-174.webp",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-154",
+      "name": "CARGADOR ALDEEPO ADC08",
+      "query": "CARGADOR ALDEEPO ADC08",
+      "url": "https://oecelperu.pe/assets/uploads/178cf48fabd9dd9416695bbd46fb78e8.png",
+      "image": "/products/real/cargador-aldeepo-adc08-154.jpg",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-208",
+      "name": "RELOJ CRONOMETRO TEMPORIZADOR BOSSNEY BS K2554",
+      "query": "RELOJ CRONOMETRO TEMPORIZADOR BOSSNEY BS K2554",
+      "url": "https://i.ytimg.com/vi/k-AFnxUQ79o/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLB65VVbXawRvq4eQ_BFLoqsPU3d9A&usqp=CCk",
+      "image": "/products/real/reloj-cronometro-temporizador-bossney-bs-k2554-208.jpg",
+      "status": "replaced",
+      "bytes": 45845
+    },
+    {
+      "productId": "product-152",
+      "name": "CABLE XIAOMI V8 OBYW",
+      "query": "CABLE XIAOMI V8 OBYW",
+      "url": "https://m.media-amazon.com/images/I/51Z5px5jKWL.jpg",
+      "image": "/products/real/cable-xiaomi-v8-obyw-152.jpg",
+      "status": "replaced",
+      "bytes": 58548
+    },
+    {
+      "productId": "product-205",
+      "name": "STICKY NOTES 100 SHEETS 3X3INCH 76*76MM",
+      "query": "STICKY NOTES 100 SHEETS 3X3INCH 76*76MM",
+      "url": "https://m.media-amazon.com/images/I/41e-qXOz4ML._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/sticky-notes-100-sheets-3x3inch-76-76mm-205.jpg",
+      "status": "replaced",
+      "bytes": 69658
+    },
+    {
+      "productId": "product-177",
+      "name": "Colección Transformers | Galaxy Version 01 Roll Out | Blokee 9 Diseños",
+      "query": "Colección Transformers | Galaxy Version 01 Roll Out | Blokee 9 Diseños",
+      "url": "http://blokees.com/cdn/shop/files/29231718953086_.pic.png?v=1754732375",
+      "image": "/products/real/coleccion-transformers-galaxy-version-01-roll-out-blokee-9-disenos-177.webp",
+      "status": "replaced",
+      "bytes": 64334
+    },
+    {
+      "productId": "product-178",
+      "name": "Pistola Hidrogel MP5 WATER BONB GUN",
+      "query": "Pistola Hidrogel MP5 WATER BONB GUN",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_689837-MLA81654441973_122024-O.webp",
+      "image": "/products/real/pistola-hidrogel-mp5-water-bonb-gun-178.webp",
+      "status": "replaced",
+      "bytes": 25750
+    },
+    {
+      "productId": "product-207",
+      "name": "CINTA MASKING TAPE MULTIUSO 500 18MMX22.86M 3/7\"X25yds",
+      "query": "CINTA MASKING TAPE MULTIUSO 500 18MMX22.86M 3/7\"X25yds",
+      "url": "https://erp.panita.pe//static/media/imagenes/producto/tgUVfozMZ6qc0FeR-prod.jpg",
+      "image": "/products/real/cinta-masking-tape-multiuso-500-18mmx22-86m-3-7-x25yds-207.jpg",
+      "status": "replaced",
+      "bytes": 11536
+    },
+    {
+      "productId": "product-155",
+      "name": "OTG LDNIO TIPO C - USB LC150",
+      "query": "OTG LDNIO TIPO C - USB LC150",
+      "url": "https://ldnio.usa72.wondercdn.com/uploads/image/6358e9f67cb3a.jpg",
+      "image": "/products/real/otg-ldnio-tipo-c-usb-lc150-155.jpg",
+      "status": "replaced",
+      "bytes": 16255
+    },
+    {
+      "productId": "product-176",
+      "name": "CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 6D",
+      "query": "CAMION Y DINOSAURIO DE JUGUETE PARA NIÑOS 661 6D",
+      "url": "https://media.falabella.com/falabellaPE/883231614_2/w=1500,h=1500,fit=cover",
+      "image": "/products/real/camion-y-dinosaurio-de-juguete-para-ninos-661-6d-176.webp",
+      "status": "replaced",
+      "bytes": 84614
+    },
+    {
+      "productId": "product-156",
+      "name": "ADAPTADOR MULTIPLE OPALUX OP 603 L",
+      "query": "ADAPTADOR MULTIPLE OPALUX OP 603 L",
+      "url": "https://irelectronics.pe/wp-content/uploads/2025/02/OP-603-L-02.webp",
+      "image": "/products/real/adaptador-multiple-opalux-op-603-l-156.webp",
+      "status": "replaced",
+      "bytes": 214960
+    },
+    {
+      "productId": "product-209",
+      "name": "MINI LINTERNA LLAVERO CON LUZ LED RECARGABLE",
+      "query": "MINI LINTERNA LLAVERO CON LUZ LED RECARGABLE",
+      "url": "https://www.steren.com.sv/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/228425fc8/mini-linterna-led-tipo-llavero-con-bateria-recargable.jpg",
+      "image": "/products/real/mini-linterna-llavero-con-luz-led-recargable-209.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-210",
+      "name": "Linterna Detector Billetes Uv Ultravioleta Zoom 395nm Recargable",
+      "query": "Linterna Detector Billetes Uv Ultravioleta Zoom 395nm Recargable",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/11043721-1000-1000/imageUrl_1.jpg?v=639187995712700000",
+      "image": "/products/real/linterna-detector-billetes-uv-ultravioleta-zoom-395nm-recargable-210.webp",
+      "status": "replaced",
+      "bytes": 85614
+    },
+    {
+      "productId": "product-158",
+      "name": "CABLE TIPO C MICCELL CON ESTUCHE",
+      "query": "CABLE TIPO C MICCELL CON ESTUCHE",
+      "url": "https://sc04.alicdn.com/kf/He51970b1734e47928df6ae397f94cfbaX.jpg",
+      "image": "/products/real/cable-tipo-c-miccell-con-estuche-158.avif",
+      "status": "replaced",
+      "bytes": 50449
+    },
+    {
+      "productId": "product-179",
+      "name": "Transformer Robot Armable Convertible 0908",
+      "query": "Transformer Robot Armable Convertible 0908",
+      "url": "https://resources.claroshop.com/medios-plazavip/t1/1713294572Transformer2en1jpg",
+      "image": "/products/real/transformer-robot-armable-convertible-0908-179.jpg",
+      "status": "replaced",
+      "bytes": 381751
+    },
+    {
+      "productId": "product-183",
+      "name": "Colección Transformers | Galaxy Version 02 SOS| Blokee 9 Diseños",
+      "query": "Colección Transformers | Galaxy Version 02 SOS| Blokee 9 Diseños",
+      "url": "https://blokeeschile.cl/wp-content/uploads/2024/11/Diseno-sin-titulo-_15_.webp",
+      "image": "/products/real/coleccion-transformers-galaxy-version-02-sos-blokee-9-disenos-183.webp",
+      "status": "replaced",
+      "bytes": 550816
+    },
+    {
+      "productId": "product-159",
+      "name": "CONTROL PANASONIC LED SMART CPS171",
+      "query": "CONTROL PANASONIC LED SMART CPS171",
+      "url": "https://controlexpert.com.mx/cdn/shop/files/CE-PC6_9.jpg?v=1749058498",
+      "image": "/products/real/control-panasonic-led-smart-cps171-159.webp",
+      "status": "replaced",
+      "bytes": 115386
+    },
+    {
+      "productId": "product-202",
+      "name": "12 PCS WB 9506 WEIBO PINK",
+      "query": "12 PCS WB 9506 WEIBO PINK",
+      "url": "https://www.weibo-group.com/image/cache/catalog/Pencil%20/9506/WB-9506%20(4)-312x312.jpg",
+      "image": "/products/real/12-pcs-wb-9506-weibo-pink-202.jpg",
+      "status": "replaced",
+      "bytes": 9991
+    },
+    {
+      "productId": "product-181",
+      "name": "Blokees Transformers Classic Scourge Armable 71143",
+      "query": "Blokees Transformers Classic Scourge Armable 71143",
+      "url": "https://media.vulcanita.com.ar/uploads/2026/03/vulcanita-blokees-transformers-scourge-armable1.webp",
+      "image": "/products/real/blokees-transformers-classic-scourge-armable-71143-181.webp",
+      "status": "replaced",
+      "bytes": 62788
+    },
+    {
+      "productId": "product-185",
+      "name": "DIAMANTINA DE COLORES VARIOS ESCARCHA EN BOLSA",
+      "query": "DIAMANTINA DE COLORES VARIOS ESCARCHA EN BOLSA",
+      "url": "https://pandatech.tiendada.com/api/scrooge/file/FL-E558922A?v=-1",
+      "image": "/products/real/diamantina-de-colores-varios-escarcha-en-bolsa-185.png",
+      "status": "replaced",
+      "bytes": 596718
+    },
+    {
+      "productId": "product-160",
+      "name": "CONTROL LG SMART 4K CPS 5315",
+      "query": "CONTROL LG SMART 4K CPS 5315",
+      "url": "https://down-vn.img.susercontent.com/file/63df11eb431a69875d14441487389542",
+      "image": "/products/real/control-lg-smart-4k-cps-5315-160.jpg",
+      "status": "replaced",
+      "bytes": 60023
+    },
+    {
+      "productId": "product-180",
+      "name": "PISTOLA ATTACK FORCE SUPPER SHOT MANUAL SOFT BULLET GUN",
+      "query": "PISTOLA ATTACK FORCE SUPPER SHOT MANUAL SOFT BULLET GUN",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_937651-MLA76760379970_062024-O.webp",
+      "image": "/products/real/pistola-attack-force-supper-shot-manual-soft-bullet-gun-180.webp",
+      "status": "replaced",
+      "bytes": 10582
+    },
+    {
+      "productId": "product-161",
+      "name": "CONTROL JVC SMART 4K CPS 229",
+      "query": "CONTROL JVC SMART 4K CPS 229",
+      "url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/3840x0/filters:quality(75)/prd-cl/product-medias/cef12cff-a901-448f-90c4-a6168445be5d/MKGPA81IZJ/MKGPA81IZJ-1/1728428420992-MKGPA81IZJ-1-1.jpg",
+      "image": "/products/real/control-jvc-smart-4k-cps-229-161.webp",
+      "status": "replaced",
+      "bytes": 13162
+    },
+    {
+      "productId": "product-163",
+      "name": "AUDIFONOS DEXBO TIPO C DEA1990M",
+      "query": "AUDIFONOS DEXBO TIPO C DEA1990M",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/23645134-1000-1000/imageUrl_1.jpg?v=639028766646800000",
+      "image": "/products/real/audifonos-dexbo-tipo-c-dea1990m-163.webp",
+      "status": "replaced",
+      "bytes": 14236
+    },
+    {
+      "productId": "product-184",
+      "name": "Colección Transformers | Galaxy Version 04 FRACTURED SPACE - TIME | Blokee 9 Diseños",
+      "query": "Colección Transformers | Galaxy Version 04 FRACTURED SPACE - TIME | Blokee 9 Diseños",
+      "url": "https://indemandtoys.co.uk/cdn/shop/files/cd92df0d07478a8bfd25230b3585497ac6b6d6e4_164067_i2_800x.jpg?v=1752662745",
+      "image": "/products/real/coleccion-transformers-galaxy-version-04-fractured-space-time-blokee-9-disenos-184.webp",
+      "status": "replaced",
+      "bytes": 104902
+    },
+    {
+      "productId": "product-162",
+      "name": "CONTROL AOC WA 4215",
+      "query": "CONTROL AOC WA 4215",
+      "url": "https://m.media-amazon.com/images/I/51FPAzSjDaS._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/control-aoc-wa-4215-162.jpg",
+      "status": "replaced",
+      "bytes": 34046
+    },
+    {
+      "productId": "product-188",
+      "name": "ANTENA DE TELEVISOR SEÑAL DIGITAL ALTA DEFINICION INVERSIONES MAU",
+      "query": "ANTENA DE TELEVISOR SEÑAL DIGITAL ALTA DEFINICION INVERSIONES MAU",
+      "url": "https://www.centec.cl/cdn/shop/files/original_91a20bca-1f96-44a4-857f-17b2f58fffb7.png?v=1783919141&width=1254",
+      "image": "/products/real/antena-de-televisor-senal-digital-alta-definicion-inversiones-mau-188.webp",
+      "status": "replaced",
+      "bytes": 40856
+    },
+    {
+      "productId": "product-186",
+      "name": "ANTENAS MAGNETICAS CON SEÑAL DIGITAL ANTENAS YAMIL100% ALTA DEFINICION",
+      "query": "ANTENAS MAGNETICAS CON SEÑAL DIGITAL ANTENAS YAMIL100% ALTA DEFINICION",
+      "url": "https://m.media-amazon.com/images/I/61M9DfL3trL.jpg",
+      "image": "/products/real/antenas-magneticas-con-senal-digital-antenas-yamil100-alta-definicion-186.jpg",
+      "status": "replaced",
+      "bytes": 84067
+    },
+    {
+      "productId": "product-187",
+      "name": "SOPORTE DE CELULAR YUNTNFG 54692",
+      "query": "SOPORTE DE CELULAR YUNTNFG 54692",
+      "url": "https://media.falabella.com/falabellaPE/127321798_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/soporte-de-celular-yuntnfg-54692-187.webp",
+      "status": "replaced",
+      "bytes": 73354
+    },
+    {
+      "productId": "product-164",
+      "name": "CONTROL UNIVERSAL W 190 WAYJA",
+      "query": "CONTROL UNIVERSAL W 190 WAYJA",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1370250756497360",
+      "image": "/products/real/control-universal-w-190-wayja-164.png",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-190",
+      "name": "PROTECTOR DE TECLADO 14\" PULGADAS",
+      "query": "PROTECTOR DE TECLADO 14\" PULGADAS",
+      "url": "https://m.media-amazon.com/images/I/71g6D4wtqiL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/protector-de-teclado-14-pulgadas-190.jpg",
+      "status": "replaced",
+      "bytes": 112220
+    },
+    {
+      "productId": "product-189",
+      "name": "Pila Alcalina Grande D/2 Mmi30082 Duracell",
+      "query": "Pila Alcalina Grande D/2 Mmi30082 Duracell",
+      "url": "https://gpc.pe/cdn/shop/products/5415_8fafd160-d24c-451c-820d-f3bd2fa782fa_600x600_crop_center.jpg?v=1662130134",
+      "image": "/products/real/pila-alcalina-grande-d-2-mmi30082-duracell-189.webp",
+      "status": "replaced",
+      "bytes": 29484
+    },
+    {
+      "productId": "product-206",
+      "name": "STICKY NOTES 100 SHEETS 3X3INCH 76*76MM CORAZON HEART",
+      "query": "STICKY NOTES 100 SHEETS 3X3INCH 76*76MM CORAZON HEART",
+      "url": "https://m.media-amazon.com/images/I/31+Hap27FHL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/sticky-notes-100-sheets-3x3inch-76-76mm-corazon-heart-206.jpg",
+      "status": "replaced",
+      "bytes": 33396
+    },
+    {
+      "productId": "product-182",
+      "name": "Hasbro | Blokees Transformers Classic Bumblebee Figura de Acción Armable 71142",
+      "query": "Hasbro | Blokees Transformers Classic Bumblebee Figura de Acción Armable 71142",
+      "url": "https://media.falabella.com/falabellaPE/139520619_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/hasbro-blokees-transformers-classic-bumblebee-figura-de-accion-armable-71142-182.webp",
+      "status": "replaced",
+      "bytes": 93024
+    },
+    {
+      "productId": "product-165",
+      "name": "CONTROL REMOTO SMART 4K WJ 5497",
+      "query": "CONTROL REMOTO SMART 4K WJ 5497",
+      "url": "https://i5.walmartimages.cl/asr/93ceeaa2-19a9-4efc-b402-07549e72f140.7beb6db3d83ead7aabf89c83a02c286a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+      "image": "/products/real/control-remoto-smart-4k-wj-5497-165.avif",
+      "status": "replaced",
+      "bytes": 13592
+    },
+    {
+      "productId": "product-157",
+      "name": "ADAPTADOR MULTIPLE OPALUX OP 603 K",
+      "query": "ADAPTADOR MULTIPLE OPALUX OP 603 K",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/22498282-1000-1000/imageUrl_1.jpg?v=638959753926800000",
+      "image": "/products/real/adaptador-multiple-opalux-op-603-k-157.webp",
+      "status": "replaced",
+      "bytes": 40328
+    },
+    {
+      "productId": "product-172",
+      "name": "CONTROL HYUNDAY WH5210 SMART",
+      "query": "CONTROL HYUNDAY WH5210 SMART",
+      "url": "https://m.media-amazon.com/images/I/61OvY0wZp4L._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/control-hyunday-wh5210-smart-172.jpg",
+      "status": "replaced",
+      "bytes": 39247
+    },
+    {
+      "productId": "product-103",
+      "name": "CABLE CARGA RÁPIDA LDNIO USB LS641 TC (LS641 TC)",
+      "query": "CABLE CARGA RÁPIDA LDNIO USB LS641 TC (LS641 TC)",
+      "url": "https://image.made-in-china.com/202f0j00ahAvfiutJobH/Ldnio-Ls641-30W-Charger-Cable-3A-Fast-Charging-Braid-USB-to-Micro-USB-Tipo-Type-C-Android-Data-Cable-for-iPhone-USB-Data.webp",
+      "image": "/products/real/cable-carga-rapida-ldnio-usb-ls641-tc-ls641-tc-103.avif",
+      "status": "replaced",
+      "bytes": 2959
+    },
+    {
+      "productId": "product-100",
+      "name": "CABLE DATA LDNIO TYPE-C A LIGHTING LC111",
+      "query": "CABLE DATA LDNIO TYPE-C A LIGHTING LC111",
+      "url": "https://digitronik.pe/cdn/shop/files/C_1000x1000px_29_6767b894-3638-401d-b6ef-0f28f62cee31.jpg?v=1769786319&width=1000",
+      "image": "/products/real/cable-data-ldnio-type-c-a-lighting-lc111-100.webp",
+      "status": "replaced",
+      "bytes": 34124
+    },
+    {
+      "productId": "product-097",
+      "name": "Cable LDNIO 90° Tipo C 2M 2.4A LS422",
+      "query": "Cable LDNIO 90° Tipo C 2M 2.4A LS422",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/17316404-1000-1000/imageUrl_1.jpg?v=638421472079800000",
+      "image": "/products/real/cable-ldnio-90-tipo-c-2m-2-4a-ls422-97.jpg",
+      "status": "replaced",
+      "bytes": 196984
+    },
+    {
+      "productId": "product-099",
+      "name": "CABLE LDNIO LC671I TIPO C A LIGHTNING DE 1M 30W CARGA RÁPIDA",
+      "query": "CABLE LDNIO LC671I TIPO C A LIGHTNING DE 1M 30W CARGA RÁPIDA",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3985/PMP20001410284/imagen2-1.jpeg",
+      "image": "/products/real/cable-ldnio-lc671i-tipo-c-a-lightning-de-1m-30w-carga-rapida-99.webp",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-096",
+      "name": "CABLE LDNIO LS441 USB MICRO V8 CARGA RAPIDA 1M LS442",
+      "query": "CABLE LDNIO LS441 USB MICRO V8 CARGA RAPIDA 1M LS442",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4269/PMP20000117155/full_image-1.jpeg",
+      "image": "/products/real/cable-ldnio-ls441-usb-micro-v8-carga-rapida-1m-ls442-96.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-098",
+      "name": "CABLE LDNIO LC441I DE CARGA RÁPIDA USB-C A LIGHTNING 30W DE 1 M",
+      "query": "CABLE LDNIO LC441I DE CARGA RÁPIDA USB-C A LIGHTNING 30W DE 1 M",
+      "url": "https://www.efe.com.pe/media/catalog/product/c/b/cbl-lc441i-1m_1_1.jpg?quality=85&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+      "image": "/products/real/cable-ldnio-lc441i-de-carga-rapida-usb-c-a-lightning-30w-de-1-m-98.webp",
+      "status": "replaced",
+      "bytes": 9968
+    },
+    {
+      "productId": "product-074",
+      "name": "CARGADOR REDD TIPO C RD32CC",
+      "query": "CARGADOR REDD TIPO C RD32CC",
+      "url": "https://media.falabella.com/falabellaPE/135514182_01/w=1004,h=1500,fit=pad",
+      "image": "/products/real/cargador-redd-tipo-c-rd32cc-74.webp",
+      "status": "replaced",
+      "bytes": 49974
+    },
+    {
+      "productId": "product-102",
+      "name": "Cable USB Tipo C 1 Metro LDNIO LS63 | Carga Rápida 2.4A y Sincronización Reforzada",
+      "query": "Cable USB Tipo C 1 Metro LDNIO LS63 | Carga Rápida 2.4A y Sincronización Reforzada",
+      "url": "https://hdmultimediaperu.com/wp-content/uploads/2023/07/Cable-USB-tipo-C-de-1-Metro-LDNIO-LS63-Carga-Rapida.webp",
+      "image": "/products/real/cable-usb-tipo-c-1-metro-ldnio-ls63-carga-rapida-2-4a-y-sincronizacion-reforzada-102.webp",
+      "status": "replaced",
+      "bytes": 82866
+    },
+    {
+      "productId": "product-072",
+      "name": "CARGADOR REDD TIPO C 8A 100W RD6153C",
+      "query": "CARGADOR REDD TIPO C 8A 100W RD6153C",
+      "url": "https://daleskaimport.com/wp-content/uploads/2026/05/CARGADOR-REDD-RD-6153C-TIPO-C-8A-100W.webp",
+      "image": "/products/real/cargador-redd-tipo-c-8a-100w-rd6153c-72.webp",
+      "status": "replaced",
+      "bytes": 20724
+    },
+    {
+      "productId": "product-105",
+      "name": "CARGADOR PARA AUTO CON CABLE 3 EN 1 DENMEN DZ06E CARGA RAPIDA 15W",
+      "query": "CARGADOR PARA AUTO CON CABLE 3 EN 1 DENMEN DZ06E CARGA RAPIDA 15W",
+      "url": "https://image.made-in-china.com/202f0j00SRZYbJKglozy/Dz06e-3-1A-Fast-Dual-USB-Car-Lighter-Charger-Set-with-3-in-1-Android-Micro-Type-C-and-iPhone-Lightning-Data-Cable.jpg",
+      "image": "/products/real/cargador-para-auto-con-cable-3-en-1-denmen-dz06e-carga-rapida-15w-105.avif",
+      "status": "replaced",
+      "bytes": 21624
+    },
+    {
+      "productId": "product-075",
+      "name": "AUDIFONOS ROMAX EXTRA BASS TCA0311",
+      "query": "AUDIFONOS ROMAX EXTRA BASS TCA0311",
+      "url": "https://www.infofar.com.pe/wp-content/uploads/AUDIFONO-ROMAX-USB-C-BLANCO.jpg",
+      "image": "/products/real/audifonos-romax-extra-bass-tca0311-75.jpg",
+      "status": "replaced",
+      "bytes": 201512
+    },
+    {
+      "productId": "product-108",
+      "name": "CINTA DOBLE CONTACTO SHURTAPE DF622C",
+      "query": "CINTA DOBLE CONTACTO SHURTAPE DF622C",
+      "url": "https://www.shurtapeperu.com/uploads/shares/1_Shurtape_Fotos_de_productos/11_Cintas_de_Doble_Contacto/Duplo_DF-622/duplo-df-622-foto-producto.jpg",
+      "image": "/products/real/cinta-doble-contacto-shurtape-df622c-108.webp",
+      "status": "failed",
+      "error": "unable to verify the first certificate"
+    },
+    {
+      "productId": "product-101",
+      "name": "CABLE LDNIO LC441C DE CARGA RÁPIDA USB-C A USB-C 65W DE 1 M",
+      "query": "CABLE LDNIO LC441C DE CARGA RÁPIDA USB-C A USB-C 65W DE 1 M",
+      "url": "https://m.media-amazon.com/images/I/61uib0O0QOL.jpg",
+      "image": "/products/real/cable-ldnio-lc441c-de-carga-rapida-usb-c-a-usb-c-65w-de-1-m-101.jpg",
+      "status": "replaced",
+      "bytes": 86276
+    },
+    {
+      "productId": "product-109",
+      "name": "RJ45",
+      "query": "RJ45",
+      "url": "https://fibconet.com/wp-content/uploads/2024/07/rj-connector.jpg",
+      "image": "/products/real/rj45-109.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-076",
+      "name": "AUDIFONOS BOSSNEY LIGHTNIING BS 1012i",
+      "query": "AUDIFONOS BOSSNEY LIGHTNIING BS 1012i",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/24461793-800-800/imageUrl_1.jpg?v=639072506125730000",
+      "image": "/products/real/audifonos-bossney-lightniing-bs-1012i-76.webp",
+      "status": "replaced",
+      "bytes": 34136
+    },
+    {
+      "productId": "product-110",
+      "name": "ADAPTADOR DE DVI - HDMI",
+      "query": "ADAPTADOR DE DVI - HDMI",
+      "url": "https://m.media-amazon.com/images/I/81CZrLjRT-L.jpg",
+      "image": "/products/real/adaptador-de-dvi-hdmi-110.jpg",
+      "status": "replaced",
+      "bytes": 407072
+    },
+    {
+      "productId": "product-078",
+      "name": "CABLE C - C BOROFONE X107",
+      "query": "CABLE C - C BOROFONE X107",
+      "url": "https://img.diylooks.com/upload/store/detail_l/EDA006720501A_2.jpg",
+      "image": "/products/real/cable-c-c-borofone-x107-78.jpg",
+      "status": "replaced",
+      "bytes": 184599
+    },
+    {
+      "productId": "product-104",
+      "name": "Cable LDNIO LS63 Carga Rápida 2.4a Usb A Lightning 1m",
+      "query": "Cable LDNIO LS63 Carga Rápida 2.4a Usb A Lightning 1m",
+      "url": "https://media.falabella.com/falabellaPE/121193448_01/w=240,h=240,fit=pad",
+      "image": "/products/real/cable-ldnio-ls63-carga-rapida-2-4a-usb-a-lightning-1m-104.webp",
+      "status": "replaced",
+      "bytes": 3164
+    },
+    {
+      "productId": "product-077",
+      "name": "CABLE AUXILIAR REFORAZO REMALLADO TRENZADO",
+      "query": "CABLE AUXILIAR REFORAZO REMALLADO TRENZADO",
+      "url": "https://cdnx.jumpseller.com/banana-tienda/image/38718450/1.jpg?1724895530",
+      "image": "/products/real/cable-auxiliar-reforazo-remallado-trenzado-77.jpg",
+      "status": "replaced",
+      "bytes": 169007
+    },
+    {
+      "productId": "product-106",
+      "name": "Adaptador Receptor De Audio USB BT Bluetooth Audio Stereo Multicolor",
+      "query": "Adaptador Receptor De Audio USB BT Bluetooth Audio Stereo Multicolor",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/26038568-1000-1000/imageUrl_1.jpg?v=639193177604470000",
+      "image": "/products/real/adaptador-receptor-de-audio-usb-bt-bluetooth-audio-stereo-multicolor-106.webp",
+      "status": "replaced",
+      "bytes": 23974
+    },
+    {
+      "productId": "product-079",
+      "name": "ADAPTADOR DE CORRIENTE REDD 3.8A RD 5 CUBO DADO",
+      "query": "ADAPTADOR DE CORRIENTE REDD 3.8A RD 5 CUBO DADO",
+      "url": "https://pandatech.tiendada.com/api/scrooge/file/FL-422DE258?v=-1",
+      "image": "/products/real/adaptador-de-corriente-redd-3-8a-rd-5-cubo-dado-79.jpg",
+      "status": "replaced",
+      "bytes": 50740
+    },
+    {
+      "productId": "product-121",
+      "name": "Cable Samsung USB Tipo C a C Fast Charger Premium - Negro",
+      "query": "Cable Samsung USB Tipo C a C Fast Charger Premium - Negro",
+      "url": "https://media.falabella.com/falabellaPE/131883265_01/public",
+      "image": "/products/real/cable-samsung-usb-tipo-c-a-c-fast-charger-premium-negro-121.webp",
+      "status": "replaced",
+      "bytes": 7256
+    },
+    {
+      "productId": "product-111",
+      "name": "CIGARRERA MICCELL VQ C03",
+      "query": "CIGARRERA MICCELL VQ C03",
+      "url": "https://www.miccell.com.pe/cdn/shop/files/Dual-USB-negro-Cargador_VQ-C03.webp?v=1707175322&width=1214",
+      "image": "/products/real/cigarrera-miccell-vq-c03-111.webp",
+      "status": "replaced",
+      "bytes": 17546
+    },
+    {
+      "productId": "product-122",
+      "name": "AUDIFONOS INALAMBRICOS URBAN ROCK2",
+      "query": "AUDIFONOS INALAMBRICOS URBAN ROCK2",
+      "url": "https://www.movisunshop.com/data/upload/mall/store/goods/1/1_07902343470998549_1280.jpg",
+      "image": "/products/real/audifonos-inalambricos-urban-rock2-122.jpg",
+      "status": "replaced",
+      "bytes": 27731
+    },
+    {
+      "productId": "product-080",
+      "name": "CABLE MICRO USB - HDMI HAOQI",
+      "query": "CABLE MICRO USB - HDMI HAOQI",
+      "url": "https://m.media-amazon.com/images/I/61iXfGcfa9L._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/cable-micro-usb-hdmi-haoqi-80.jpg",
+      "status": "replaced",
+      "bytes": 40227
+    },
+    {
+      "productId": "product-112",
+      "name": "ADAPTADOR DE TECLADO Y MOUSE MIX LITE",
+      "query": "ADAPTADOR DE TECLADO Y MOUSE MIX LITE",
+      "url": "https://m.media-amazon.com/images/I/61k772s0Y1L.jpg",
+      "image": "/products/real/adaptador-de-teclado-y-mouse-mix-lite-112.jpg",
+      "status": "replaced",
+      "bytes": 95992
+    },
+    {
+      "productId": "product-073",
+      "name": "CARGADOR DE AUTO REDD 87W RD4063PD",
+      "query": "CARGADOR DE AUTO REDD 87W RD4063PD",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_633469-MPE111643088719_052026-O.webp",
+      "image": "/products/real/cargador-de-auto-redd-87w-rd4063pd-73.webp",
+      "status": "replaced",
+      "bytes": 14920
+    },
+    {
+      "productId": "product-113",
+      "name": "OTC TIPO C - USB",
+      "query": "OTC TIPO C - USB",
+      "url": "https://m.media-amazon.com/images/I/31-cP0fUg0L._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/otc-tipo-c-usb-113.jpg",
+      "status": "replaced",
+      "bytes": 26025
+    },
+    {
+      "productId": "product-123",
+      "name": "AUDÍFONOS HOCO ESD15 BLUETOOTH CON MICRÓFONO 12 HORAS",
+      "query": "AUDÍFONOS HOCO ESD15 BLUETOOTH CON MICRÓFONO 12 HORAS",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4584/PMP20000249731/thumbnail-1.jpeg",
+      "image": "/products/real/audifonos-hoco-esd15-bluetooth-con-microfono-12-horas-123.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-114",
+      "name": "Cable de Datos 4 en 1 Carga Rapida 6A Salida 120w Romax",
+      "query": "Cable de Datos 4 en 1 Carga Rapida 6A Salida 120w Romax",
+      "url": "https://toyperu.pe/wp-content/uploads/2026/07/Cable-de-Datos-4-en-1-Carga-Rapi.webp",
+      "image": "/products/real/cable-de-datos-4-en-1-carga-rapida-6a-salida-120w-romax-114.webp",
+      "status": "replaced",
+      "bytes": 23834
+    },
+    {
+      "productId": "product-115",
+      "name": "CABLE TIPO C A PLUG XC-008TP",
+      "query": "CABLE TIPO C A PLUG XC-008TP",
+      "url": "https://heavenstorage.blob.core.windows.net/storageheavenimagenes/2c39c04b-1d55-4d49-81c9-0ed39463cdd8/images/v2/SEISA/4068_small.jpg?sp=r&st=2025-06-19T02:11:26Z&se=2035-06-19T10:11:26Z&spr=https&sv=2024-11-04&sr=c&sig=JTrpEXutEZPdfvCaeQXMhkVlHyRxzKHHZRKwJAxxoq8%3D",
+      "image": "/products/real/cable-tipo-c-a-plug-xc-008tp-115.jpg",
+      "status": "replaced",
+      "bytes": 13478
+    },
+    {
+      "productId": "product-124",
+      "name": "Manguera Expandible de 30 Metros Magic Hose - VERDE",
+      "query": "Manguera Expandible de 30 Metros Magic Hose - VERDE",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/21210510-1000-1000/imageUrl_1.jpg?v=638839243687570000",
+      "image": "/products/real/manguera-expandible-de-30-metros-magic-hose-verde-124.webp",
+      "status": "replaced",
+      "bytes": 70126
+    },
+    {
+      "productId": "product-125",
+      "name": "Audífonos Gamer Misde Light X7",
+      "query": "Audífonos Gamer Misde Light X7",
+      "url": "http://electroslab.com/cdn/shop/files/1_result_result.jpg?v=1751441432",
+      "image": "/products/real/audifonos-gamer-misde-light-x7-125.webp",
+      "status": "replaced",
+      "bytes": 84098
+    },
+    {
+      "productId": "product-083",
+      "name": "CABLE ONCE OC 426",
+      "query": "CABLE ONCE OC 426",
+      "url": "https://www.aisci.de/out/pictures/master/product/1/102-001-426.jpg",
+      "image": "/products/real/cable-once-oc-426-83.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-116",
+      "name": "adaptador HUAWEI HW 059200CHQ",
+      "query": "adaptador HUAWEI HW 059200CHQ",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_832393-MLU75326603391_032024-F.jpg",
+      "image": "/products/real/adaptador-huawei-hw-059200chq-116.jpg",
+      "status": "replaced",
+      "bytes": 74558
+    },
+    {
+      "productId": "product-127",
+      "name": "CIGARRERA PARA AUTO KTS-C933 Dual Usb Charger Audio Music Wireless Handsfree Fm Transmitter Mp3 Player Charger Bt Car Kit Radio Receiver",
+      "query": "CIGARRERA PARA AUTO KTS-C933 Dual Usb Charger Audio Music Wireless Handsfree Fm Transmitter Mp3 Player Charger Bt Car Kit Radio Receiver",
+      "url": "https://sc04.alicdn.com/kf/H9a87574df3864b9eaae152f3cb8e1950v/KTS-C933-Dual-Usb-Charger-Audio-Music-Wireless-Handsfree-Fm-Transmitter-Mp3-Player-Charger-Bt-Car-Kit-Radio-Receiver.jpg",
+      "image": "/products/real/cigarrera-para-auto-kts-c933-dual-usb-charger-audio-music-wireless-handsfree-fm-transmitter-mp3-player-charger-bt-car-kit-radio-receiver-127.avif",
+      "status": "replaced",
+      "bytes": 17628
+    },
+    {
+      "productId": "product-084",
+      "name": "CARGADOR DE TABLET 5V 2A WAYJA",
+      "query": "CARGADOR DE TABLET 5V 2A WAYJA",
+      "url": "https://bateriasonline.com/1077-medium_default/cargador-tablet-5v-2a-conector-25mm-cargadores-tablets.webp",
+      "image": "/products/real/cargador-de-tablet-5v-2a-wayja-84.webp",
+      "status": "replaced",
+      "bytes": 5084
+    },
+    {
+      "productId": "product-118",
+      "name": "CABLE EWTTO ET E4339C",
+      "query": "CABLE EWTTO ET E4339C",
+      "url": "https://powertechsantander.com/assets/uploads/dce2fcb2227df9e6b356273ead3e0805.png",
+      "image": "/products/real/cable-ewtto-et-e4339c-118.png",
+      "status": "replaced",
+      "bytes": 3896
+    },
+    {
+      "productId": "product-082",
+      "name": "CABLE LEXT 5.1A XF 34",
+      "query": "CABLE LEXT 5.1A XF 34",
+      "url": "https://pandatech.tiendada.com/api/scrooge/file/FL-76398785?v=-1",
+      "image": "/products/real/cable-lext-5-1a-xf-34-82.png",
+      "status": "replaced",
+      "bytes": 489959
+    },
+    {
+      "productId": "product-086",
+      "name": "AUDIFONOS SUPERAZ TIPO C ST 09",
+      "query": "AUDIFONOS SUPERAZ TIPO C ST 09",
+      "url": "http://www.stf.tech/cdn/shop/files/ST-E60969-2.jpg?v=1705604466",
+      "image": "/products/real/audifonos-superaz-tipo-c-st-09-86.webp",
+      "status": "replaced",
+      "bytes": 22784
+    },
+    {
+      "productId": "product-085",
+      "name": "AUDIFONOS SUPERAZ TIPO C ST 13",
+      "query": "AUDIFONOS SUPERAZ TIPO C ST 13",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3500745653791456661",
+      "image": "/products/real/audifonos-superaz-tipo-c-st-13-85.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-117",
+      "name": "CABLE TIPO C - IP 1HORA CAB273",
+      "query": "CABLE TIPO C - IP 1HORA CAB273",
+      "url": "http://1hora.com/cdn/shop/files/16_80d6195b-e110-4d91-b640-00f072d469ff.png?v=1769480072",
+      "image": "/products/real/cable-tipo-c-ip-1hora-cab273-117.webp",
+      "status": "replaced",
+      "bytes": 66016
+    },
+    {
+      "productId": "product-129",
+      "name": "SOPORTE PARA AUTO ROMAX HOLDER MAGNETICO IMANTADO TCH0268",
+      "query": "SOPORTE PARA AUTO ROMAX HOLDER MAGNETICO IMANTADO TCH0268",
+      "url": "https://coolboxpe.vtexassets.com/arquivos/ids/470853/image-61e4b920f35e4c6090196f9d1afdf652.jpg?v=638878535962730000",
+      "image": "/products/real/soporte-para-auto-romax-holder-magnetico-imantado-tch0268-129.webp",
+      "status": "replaced",
+      "bytes": 23376
+    },
+    {
+      "productId": "product-087",
+      "name": "ADAPTADOR DE CORRIENTE REDD 45W RD17PD",
+      "query": "ADAPTADOR DE CORRIENTE REDD 45W RD17PD",
+      "url": "https://m.media-amazon.com/images/I/51DocYJ94jL.jpg",
+      "image": "/products/real/adaptador-de-corriente-redd-45w-rd17pd-87.jpg",
+      "status": "replaced",
+      "bytes": 61939
+    },
+    {
+      "productId": "product-126",
+      "name": "Auriculares Gamer Samzo Ain GM990 – Negro – HandsUp",
+      "query": "Auriculares Gamer Samzo Ain GM990 – Negro – HandsUp",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=27859564737005970",
+      "image": "/products/real/auriculares-gamer-samzo-ain-gm990-negro-handsup-126.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-088",
+      "name": "ADAPTADOR DE CORRIENTE REDD 67W RD8",
+      "query": "ADAPTADOR DE CORRIENTE REDD 67W RD8",
+      "url": "https://pandatech.tiendada.com/api/scrooge/file/FL-D5D9DDE2?v=-1",
+      "image": "/products/real/adaptador-de-corriente-redd-67w-rd8-88.png",
+      "status": "replaced",
+      "bytes": 290141
+    },
+    {
+      "productId": "product-128",
+      "name": "SOPORTE PARA AUTO RT 60H AIR OUTLET CAR",
+      "query": "SOPORTE PARA AUTO RT 60H AIR OUTLET CAR",
+      "url": "https://sc04.alicdn.com/kf/H9624424e68844e7b81f87c54f82b3e7f8.jpg",
+      "image": "/products/real/soporte-para-auto-rt-60h-air-outlet-car-128.avif",
+      "status": "replaced",
+      "bytes": 24807
+    },
+    {
+      "productId": "product-091",
+      "name": "Auriculares Motorola Earbuds 2 Con Micrófono",
+      "query": "Auriculares Motorola Earbuds 2 Con Micrófono",
+      "url": "https://m.media-amazon.com/images/I/61QDEPaslRL.jpg",
+      "image": "/products/real/auriculares-motorola-earbuds-2-con-microfono-91.jpg",
+      "status": "replaced",
+      "bytes": 79613
+    },
+    {
+      "productId": "product-132",
+      "name": "MOUSE HOCHI GAMER GM-02",
+      "query": "MOUSE HOCHI GAMER GM-02",
+      "url": "https://sp628.liverpool.com.mx/i/1113792813.jpg",
+      "image": "/products/real/mouse-hochi-gamer-gm-02-132.avif",
+      "status": "replaced",
+      "bytes": 24912
+    },
+    {
+      "productId": "product-235",
+      "name": "Soporte de Coche Telescopico Giratorio XO C146",
+      "query": "Soporte de Coche Telescopico Giratorio XO C146",
+      "url": "https://plazavea.vteximg.com.br/arquivos/ids/30451067-450-450/imageUrl_1.jpg?v=638733835373530000",
+      "image": "/products/real/soporte-de-coche-telescopico-giratorio-xo-c146-235.webp",
+      "status": "replaced",
+      "bytes": 8970
+    },
+    {
+      "productId": "product-107",
+      "name": "AUDIFONOS DE UNICORNIO BY 2303",
+      "query": "AUDIFONOS DE UNICORNIO BY 2303",
+      "url": "https://www.northtoyou.com/cdn/shop/products/image_cca466a8-0da1-4cea-9744-37dbbf219148_grande.jpg?v=1571720465",
+      "image": "/products/real/audifonos-de-unicornio-by-2303-107.webp",
+      "status": "replaced",
+      "bytes": 11076
+    },
+    {
+      "productId": "product-135",
+      "name": "ELITE J1 VEX",
+      "query": "ELITE J1 VEX",
+      "url": "https://static.wixstatic.com/media/08dfab_288b22b6999b4b0487ed3f4ebee7ec14~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+      "image": "/products/real/elite-j1-vex-135.jpg",
+      "status": "replaced",
+      "bytes": 34405
+    },
+    {
+      "productId": "product-089",
+      "name": "AUDIFONOS PHILIPS SHE3501PK",
+      "query": "AUDIFONOS PHILIPS SHE3501PK",
+      "url": "https://pcxeon.com/10130-large_default/auriculares-intrauditivos-philips-she3501pk-blanco-rosa.jpg",
+      "image": "/products/real/audifonos-philips-she3501pk-89.jpg",
+      "status": "replaced",
+      "bytes": 33216
+    },
+    {
+      "productId": "product-131",
+      "name": "ALDEEPO AD-M053 MOUSE OPTICO",
+      "query": "ALDEEPO AD-M053 MOUSE OPTICO",
+      "url": "https://oecelperu.pe/assets/uploads/fa3b6e9e02e7c0949df0cfad024b8240.jpeg",
+      "image": "/products/real/aldeepo-ad-m053-mouse-optico-131.webp",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-081",
+      "name": "CABLE ALDEEPO AD I610",
+      "query": "CABLE ALDEEPO AD I610",
+      "url": "https://oecel.facel.pe/assets/uploads/0dbd5a3030e6bac14e463d115f90b00c.png",
+      "image": "/products/real/cable-aldeepo-ad-i610-81.png",
+      "status": "replaced",
+      "bytes": 345663
+    },
+    {
+      "productId": "product-092",
+      "name": "AUDIFONOS EARBUDS 3-S MOTOROLA",
+      "query": "AUDIFONOS EARBUDS 3-S MOTOROLA",
+      "url": "https://m.media-amazon.com/images/I/61mqDZ3NsBL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/audifonos-earbuds-3-s-motorola-92.jpg",
+      "status": "replaced",
+      "bytes": 35842
+    },
+    {
+      "productId": "product-119",
+      "name": "CABLE V8 MOTOROLA TURBO POWER",
+      "query": "CABLE V8 MOTOROLA TURBO POWER",
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/61bdyV5wrZL._AC_UL495_SR435,495_.jpg",
+      "image": "/products/real/cable-v8-motorola-turbo-power-119.jpg",
+      "status": "replaced",
+      "bytes": 21869
+    },
+    {
+      "productId": "product-134",
+      "name": "MOUSE PAD GAMER JX-3080.",
+      "query": "MOUSE PAD GAMER JX-3080.",
+      "url": "https://nanotech-market.com/wp-content/uploads/2023/07/Lime-Green-and-Black-Active-Hype-Personal-Fitness-Coach-Instagram-Post-2023-07-12T144813.217.png",
+      "image": "/products/real/mouse-pad-gamer-jx-3080-134.png",
+      "status": "replaced",
+      "bytes": 848044
+    },
+    {
+      "productId": "product-138",
+      "name": "AUDIFONOS XINKUANG XK HB104",
+      "query": "AUDIFONOS XINKUANG XK HB104",
+      "url": "https://cdn.cucu.bo/mayorista/evolution-19874-0.jpg",
+      "image": "/products/real/audifonos-xinkuang-xk-hb104-138.jpg",
+      "status": "replaced",
+      "bytes": 83460
+    },
+    {
+      "productId": "product-095",
+      "name": "CARGADOR DE AUTO LDNIO C2 36W LED DISPLAY DUAL QC3.0",
+      "query": "CARGADOR DE AUTO LDNIO C2 36W LED DISPLAY DUAL QC3.0",
+      "url": "https://media.falabella.com/falabellaPE/138357034_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/cargador-de-auto-ldnio-c2-36w-led-display-dual-qc3-0-95.webp",
+      "status": "replaced",
+      "bytes": 56120
+    },
+    {
+      "productId": "product-137",
+      "name": "Altavoz Wireless Speaker - Lx05",
+      "query": "Altavoz Wireless Speaker - Lx05",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_910927-MPE89140700268_082025-O.webp",
+      "image": "/products/real/altavoz-wireless-speaker-lx05-137.webp",
+      "status": "replaced",
+      "bytes": 23230
+    },
+    {
+      "productId": "product-090",
+      "name": "AUDIFONOS PHILIPS MYJAM  SHE3555RD/00",
+      "query": "AUDIFONOS PHILIPS MYJAM  SHE3555RD/00",
+      "url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/3840x0/filters:quality(75)/prd-cl/product-medias/c1ece679-8b30-427a-8b6f-afdfe17f9414/MKWQVJT0RX/MKWQVJT0RX-1/1743790283349-MKWQVJT0RX-1-2.png",
+      "image": "/products/real/audifonos-philips-myjam-she3555rd-00-90.webp",
+      "status": "replaced",
+      "bytes": 70040
+    },
+    {
+      "productId": "product-093",
+      "name": "ROMAX TPL0018 LECTORA MEMORIA USB 4 EN 1",
+      "query": "ROMAX TPL0018 LECTORA MEMORIA USB 4 EN 1",
+      "url": "https://oecelperu.pe/assets/uploads/82c55405539d3ad45f79968db16dc299.png",
+      "image": "/products/real/romax-tpl0018-lectora-memoria-usb-4-en-1-93.png",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-140",
+      "name": "ESTABILIZADOR 1200VA(600W) FORZA FVR-1222USB 8-Tomas 2pt-USB Proteccion inteligente frente a variaciones electricas.",
+      "query": "ESTABILIZADOR 1200VA(600W) FORZA FVR-1222USB 8-Tomas 2pt-USB Proteccion inteligente frente a variaciones electricas.",
+      "url": "https://cdn.memorykings.pe/files/2026/01/27/348038-MK035410A.jpg",
+      "image": "/products/real/estabilizador-1200va-600w-forza-fvr-1222usb-8-tomas-2pt-usb-proteccion-inteligente-frente-a-variaciones-electricas-140.jpg",
+      "status": "replaced",
+      "bytes": 63757
+    },
+    {
+      "productId": "product-136",
+      "name": "Altavoz Wireless Speaker - Lx06",
+      "query": "Altavoz Wireless Speaker - Lx06",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_696843-MPE89139856332_082025-O.webp",
+      "image": "/products/real/altavoz-wireless-speaker-lx06-136.webp",
+      "status": "replaced",
+      "bytes": 21070
+    },
+    {
+      "productId": "product-139",
+      "name": "ESTABILIZADOR 900VA(450W) FORZA FVR- 902 8-Tomas",
+      "query": "ESTABILIZADOR 900VA(450W) FORZA FVR- 902 8-Tomas",
+      "url": "https://forza-ups-frontend.s3.amazonaws.com/media/img/FVR-902_2.jpg",
+      "image": "/products/real/estabilizador-900va-450w-forza-fvr-902-8-tomas-139.jpg",
+      "status": "replaced",
+      "bytes": 129288
+    },
+    {
+      "productId": "product-094",
+      "name": "HUAWEI AM116 Auriculares intrauditivos con micrófono y control de volumen metálico Cancelación de ruido Llamadas de audio de alta definición para HUAWEI Honor",
+      "query": "HUAWEI AM116 Auriculares intrauditivos con micrófono y control de volumen metálico Cancelación de ruido Llamadas de audio de alta definición para HUAWEI Honor",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_911833-MLA99993428797_112025-O.webp",
+      "image": "/products/real/huawei-am116-auriculares-intrauditivos-con-microfono-y-control-de-volumen-metalico-cancelacion-de-ruido-llamadas-de-audio-de-alta-definicion-para-huawei-honor-94.webp",
+      "status": "replaced",
+      "bytes": 6562
+    },
+    {
+      "productId": "product-130",
+      "name": "Soporte Para Celular O Tablet Manito Ok Stand Flexible",
+      "query": "Soporte Para Celular O Tablet Manito Ok Stand Flexible",
+      "url": "https://nanotech-market.com/wp-content/uploads/2023/05/Lime-Green-and-Black-Active-Hype-Personal-Fitness-Coach-Instagram-Post-78.png",
+      "image": "/products/real/soporte-para-celular-o-tablet-manito-ok-stand-flexible-130.png",
+      "status": "replaced",
+      "bytes": 491846
+    },
+    {
+      "productId": "product-120",
+      "name": "Cargador Motorola g60 ep ta200",
+      "query": "Cargador Motorola g60 ep ta200",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_839236-MLA106755614122_022026-O.webp",
+      "image": "/products/real/cargador-motorola-g60-ep-ta200-120.webp",
+      "status": "replaced",
+      "bytes": 12936
+    },
+    {
+      "productId": "product-001",
+      "name": "SUPERGLUE SOLDIMIX 1G",
+      "query": "SUPERGLUE SOLDIMIX 1G",
+      "url": "https://dojiw2m9tvv09.cloudfront.net/79550/product/unjn3223.png",
+      "image": "/products/real/superglue-soldimix-1g-1.png",
+      "status": "replaced",
+      "bytes": 89906
+    },
+    {
+      "productId": "product-032",
+      "name": "CABLE MAGNETICO DE CARGA RAPIDA 3 EN 1 MXDZ 631 MESETA",
+      "query": "CABLE MAGNETICO DE CARGA RAPIDA 3 EN 1 MXDZ 631 MESETA",
+      "url": "https://m.media-amazon.com/images/I/71ES1KJcIZL.jpg",
+      "image": "/products/real/cable-magnetico-de-carga-rapida-3-en-1-mxdz-631-meseta-32.jpg",
+      "status": "replaced",
+      "bytes": 150688
+    },
+    {
+      "productId": "product-030",
+      "name": "CABLE AUXILIAR HUAVI Y 01 1M",
+      "query": "CABLE AUXILIAR HUAVI Y 01 1M",
+      "url": "https://www.tiendaamiga.com.bo/media/catalog/product/cache/deb88dadd509903c96aaa309d3e790dc/a/u/auxiliar_cable.jpeg",
+      "image": "/products/real/cable-auxiliar-huavi-y-01-1m-30.webp",
+      "status": "replaced",
+      "bytes": 6302
+    },
+    {
+      "productId": "product-052",
+      "name": "Cubo cargador buytiti de carga rápida con puerto usb y usb-c, 60w / car-707",
+      "query": "Cubo cargador buytiti de carga rápida con puerto usb y usb-c, 60w / car-707",
+      "url": "https://cdn.joinet.com/wp-content/uploads/2026/04/CAR-707-02.webp",
+      "image": "/products/real/cubo-cargador-buytiti-de-carga-rapida-con-puerto-usb-y-usb-c-60w-car-707-52.webp",
+      "status": "replaced",
+      "bytes": 32932
+    },
+    {
+      "productId": "product-033",
+      "name": "CABLE MAGNETICO QUITCELL W 20",
+      "query": "CABLE MAGNETICO QUITCELL W 20",
+      "url": "https://www.hexcal.com/cdn/shop/files/Hexcal_Magnetic_Charging_Cable_Profile_Picture_6cd9899b-152c-47f0-90f0-91c8d9a389a6.png?v=1760492745",
+      "image": "/products/real/cable-magnetico-quitcell-w-20-33.webp",
+      "status": "replaced",
+      "bytes": 42668
+    },
+    {
+      "productId": "product-028",
+      "name": "CABLE USB 3 TIPOS DE ENTRADA TURBO S5 CHARGE",
+      "query": "CABLE USB 3 TIPOS DE ENTRADA TURBO S5 CHARGE",
+      "url": "https://alra-solutions.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-01-09-at-12.50.04-PM-1-1.jpeg",
+      "image": "/products/real/cable-usb-3-tipos-de-entrada-turbo-s5-charge-28.jpg",
+      "status": "replaced",
+      "bytes": 156008
+    },
+    {
+      "productId": "product-031",
+      "name": "CABLE MAGNETICO FLUJO LED CARGA RAPIDA ROTACION 360°",
+      "query": "CABLE MAGNETICO FLUJO LED CARGA RAPIDA ROTACION 360°",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_745448-MPE47475963744_092021-O.webp",
+      "image": "/products/real/cable-magnetico-flujo-led-carga-rapida-rotacion-360-31.webp",
+      "status": "replaced",
+      "bytes": 7352
+    },
+    {
+      "productId": "product-027",
+      "name": "CABLE MULTIUSOS PULPO 3 EN 1 SUPER 6A S4 REMALLADO TRENZADO REFORZADO DIZOYIN",
+      "query": "CABLE MULTIUSOS PULPO 3 EN 1 SUPER 6A S4 REMALLADO TRENZADO REFORZADO DIZOYIN",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_756786-MLM72044647979_102023-O.webp",
+      "image": "/products/real/cable-multiusos-pulpo-3-en-1-super-6a-s4-remallado-trenzado-reforzado-dizoyin-27.webp",
+      "status": "replaced",
+      "bytes": 22732
+    },
+    {
+      "productId": "product-003",
+      "name": "FOLDER A4 C/2 BOLSILLOS FB1416-SF",
+      "query": "FOLDER A4 C/2 BOLSILLOS FB1416-SF",
+      "url": "https://www.faber-castell.com.pe/-/media/Products/Product-Repository/Office-supplies/24-22-01-Desktop-Organisation/306037-File-A4-2-pockets-FB1416-SF-violet/Images/306037_10_PM1.ashx?bc=ffffff&as=0&h=900&w=900&sc_lang=es-PE&hash=DA839D69AEE335E3F83DA7A12018B561",
+      "image": "/products/real/folder-a4-c-2-bolsillos-fb1416-sf-3.webp",
+      "status": "replaced",
+      "bytes": 12354
+    },
+    {
+      "productId": "product-004",
+      "name": "PILAS AA 2 MN 1500B2",
+      "query": "PILAS AA 2 MN 1500B2",
+      "url": "https://netcomputadores.com.br/dbimg/produtos/mn1500b2_58588_g.jpg",
+      "image": "/products/real/pilas-aa-2-mn-1500b2-4.jpg",
+      "status": "replaced",
+      "bytes": 106311
+    },
+    {
+      "productId": "product-054",
+      "name": "USB 16GB DATA TRAVELER S9 KINGSTON",
+      "query": "USB 16GB DATA TRAVELER S9 KINGSTON",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_676151-MLA32150771647_092019-O.webp",
+      "image": "/products/real/usb-16gb-data-traveler-s9-kingston-54.webp",
+      "status": "replaced",
+      "bytes": 16136
+    },
+    {
+      "productId": "product-002",
+      "name": "SUPERGLUE CHEMMER 3G",
+      "query": "SUPERGLUE CHEMMER 3G",
+      "url": "http://www.chemmer.com.tw/product/3101G.jpg",
+      "image": "/products/real/superglue-chemmer-3g-2.jpg",
+      "status": "replaced",
+      "bytes": 36252
+    },
+    {
+      "productId": "product-035",
+      "name": "CARGADOR DE AUTO WAYJA V8 CABLE PLEGABLE",
+      "query": "CARGADOR DE AUTO WAYJA V8 CABLE PLEGABLE",
+      "url": "https://digitalmtx.com/wp-content/uploads/Cargador-carro-V8-ACM2-5451-0.webp",
+      "image": "/products/real/cargador-de-auto-wayja-v8-cable-plegable-35.webp",
+      "status": "replaced",
+      "bytes": 7482
+    },
+    {
+      "productId": "product-053",
+      "name": "USB 32GB DATA TRAVELER EXODIA KINGSTON",
+      "query": "USB 32GB DATA TRAVELER EXODIA KINGSTON",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_786764-MLA92054715133_092025-O.webp",
+      "image": "/products/real/usb-32gb-data-traveler-exodia-kingston-53.webp",
+      "status": "replaced",
+      "bytes": 17742
+    },
+    {
+      "productId": "product-051",
+      "name": "Cabezal de Carga Rapida MY 7106 BAIHUO CITY",
+      "query": "Cabezal de Carga Rapida MY 7106 BAIHUO CITY",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_634499-MLV107076346848_022026-O.webp",
+      "image": "/products/real/cabezal-de-carga-rapida-my-7106-baihuo-city-51.webp",
+      "status": "replaced",
+      "bytes": 6384
+    },
+    {
+      "productId": "product-034",
+      "name": "XIAOMI MI STEREO HANDSFREE AUDIFONOS MI 21 14B",
+      "query": "XIAOMI MI STEREO HANDSFREE AUDIFONOS MI 21 14B",
+      "url": "https://www.electronicospormayorbolivia.com/wp-content/uploads/2020/11/xiaomi-5.jpg",
+      "image": "/products/real/xiaomi-mi-stereo-handsfree-audifonos-mi-21-14b-34.jpg",
+      "status": "replaced",
+      "bytes": 210528
+    },
+    {
+      "productId": "product-036",
+      "name": "CABLE RCA - RCA PARA TV DVD 1.5M",
+      "query": "CABLE RCA - RCA PARA TV DVD 1.5M",
+      "url": "https://m.media-amazon.com/images/I/512Kjz0KnML._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/cable-rca-rca-para-tv-dvd-1-5m-36.jpg",
+      "status": "replaced",
+      "bytes": 49906
+    },
+    {
+      "productId": "product-056",
+      "name": "USB 8GB DATA TRAVELER FLASH KINGSTON",
+      "query": "USB 8GB DATA TRAVELER FLASH KINGSTON",
+      "url": "https://m.media-amazon.com/images/I/71WmB03+9HL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/usb-8gb-data-traveler-flash-kingston-56.jpg",
+      "status": "replaced",
+      "bytes": 35156
+    },
+    {
+      "productId": "product-007",
+      "name": "SOBRE CON BROCHE TRANSPARENTE ARTESCO A4",
+      "query": "SOBRE CON BROCHE TRANSPARENTE ARTESCO A4",
+      "url": "https://comercial-li.com.pe/cdn/shop/products/159959.jpg?v=1594057868&width=800",
+      "image": "/products/real/sobre-con-broche-transparente-artesco-a4-7.webp",
+      "status": "replaced",
+      "bytes": 13130
+    },
+    {
+      "productId": "product-037",
+      "name": "CABLE HDMI 5M HOCHI",
+      "query": "CABLE HDMI 5M HOCHI",
+      "url": "https://oecelperu.pe/assets/uploads/e020b68f7949b65e8634923ca6378da8.png",
+      "image": "/products/real/cable-hdmi-5m-hochi-37.webp",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-055",
+      "name": "USB 32GB DATA TRAVELER S9 KINGSTON",
+      "query": "USB 32GB DATA TRAVELER S9 KINGSTON",
+      "url": "https://m.media-amazon.com/images/I/71DpL3Yf93L._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/usb-32gb-data-traveler-s9-kingston-55.jpg",
+      "status": "replaced",
+      "bytes": 85667
+    },
+    {
+      "productId": "product-039",
+      "name": "CABLE USB -  USB B IMPRESORA",
+      "query": "CABLE USB -  USB B IMPRESORA",
+      "url": "https://m.media-amazon.com/images/I/61SRAbiYvyL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/cable-usb-usb-b-impresora-39.jpg",
+      "status": "replaced",
+      "bytes": 26935
+    },
+    {
+      "productId": "product-040",
+      "name": "Patch Cord LT USA UTP CAT6 LSZH Azul 1Mts LT-PC6-1",
+      "query": "Patch Cord LT USA UTP CAT6 LSZH Azul 1Mts LT-PC6-1",
+      "url": "https://gabineteyrack.pe/wp-content/uploads/2024/10/Patch-Cord-LT-USA-UTP-CAT6-LSZH-Azul-1Mts-LT-PC6-1.jpg",
+      "image": "/products/real/patch-cord-lt-usa-utp-cat6-lszh-azul-1mts-lt-pc6-1-40.webp",
+      "status": "replaced",
+      "bytes": 30278
+    },
+    {
+      "productId": "product-041",
+      "name": "Cable Patch Cord Cat6 3 Metros LT USA LTT-PC6-3. LSZH",
+      "query": "Cable Patch Cord Cat6 3 Metros LT USA LTT-PC6-3. LSZH",
+      "url": "https://hdmultimediaperu.com/wp-content/uploads/2024/11/Cable-Patch-Cord-Cat6-3-Metros-LSZH-LT-USA-LTT-PC6-3____03.webp",
+      "image": "/products/real/cable-patch-cord-cat6-3-metros-lt-usa-ltt-pc6-3-lszh-41.webp",
+      "status": "replaced",
+      "bytes": 113196
+    },
+    {
+      "productId": "product-005",
+      "name": "PILAS AAA 2 MN 2400B2",
+      "query": "PILAS AAA 2 MN 2400B2",
+      "url": "https://giassi.vtexassets.com/arquivos/ids/5539632/Pilha-Alcalina-AAA-MN-2400B2-Duracell-2-Unidades-15V.jpg?v=638702316031970000",
+      "image": "/products/real/pilas-aaa-2-mn-2400b2-5.webp",
+      "status": "replaced",
+      "bytes": 79570
+    },
+    {
+      "productId": "product-057",
+      "name": "USB 4GB DATA TRAVELER FLASH KINGSTON",
+      "query": "USB 4GB DATA TRAVELER FLASH KINGSTON",
+      "url": "https://www.bhphotovideo.com/images/fb/Kingston_DTI_4GB_DTI4GB_4GB_USB_2_0_482227.jpg",
+      "image": "/products/real/usb-4gb-data-traveler-flash-kingston-57.jpg",
+      "status": "replaced",
+      "bytes": 151648
+    },
+    {
+      "productId": "product-010",
+      "name": "USB 2 GB KINGSTON",
+      "query": "USB 2 GB KINGSTON",
+      "url": "https://m.media-amazon.com/images/I/711vh9Ne2OL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/usb-2-gb-kingston-10.jpg",
+      "status": "replaced",
+      "bytes": 65000
+    },
+    {
+      "productId": "product-038",
+      "name": "CABLE TIPO C - USB B IMPRESORA",
+      "query": "CABLE TIPO C - USB B IMPRESORA",
+      "url": "https://m.media-amazon.com/images/I/61V9y77a8mL.jpg",
+      "image": "/products/real/cable-tipo-c-usb-b-impresora-38.jpg",
+      "status": "replaced",
+      "bytes": 121400
+    },
+    {
+      "productId": "product-006",
+      "name": "SEPARADORES INDEX 12 DIVISIONES",
+      "query": "SEPARADORES INDEX 12 DIVISIONES",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/separadores-index-polipropileno-12-divisiones-1344-default-1.jpg",
+      "image": "/products/real/separadores-index-12-divisiones-6.jpg",
+      "status": "replaced",
+      "bytes": 46543
+    },
+    {
+      "productId": "product-042",
+      "name": "Patch Cord Cat6 15 Metros American Dakar PC6-15M Azul: ¡Conexión Gigabit Estable a Larga Distancia!",
+      "query": "Patch Cord Cat6 15 Metros American Dakar PC6-15M Azul: ¡Conexión Gigabit Estable a Larga Distancia!",
+      "url": "https://hdmultimediaperu.com/wp-content/uploads/2024/11/Patch-Cord-Cat6-15-Metros-American-Dakar-PC6-15M-Azul-300x300.webp",
+      "image": "/products/real/patch-cord-cat6-15-metros-american-dakar-pc6-15m-azul-conexion-gigabit-estable-a-larga-distancia-42.webp",
+      "status": "replaced",
+      "bytes": 15984
+    },
+    {
+      "productId": "product-026",
+      "name": "CARGADOR SANCI 30W SC T1173V AC",
+      "query": "CARGADOR SANCI 30W SC T1173V AC",
+      "url": "https://cafiniuruguay.com/wp-content/uploads/2025/08/Cargador_R_pido_Sanci_30W_con_Cable_USB_C_2.jpg",
+      "image": "/products/real/cargador-sanci-30w-sc-t1173v-ac-26.avif",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-043",
+      "name": "CABLE V8 HUAVI 1M U06",
+      "query": "CABLE V8 HUAVI 1M U06",
+      "url": "https://farmacorp.com/cdn/shop/files/6998472301112_700x700.jpg?v=1717011468",
+      "image": "/products/real/cable-v8-huavi-1m-u06-43.webp",
+      "status": "replaced",
+      "bytes": 10136
+    },
+    {
+      "productId": "product-009",
+      "name": "MICROFONO PC SF-910 NOISE REDUCTION",
+      "query": "MICROFONO PC SF-910 NOISE REDUCTION",
+      "url": "https://acdn-us.mitiendanube.com/stores/001/474/949/products/diseno-sin-titulo-271-22393df73eafbaceab16209629243543-1024-1024.webp",
+      "image": "/products/real/microfono-pc-sf-910-noise-reduction-9.webp",
+      "status": "replaced",
+      "bytes": 18924
+    },
+    {
+      "productId": "product-012",
+      "name": "USB 3.2 64GB KINGTSON EXODIA",
+      "query": "USB 3.2 64GB KINGTSON EXODIA",
+      "url": "https://ccimg1.canadacomputers.com/Products/800x800/393/31070.jpg",
+      "image": "/products/real/usb-3-2-64gb-kingtson-exodia-12.jpg",
+      "status": "replaced",
+      "bytes": 56618
+    },
+    {
+      "productId": "product-059",
+      "name": "CABLE SUPER TIPO C 2M S2 CB191",
+      "query": "CABLE SUPER TIPO C 2M S2 CB191",
+      "url": "https://assets.kogan.com/images/screenhug/SCU-7991467376815/1-75448db19c-typectypec2mbk7_szflejgzhmi0.jpg?auto=webp&bg-color=fff&canvas=1200%2C800&dpr=1&enable=upscale&fit=bounds&height=800&quality=90&width=1200",
+      "image": "/products/real/cable-super-tipo-c-2m-s2-cb191-59.webp",
+      "status": "replaced",
+      "bytes": 37012
+    },
+    {
+      "productId": "product-060",
+      "name": "CABLE TRANYOO V8 6A T S14 V",
+      "query": "CABLE TRANYOO V8 6A T S14 V",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_893965-MLU78841078882_092024-O.webp",
+      "image": "/products/real/cable-tranyoo-v8-6a-t-s14-v-60.webp",
+      "status": "replaced",
+      "bytes": 8952
+    },
+    {
+      "productId": "product-058",
+      "name": "CABLE SUPERAZ TIPO C 6.8A 1M SA027T",
+      "query": "CABLE SUPERAZ TIPO C 6.8A 1M SA027T",
+      "url": "https://oecelperu.pe/assets/uploads/308cba87802d198cc7eb162367d8ce5f.png",
+      "image": "/products/real/cable-superaz-tipo-c-6-8a-1m-sa027t-58.webp",
+      "status": "failed",
+      "error": "getaddrinfo ENOTFOUND oecelperu.pe"
+    },
+    {
+      "productId": "product-029",
+      "name": "CABLE IMANTADO MAGNETICO 3 SALIDAS QIITCELL QI B22",
+      "query": "CABLE IMANTADO MAGNETICO 3 SALIDAS QIITCELL QI B22",
+      "url": "https://samplesmusicales.com.pe/wp-content/uploads/2023/08/AJX204-2.webp",
+      "image": "/products/real/cable-imantado-magnetico-3-salidas-qiitcell-qi-b22-29.webp",
+      "status": "replaced",
+      "bytes": 41598
+    },
+    {
+      "productId": "product-045",
+      "name": "EXTENSION OPALUX 3 SALIDAS 5M NEON OP FL1205",
+      "query": "EXTENSION OPALUX 3 SALIDAS 5M NEON OP FL1205",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4070/PMP20000419379/thumbnail-1.jpeg",
+      "image": "/products/real/extension-opalux-3-salidas-5m-neon-op-fl1205-45.avif",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-013",
+      "name": "MEMORIA MICROSD 4GB",
+      "query": "MEMORIA MICROSD 4GB",
+      "url": "https://m.media-amazon.com/images/I/81Dh-XG9+1L.jpg",
+      "image": "/products/real/memoria-microsd-4gb-13.jpg",
+      "status": "replaced",
+      "bytes": 287256
+    },
+    {
+      "productId": "product-061",
+      "name": "CABLE TRANYOO TIPO C T 514 C",
+      "query": "CABLE TRANYOO TIPO C T 514 C",
+      "url": "https://cdn.mafrservices.com/pim-content/LBN/media/product/488044/1750752003/488044_main.jpg",
+      "image": "/products/real/cable-tranyoo-tipo-c-t-514-c-61.avif",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-014",
+      "name": "MEMORIA MICROSD 128GB",
+      "query": "MEMORIA MICROSD 128GB",
+      "url": "https://inwfile.com/s-d/scj27p.jpg",
+      "image": "/products/real/memoria-microsd-128gb-14.jpg",
+      "status": "replaced",
+      "bytes": 104885
+    },
+    {
+      "productId": "product-015",
+      "name": "ADAPTADOR DE AUDIO SEISA MICROFONO AUDIFONO ST 3051",
+      "query": "ADAPTADOR DE AUDIO SEISA MICROFONO AUDIFONO ST 3051",
+      "url": "https://mihaba.com/wp-content/uploads/2021/01/ST-3051_0.jpg",
+      "image": "/products/real/adaptador-de-audio-seisa-microfono-audifono-st-3051-15.jpg",
+      "status": "replaced",
+      "bytes": 32383
+    },
+    {
+      "productId": "product-047",
+      "name": "Extensión USB por Cable Red Rj45 UTP Adaptador 50 Metros Cat Negro",
+      "query": "Extensión USB por Cable Red Rj45 UTP Adaptador 50 Metros Cat Negro",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/3114648-1000-1000/image-d0a34331c7b54def9e6da5636ba39d4f.jpg?v=637494630134200000",
+      "image": "/products/real/extension-usb-por-cable-red-rj45-utp-adaptador-50-metros-cat-negro-47.webp",
+      "status": "replaced",
+      "bytes": 27028
+    },
+    {
+      "productId": "product-044",
+      "name": "CABLE V8 HUAVI 3M H20",
+      "query": "CABLE V8 HUAVI 3M H20",
+      "url": "https://http2.mlstatic.com/D_Q_NP_2X_647707-MLA69563310241_052023-P.webp",
+      "image": "/products/real/cable-v8-huavi-3m-h20-44.webp",
+      "status": "replaced",
+      "bytes": 15204
+    },
+    {
+      "productId": "product-048",
+      "name": "Funda Anti Golpes Case Disco Duro Externo Cremallera Liso",
+      "query": "Funda Anti Golpes Case Disco Duro Externo Cremallera Liso",
+      "url": "https://media.falabella.com/falabellaPE/117671640_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/funda-anti-golpes-case-disco-duro-externo-cremallera-liso-48.webp",
+      "status": "replaced",
+      "bytes": 41504
+    },
+    {
+      "productId": "product-066",
+      "name": "CARGADOR MICCELL 2.4A  VQ T06",
+      "query": "CARGADOR MICCELL 2.4A  VQ T06",
+      "url": "https://www.miccell.com.pe/cdn/shop/files/cargador-carga-rapida-2.4A-2USB_VQ-T06.webp?v=1707175124&width=640",
+      "image": "/products/real/cargador-miccell-2-4a-vq-t06-66.webp",
+      "status": "replaced",
+      "bytes": 15560
+    },
+    {
+      "productId": "product-017",
+      "name": "GLASS PRO+ T230",
+      "query": "GLASS PRO+ T230",
+      "url": "https://images.snoonu.com/product/2026-8/51112540-84ec-42f6-819c-e0c946fa73bd_25803.jpg",
+      "image": "/products/real/glass-pro-t230-17.jpg",
+      "status": "replaced",
+      "bytes": 1338458
+    },
+    {
+      "productId": "product-068",
+      "name": "CABLE AUXILIAR L REDD RD 20216",
+      "query": "CABLE AUXILIAR L REDD RD 20216",
+      "url": "https://pandatech.tiendada.com/api/scrooge/file/FL-E5767B72?v=-1",
+      "image": "/products/real/cable-auxiliar-l-redd-rd-20216-68.png",
+      "status": "replaced",
+      "bytes": 518040
+    },
+    {
+      "productId": "product-011",
+      "name": "USB 32GB KINGSTON SANDISK",
+      "query": "USB 32GB KINGSTON SANDISK",
+      "url": "https://m.media-amazon.com/images/I/61mcOyUlsTL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/usb-32gb-kingston-sandisk-11.jpg",
+      "status": "replaced",
+      "bytes": 46536
+    },
+    {
+      "productId": "product-050",
+      "name": "Adaptador de Red RJ45 LAN USB 3.0 Gigabit Ethernet para PC",
+      "query": "Adaptador de Red RJ45 LAN USB 3.0 Gigabit Ethernet para PC",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/7261376-1000-1000/image-7d22ab8284c146bcb184d8c0200fe684.jpg?v=638237432435970000",
+      "image": "/products/real/adaptador-de-red-rj45-lan-usb-3-0-gigabit-ethernet-para-pc-50.webp",
+      "status": "replaced",
+      "bytes": 22378
+    },
+    {
+      "productId": "product-069",
+      "name": "CARGADOR DE AUTO ROMAX 5.5A 35W",
+      "query": "CARGADOR DE AUTO ROMAX 5.5A 35W",
+      "url": "https://s3.amazonaws.com/quicksales/-Mi8OT9cgiyU8ui0WSM6/products/-O2aufmW9IxrHniOmvw0.jpg",
+      "image": "/products/real/cargador-de-auto-romax-5-5a-35w-69.jpg",
+      "status": "replaced",
+      "bytes": 118673
+    },
+    {
+      "productId": "product-016",
+      "name": "GLASS PRO+ PROTECTOR DE PANTALLA TABLET 7\"",
+      "query": "GLASS PRO+ PROTECTOR DE PANTALLA TABLET 7\"",
+      "url": "https://m.media-amazon.com/images/I/71PStamOMqL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/glass-pro-protector-de-pantalla-tablet-7-16.jpg",
+      "status": "replaced",
+      "bytes": 70390
+    },
+    {
+      "productId": "product-046",
+      "name": "EXTENSIÓN ELÉCTRICA HOME LIGHT 5 METROS 3 TOMAS UNIVERSALES 16AWG 12A 2600W AMARILLA",
+      "query": "EXTENSIÓN ELÉCTRICA HOME LIGHT 5 METROS 3 TOMAS UNIVERSALES 16AWG 12A 2600W AMARILLA",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/10347262/imageUrl_1.jpg?v=639086041362030000",
+      "image": "/products/real/extension-electrica-home-light-5-metros-3-tomas-universales-16awg-12a-2600w-amarilla-46.webp",
+      "status": "replaced",
+      "bytes": 28800
+    },
+    {
+      "productId": "product-022",
+      "name": "SENSOR DE MOVIMIENTO 60W ES B03 SOCKET SENSOR 360 INFRAROJO SCHUBERT",
+      "query": "SENSOR DE MOVIMIENTO 60W ES B03 SOCKET SENSOR 360 INFRAROJO SCHUBERT",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/6856110-1000-1000/image-a1c213b5ea394b0aa1af27f1400573da.jpg?v=638145769943300000",
+      "image": "/products/real/sensor-de-movimiento-60w-es-b03-socket-sensor-360-infrarojo-schubert-22.jpg",
+      "status": "replaced",
+      "bytes": 149250
+    },
+    {
+      "productId": "product-024",
+      "name": "CARGADOR TRANYOO 67W TIPO USB-C US2C",
+      "query": "CARGADOR TRANYOO 67W TIPO USB-C US2C",
+      "url": "https://alphatechnology.com.pe/wp-content/uploads/2025/02/a2-8.webp",
+      "image": "/products/real/cargador-tranyoo-67w-tipo-usb-c-us2c-24.webp",
+      "status": "replaced",
+      "bytes": 27722
+    },
+    {
+      "productId": "product-049",
+      "name": "Extensor Hdmi Rj45 Utp 30 Metros Full Hd 1080p Cat-5e/6",
+      "query": "Extensor Hdmi Rj45 Utp 30 Metros Full Hd 1080p Cat-5e/6",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_915004-MPE104559092924_012026-O.webp",
+      "image": "/products/real/extensor-hdmi-rj45-utp-30-metros-full-hd-1080p-cat-5e-6-49.webp",
+      "status": "replaced",
+      "bytes": 8898
+    },
+    {
+      "productId": "product-018",
+      "name": "GLASS PRO+ T210",
+      "query": "GLASS PRO+ T210",
+      "url": "https://ae-pic-a1.aliexpress-media.com/kf/S99687948228642eca433d39174a3c0acx.jpg",
+      "image": "/products/real/glass-pro-t210-18.avif",
+      "status": "replaced",
+      "bytes": 52837
+    },
+    {
+      "productId": "product-020",
+      "name": "PUNTERO LASER PARA PRESENTACIONES TIPO LAPIZ SLIM DELGADO WRLS PST",
+      "query": "PUNTERO LASER PARA PRESENTACIONES TIPO LAPIZ SLIM DELGADO WRLS PST",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/5265020-1000-1000/image-bc908f0a3d784562ad250b9df46f1355.jpg?v=637847946893000000",
+      "image": "/products/real/puntero-laser-para-presentaciones-tipo-lapiz-slim-delgado-wrls-pst-20.webp",
+      "status": "replaced",
+      "bytes": 26340
+    },
+    {
+      "productId": "product-025",
+      "name": "CARGADOR SANCI 130W SC T2909T AC",
+      "query": "CARGADOR SANCI 130W SC T2909T AC",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1459/PMP20001612084/full_image-1.jpeg",
+      "image": "/products/real/cargador-sanci-130w-sc-t2909t-ac-25.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-070",
+      "name": "CARGADOR DE CARRO REDD 5.5A RD4055",
+      "query": "CARGADOR DE CARRO REDD 5.5A RD4055",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5392610930819447",
+      "image": "/products/real/cargador-de-carro-redd-5-5a-rd4055-70.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-023",
+      "name": "CABLE TRANYOO V8 3M S7V",
+      "query": "CABLE TRANYOO V8 3M S7V",
+      "url": "https://images.snoonu.com/product/2026-3/7b3a28ff-4092-487e-bfb6-8b5ecc43edd5_6970791121588.jpeg",
+      "image": "/products/real/cable-tranyoo-v8-3m-s7v-23.jpg",
+      "status": "replaced",
+      "bytes": 148573
+    },
+    {
+      "productId": "product-019",
+      "name": "PRESENTADOR DE DIAPOSITIVAS CON PUNTERO LASER PPT POWER POINT PNT LCR",
+      "query": "PRESENTADOR DE DIAPOSITIVAS CON PUNTERO LASER PPT POWER POINT PNT LCR",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4264/PMP20000270230/full_image-1.webp",
+      "image": "/products/real/presentador-de-diapositivas-con-puntero-laser-ppt-power-point-pnt-lcr-19.webp",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-067",
+      "name": "CARGADOR HOCO TIPO C 2.1 CS11",
+      "query": "CARGADOR HOCO TIPO C 2.1 CS11",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3920960394461781622",
+      "image": "/products/real/cargador-hoco-tipo-c-2-1-cs11-67.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-008",
+      "name": "CATALOGO FLEX 10 FUNDAS",
+      "query": "CATALOGO FLEX 10 FUNDAS",
+      "url": "https://www.ofimarket.pe/cdn/shop/products/PR02137_600x600_crop_center.jpg?v=1632528888",
+      "image": "/products/real/catalogo-flex-10-fundas-8.jpg",
+      "status": "replaced",
+      "bytes": 18552
+    },
+    {
+      "productId": "product-063",
+      "name": "CABLE LIGTHNING 1.2M  3A VQ D129",
+      "query": "CABLE LIGTHNING 1.2M  3A VQ D129",
+      "url": "https://miccelluae.com/wp-content/uploads/2022/09/D25-4.jpg",
+      "image": "/products/real/cable-ligthning-1-2m-3a-vq-d129-63.jpg",
+      "status": "replaced",
+      "bytes": 165012
+    },
+    {
+      "productId": "product-021",
+      "name": "Memoria Microsd 32GB KINGSTON",
+      "query": "Memoria Microsd 32GB KINGSTON",
+      "url": "https://m.media-amazon.com/images/I/71a+zXWmOAL._AC_UF350,350_QL80_.jpg",
+      "image": "/products/real/memoria-microsd-32gb-kingston-21.jpg",
+      "status": "replaced",
+      "bytes": 20529
+    },
+    {
+      "productId": "product-213",
+      "name": "ORGANIZADOR DE CABLE CC949 CABLE CLIPS SET",
+      "query": "ORGANIZADOR DE CABLE CC949 CABLE CLIPS SET",
+      "url": "https://i.ebayimg.com/images/g/WiwAAOSwEIll94fx/s-l1200.jpg",
+      "image": "/products/real/organizador-de-cable-cc949-cable-clips-set-213.jpg",
+      "status": "replaced",
+      "bytes": 219896
+    },
+    {
+      "productId": "product-219",
+      "name": "TIJERA DE PRECISION N° 5",
+      "query": "TIJERA DE PRECISION N° 5",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_883848-MCO111502969391_052026-O.webp",
+      "image": "/products/real/tijera-de-precision-n-5-219.webp",
+      "status": "replaced",
+      "bytes": 11710
+    },
+    {
+      "productId": "product-218",
+      "name": "IMANES RELAJANTES DE JUGUETE PLANCHA SETS",
+      "query": "IMANES RELAJANTES DE JUGUETE PLANCHA SETS",
+      "url": "https://m.media-amazon.com/images/I/71xghwkKZJL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/imanes-relajantes-de-juguete-plancha-sets-218.jpg",
+      "status": "replaced",
+      "bytes": 62812
+    },
+    {
+      "productId": "product-220",
+      "name": "SACACORCHO ABRIDOR DE VINO",
+      "query": "SACACORCHO ABRIDOR DE VINO",
+      "url": "https://m.media-amazon.com/images/I/611BaTpbxJL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/sacacorcho-abridor-de-vino-220.jpg",
+      "status": "replaced",
+      "bytes": 63846
+    },
+    {
+      "productId": "product-215",
+      "name": "ETIQUETAS DE OFERTA",
+      "query": "ETIQUETAS DE OFERTA",
+      "url": "https://i.pinimg.com/736x/e4/60/85/e4608583f2ee85f7ebebb4e4437ca0bc.jpg",
+      "image": "/products/real/etiquetas-de-oferta-215.jpg",
+      "status": "replaced",
+      "bytes": 40564
+    },
+    {
+      "productId": "product-221",
+      "name": "SACACORCHO DE ALAS AZUL TORNILLERO ACERO TEMPLADO PALANCA SUAVE",
+      "query": "SACACORCHO DE ALAS AZUL TORNILLERO ACERO TEMPLADO PALANCA SUAVE",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_864421-MLM81753044485_012025-O.webp",
+      "image": "/products/real/sacacorcho-de-alas-azul-tornillero-acero-templado-palanca-suave-221.webp",
+      "status": "replaced",
+      "bytes": 6202
+    },
+    {
+      "productId": "product-212",
+      "name": "ORGANIZADOR DE CABLE CLIPS 6 PIEZAS",
+      "query": "ORGANIZADOR DE CABLE CLIPS 6 PIEZAS",
+      "url": "https://m.media-amazon.com/images/I/61eLXZxmNZL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/organizador-de-cable-clips-6-piezas-212.jpg",
+      "status": "replaced",
+      "bytes": 49135
+    },
+    {
+      "productId": "product-261",
+      "name": "Parlante Bluetooth Alien X18",
+      "query": "Parlante Bluetooth Alien X18",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=150114666405218",
+      "image": "/products/real/parlante-bluetooth-alien-x18-261.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-222",
+      "name": "ENCENDEDOR DE COCINA GAS RECARGABLE 3",
+      "query": "ENCENDEDOR DE COCINA GAS RECARGABLE 3",
+      "url": "https://m.media-amazon.com/images/I/612WDAjLLcL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/encendedor-de-cocina-gas-recargable-3-222.jpg",
+      "status": "replaced",
+      "bytes": 41533
+    },
+    {
+      "productId": "product-217",
+      "name": "CUTTER GRANDE",
+      "query": "CUTTER GRANDE",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_968109-MLU70397721800_072023-O.webp",
+      "image": "/products/real/cutter-grande-217.webp",
+      "status": "replaced",
+      "bytes": 16476
+    },
+    {
+      "productId": "product-237",
+      "name": "Xiaomi Sound Pocket Parlante Portátil 5W IP67 de hasta 10 horas - BK",
+      "query": "Xiaomi Sound Pocket Parlante Portátil 5W IP67 de hasta 10 horas - BK",
+      "url": "https://media.falabella.com/falabellaPE/136458749_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/xiaomi-sound-pocket-parlante-portatil-5w-ip67-de-hasta-10-horas-bk-237.webp",
+      "status": "replaced",
+      "bytes": 72424
+    },
+    {
+      "productId": "product-238",
+      "name": "MICRÓFONO ALÁMBRICO E INALÁMBRICO MAXTRON BEATS MX600",
+      "query": "MICRÓFONO ALÁMBRICO E INALÁMBRICO MAXTRON BEATS MX600",
+      "url": "https://www.impulso.pe/imagenes/galeria/productos/13077-impulso-informatico.jpg",
+      "image": "/products/real/microfono-alambrico-e-inalambrico-maxtron-beats-mx600-238.jpg",
+      "status": "replaced",
+      "bytes": 309758
+    },
+    {
+      "productId": "product-263",
+      "name": "TECLADO FLEXIBLE SEISA ST2021",
+      "query": "TECLADO FLEXIBLE SEISA ST2021",
+      "url": "https://www.utileroperu.com/web/image/product.template/23525/image_1024?unique=6cfda9d",
+      "image": "/products/real/teclado-flexible-seisa-st2021-263.png",
+      "status": "replaced",
+      "bytes": 191143
+    },
+    {
+      "productId": "product-223",
+      "name": "ENCENDEDOR ELECTRICO RECARGABLE",
+      "query": "ENCENDEDOR ELECTRICO RECARGABLE",
+      "url": "https://media.falabella.com/falabellaCO/138550975_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/encendedor-electrico-recargable-223.webp",
+      "status": "replaced",
+      "bytes": 102758
+    },
+    {
+      "productId": "product-211",
+      "name": "Linterna Ewtoo Tipo Lapicero De Bolsillo Portatil Potente EWTTO ETF8238",
+      "query": "Linterna Ewtoo Tipo Lapicero De Bolsillo Portatil Potente EWTTO ETF8238",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_639978-MPE93648580204_102025-O.webp",
+      "image": "/products/real/linterna-ewtoo-tipo-lapicero-de-bolsillo-portatil-potente-ewtto-etf8238-211.webp",
+      "status": "replaced",
+      "bytes": 10996
+    },
+    {
+      "productId": "product-224",
+      "name": "LAZOS DE REGALO X10U COLORES VARIOS",
+      "query": "LAZOS DE REGALO X10U COLORES VARIOS",
+      "url": "https://peluchesalmayor.com.ve/wp-content/uploads/2025/08/WhatsApp-Image-2025-11-01-at-3.41.22-PM-1.jpeg",
+      "image": "/products/real/lazos-de-regalo-x10u-colores-varios-224.jpg",
+      "status": "replaced",
+      "bytes": 152557
+    },
+    {
+      "productId": "product-240",
+      "name": "Teclado Enkore Gospel ENK 300",
+      "query": "Teclado Enkore Gospel ENK 300",
+      "url": "https://enkore.pe/cdn/shop/files/Frontal1920x1920copia_af7ec3e6-2ecb-453e-b0e6-db1d11ffac5a.webp?v=1712275974&width=1946",
+      "image": "/products/real/teclado-enkore-gospel-enk-300-240.webp",
+      "status": "replaced",
+      "bytes": 79486
+    },
+    {
+      "productId": "product-262",
+      "name": "TECLADO LOGITECH MK120 CORDED",
+      "query": "TECLADO LOGITECH MK120 CORDED",
+      "url": "https://media.rs-online.com/f_auto,q_auto,bo_1.5px_solid_white,b_auto,c_pad,dpr_2,h_399,w_710/c_pad,h_399,w_710/Y2664275-01?pgw=1",
+      "image": "/products/real/teclado-logitech-mk120-corded-262.webp",
+      "status": "replaced",
+      "bytes": 52260
+    },
+    {
+      "productId": "product-264",
+      "name": "PILAS AAA2 ALCALINA",
+      "query": "PILAS AAA2 ALCALINA",
+      "url": "https://carulla.vtexassets.com/arquivos/ids/25865762/Pila-Alcalina-2-Unds-Aaa-822888_a.jpg?v=639221427813100000",
+      "image": "/products/real/pilas-aaa2-alcalina-264.webp",
+      "status": "replaced",
+      "bytes": 42962
+    },
+    {
+      "productId": "product-214",
+      "name": "mini linterna LED COB+ZOOM aleación de aluminio exterior USB recargable telescópico linterna BUYTITI SD-563",
+      "query": "mini linterna LED COB+ZOOM aleación de aluminio exterior USB recargable telescópico linterna BUYTITI SD-563",
+      "url": "https://buytiti.com/wp-content/uploads/2024/11/SD-563-6.jpg",
+      "image": "/products/real/mini-linterna-led-cob-zoom-aleacion-de-aluminio-exterior-usb-recargable-telescopico-linterna-buytiti-sd-563-214.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-226",
+      "name": "CARGADOR DE CELULAR PARA AUTO 10A 80W TCC0522 CIGARRERA ROMAX",
+      "query": "CARGADOR DE CELULAR PARA AUTO 10A 80W TCC0522 CIGARRERA ROMAX",
+      "url": "https://media.falabella.com/falabellaPE/137318791_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/cargador-de-celular-para-auto-10a-80w-tcc0522-cigarrera-romax-226.webp",
+      "status": "replaced",
+      "bytes": 33486
+    },
+    {
+      "productId": "product-239",
+      "name": "Supresor de picos Opalux de 90cm 6 tomas 14-515AB-0.9M",
+      "query": "Supresor de picos Opalux de 90cm 6 tomas 14-515AB-0.9M",
+      "url": "https://plazavea.vteximg.com.br/arquivos/ids/34861257-1000-1000/imageUrl_1.jpg?v=639163801818730000",
+      "image": "/products/real/supresor-de-picos-opalux-de-90cm-6-tomas-14-515ab-0-9m-239.webp",
+      "status": "replaced",
+      "bytes": 27596
+    },
+    {
+      "productId": "product-227",
+      "name": "CABLE ROMAX TIPO C 6A 66W TCD0691",
+      "query": "CABLE ROMAX TIPO C 6A 66W TCD0691",
+      "url": "https://media.falabella.com/falabellaPE/126114822_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/cable-romax-tipo-c-6a-66w-tcd0691-227.webp",
+      "status": "replaced",
+      "bytes": 23570
+    },
+    {
+      "productId": "product-236",
+      "name": "Soporte De Celular 360° Para Auto De Tableros Y Parabrisas Brysoon",
+      "query": "Soporte De Celular 360° Para Auto De Tableros Y Parabrisas Brysoon",
+      "url": "https://media.falabella.com/falabellaPE/143106151_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/soporte-de-celular-360-para-auto-de-tableros-y-parabrisas-brysoon-236.webp",
+      "status": "replaced",
+      "bytes": 53148
+    },
+    {
+      "productId": "product-266",
+      "name": "USB SAMSUNG 8GB AVENGERS CAPTAIN AMERICA SKOOL",
+      "query": "USB SAMSUNG 8GB AVENGERS CAPTAIN AMERICA SKOOL",
+      "url": "https://i5.walmartimages.com/seo/The-Avengers-USB-8GB-Flash-Drive-Avengers-Captain-America_e0a0a7b0-b66b-4c63-aaa0-9eb67fa56f4b.579dae58b0319c34efc40131510ca954.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "image": "/products/real/usb-samsung-8gb-avengers-captain-america-skool-266.avif",
+      "status": "replaced",
+      "bytes": 15112
+    },
+    {
+      "productId": "product-267",
+      "name": "EAR BUDS AVENGERS",
+      "query": "EAR BUDS AVENGERS",
+      "url": "http://bearhugs.in/cdn/shop/files/buy-marvel-avengers-low-latency-bluetooth-earphones-at-bear-hugs-68174.jpg?v=1771005770",
+      "image": "/products/real/ear-buds-avengers-267.webp",
+      "status": "replaced",
+      "bytes": 18230
+    },
+    {
+      "productId": "product-216",
+      "name": "GANCHO ADHESIVO DE PARED JUXIN",
+      "query": "GANCHO ADHESIVO DE PARED JUXIN",
+      "url": "https://media.adeo.com/mkp/a8bac8206875d7b65d7704161ef93911/media.jpg",
+      "image": "/products/real/gancho-adhesivo-de-pared-juxin-216.webp",
+      "status": "replaced",
+      "bytes": 43730
+    },
+    {
+      "productId": "product-243",
+      "name": "Linterna Led Recargable Zoom ET-F8903-25000W",
+      "query": "Linterna Led Recargable Zoom ET-F8903-25000W",
+      "url": "https://katzerperu.com/cdn/shop/products/linterna-led-recargable-zoom-et-f8903-25000w-5026981_1280x.jpg?v=1758419705",
+      "image": "/products/real/linterna-led-recargable-zoom-et-f8903-25000w-243.webp",
+      "status": "replaced",
+      "bytes": 49978
+    },
+    {
+      "productId": "product-242",
+      "name": "LINTERNA TACTICA LED MULTIFUNCION BOSSNEY BS-L3311-TG",
+      "query": "LINTERNA TACTICA LED MULTIFUNCION BOSSNEY BS-L3311-TG",
+      "url": "https://res.cloudinary.com/vmkiq93n/image/upload/v1784713505/fenix/ILU_249/2.png",
+      "image": "/products/real/linterna-tactica-led-multifuncion-bossney-bs-l3311-tg-242.png",
+      "status": "replaced",
+      "bytes": 431711
+    },
+    {
+      "productId": "product-244",
+      "name": "FOCO QX 18 PORTIZA",
+      "query": "FOCO QX 18 PORTIZA",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3899881271932367039",
+      "image": "/products/real/foco-qx-18-portiza-244.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-268",
+      "name": "3.5 MM METALLIC SPLITTER FLAT CABLE RADIOSHACK",
+      "query": "3.5 MM METALLIC SPLITTER FLAT CABLE RADIOSHACK",
+      "url": "https://www.radioshack.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/5/1503292_1.png",
+      "image": "/products/real/3-5-mm-metallic-splitter-flat-cable-radioshack-268.png",
+      "status": "replaced",
+      "bytes": 1324700
+    },
+    {
+      "productId": "product-229",
+      "name": "TECLADO USB STANDARD HALION HA-K390",
+      "query": "TECLADO USB STANDARD HALION HA-K390",
+      "url": "https://daphtech.com/wp-content/uploads/2023/09/HA-K390-1.jpg",
+      "image": "/products/real/teclado-usb-standard-halion-ha-k390-229.jpg",
+      "status": "replaced",
+      "bytes": 34147
+    },
+    {
+      "productId": "product-241",
+      "name": "Ventilador Portátil Para Escritorio Recargable",
+      "query": "Ventilador Portátil Para Escritorio Recargable",
+      "url": "https://i5.walmartimages.com/asr/c20628cf-ccb5-4b7b-a87e-24f0d3f6c2b1.60c8756942735f4308389a2159514972.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "image": "/products/real/ventilador-portatil-para-escritorio-recargable-241.avif",
+      "status": "replaced",
+      "bytes": 34985
+    },
+    {
+      "productId": "product-265",
+      "name": "USB SAMSUNG 8GB STAR WARS DARTH VEIDER SKOOL",
+      "query": "USB SAMSUNG 8GB STAR WARS DARTH VEIDER SKOOL",
+      "url": "https://i.ebayimg.com/images/g/4HkAAOSwQiNc2vlV/s-l1200.jpg",
+      "image": "/products/real/usb-samsung-8gb-star-wars-darth-veider-skool-265.jpg",
+      "status": "replaced",
+      "bytes": 179094
+    },
+    {
+      "productId": "product-270",
+      "name": "CABLE BASEUS DISPLAY CABLE USC TIPO C 5A CATSK 01",
+      "query": "CABLE BASEUS DISPLAY CABLE USC TIPO C 5A CATSK 01",
+      "url": "https://proaccesorios.com/wp-content/uploads/2024/02/baseus-catsk-01.webp",
+      "image": "/products/real/cable-baseus-display-cable-usc-tipo-c-5a-catsk-01-270.webp",
+      "status": "replaced",
+      "bytes": 23500
+    },
+    {
+      "productId": "product-247",
+      "name": "FOCO DIXON 7W",
+      "query": "FOCO DIXON 7W",
+      "url": "http://fascinazion.pe/cdn/shop/products/52-A60-LED-7W-27K-E27.jpg?v=1621114982&width=2048",
+      "image": "/products/real/foco-dixon-7w-247.webp",
+      "status": "replaced",
+      "bytes": 142048
+    },
+    {
+      "productId": "product-272",
+      "name": "Estabilizador de Voltaje Power Lite pulsar PLI 1000 8 Tomas",
+      "query": "Estabilizador de Voltaje Power Lite pulsar PLI 1000 8 Tomas",
+      "url": "https://media.falabella.com/falabellaPE/115524895_01/public",
+      "image": "/products/real/estabilizador-de-voltaje-power-lite-pulsar-pli-1000-8-tomas-272.webp",
+      "status": "replaced",
+      "bytes": 27874
+    },
+    {
+      "productId": "product-230",
+      "name": "TECLADO PARA OFINA USB RM-K15 RAMKO",
+      "query": "TECLADO PARA OFINA USB RM-K15 RAMKO",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_865678-MPE72011507640_102023-O.webp",
+      "image": "/products/real/teclado-para-ofina-usb-rm-k15-ramko-230.webp",
+      "status": "replaced",
+      "bytes": 22668
+    },
+    {
+      "productId": "product-233",
+      "name": "Microfono Dinamico Inalambrico para Parlantes Karaoke Eventos Conferencias Receptor SANCI sch8017",
+      "query": "Microfono Dinamico Inalambrico para Parlantes Karaoke Eventos Conferencias Receptor SANCI sch8017",
+      "url": "https://media.falabella.com/falabellaPE/151415521_01/public",
+      "image": "/products/real/microfono-dinamico-inalambrico-para-parlantes-karaoke-eventos-conferencias-receptor-sanci-sch8017-233.jpg",
+      "status": "replaced",
+      "bytes": 75202
+    },
+    {
+      "productId": "product-232",
+      "name": "Audifonos Auricular Lentes de Sol Bluetooh Gafas k300 azul",
+      "query": "Audifonos Auricular Lentes de Sol Bluetooh Gafas k300 azul",
+      "url": "https://media.falabella.com/falabellaPE/142960879_01/public",
+      "image": "/products/real/audifonos-auricular-lentes-de-sol-bluetooh-gafas-k300-azul-232.jpg",
+      "status": "replaced",
+      "bytes": 15319
+    },
+    {
+      "productId": "product-245",
+      "name": "FOCO QX 30 PORTIZA",
+      "query": "FOCO QX 30 PORTIZA",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3899877743926998941",
+      "image": "/products/real/foco-qx-30-portiza-245.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-248",
+      "name": "FOCO OPALUX  5W",
+      "query": "FOCO OPALUX  5W",
+      "url": "https://opalux.com.pe/wp-content/uploads/2023/10/FOCO-LED-5W-7000K-LUZ-FRIA-OP-5W3C-600x600.jpg",
+      "image": "/products/real/foco-opalux-5w-248.jpg",
+      "status": "replaced",
+      "bytes": 25494
+    },
+    {
+      "productId": "product-250",
+      "name": "FOCO OPALUX 20W",
+      "query": "FOCO OPALUX 20W",
+      "url": "https://opalux.lifestore.pe/wp-content/uploads/2025/03/OP-T80-20CW.webp",
+      "image": "/products/real/foco-opalux-20w-250.webp",
+      "status": "replaced",
+      "bytes": 33008
+    },
+    {
+      "productId": "product-231",
+      "name": "Microfono Maxtron Singer - MX 708 WL",
+      "query": "Microfono Maxtron Singer - MX 708 WL",
+      "url": "https://www.impulso.pe/imagenes/galeria/productos/26017-impulso-informatico.webp",
+      "image": "/products/real/microfono-maxtron-singer-mx-708-wl-231.webp",
+      "status": "replaced",
+      "bytes": 109560
+    },
+    {
+      "productId": "product-246",
+      "name": "FOCO QB 15 PORTIZA",
+      "query": "FOCO QB 15 PORTIZA",
+      "url": "https://loganelectricperu.com/wp-content/uploads/2024/10/FOCO-LED-SENSOR-DE-MOVIMIENTO-15W-PORTIZA-360%C2%B0.webp",
+      "image": "/products/real/foco-qb-15-portiza-246.webp",
+      "status": "replaced",
+      "bytes": 76804
+    },
+    {
+      "productId": "product-275",
+      "name": "Power Bank Xiaomi 20000 mAh 18W Carga Rapida",
+      "query": "Power Bank Xiaomi 20000 mAh 18W Carga Rapida",
+      "url": "https://content.rozetka.com.ua/goods/images/big/164644278.jpg",
+      "image": "/products/real/power-bank-xiaomi-20000-mah-18w-carga-rapida-275.webp",
+      "status": "replaced",
+      "bytes": 30832
+    },
+    {
+      "productId": "product-251",
+      "name": "FOLDER MANILA A4",
+      "query": "FOLDER MANILA A4",
+      "url": "https://offi.pe/image/cache/catalog/PRODUCTOS/UTILES%20DE%20OFICINA/FOLDERS%20Y%20ARCHIVO/Folders/folder-manila-filea4-grafipapel-700x700.png",
+      "image": "/products/real/folder-manila-a4-251.png",
+      "status": "replaced",
+      "bytes": 131846
+    },
+    {
+      "productId": "product-252",
+      "name": "SOBRE MANILA A4",
+      "query": "SOBRE MANILA A4",
+      "url": "https://cdn.billowshop.com/f48f79d8-a9de-3b13/productos/055e0f8f-c7fd-de56-190e-6a7d6e916c77/4da01f049bd01f02b2eac53d1bcaa9b5-6509f7ec78102.jpg",
+      "image": "/products/real/sobre-manila-a4-252.jpg",
+      "status": "replaced",
+      "bytes": 17561
+    },
+    {
+      "productId": "product-234",
+      "name": "Bolso para Bicicleta - Porta Celular - Estuche Impermeable",
+      "query": "Bolso para Bicicleta - Porta Celular - Estuche Impermeable",
+      "url": "https://solumaticaperu.com/wp-content/uploads/2023/08/ZX01.jpg",
+      "image": "/products/real/bolso-para-bicicleta-porta-celular-estuche-impermeable-234.jpg",
+      "status": "replaced",
+      "bytes": 130568
+    },
+    {
+      "productId": "product-249",
+      "name": "FOCO OPALUX 15W",
+      "query": "FOCO OPALUX 15W",
+      "url": "https://mihaba.com/wp-content/uploads/2019/06/Foco-LED-15W-luz-blanca-empaque-OP-15W3C.jpg",
+      "image": "/products/real/foco-opalux-15w-249.jpg",
+      "status": "replaced",
+      "bytes": 89494
+    },
+    {
+      "productId": "product-269",
+      "name": "EWTTO 2 EN 1 SOPORTE Y CARGADOR DE AUTO ETD7453B",
+      "query": "EWTTO 2 EN 1 SOPORTE Y CARGADOR DE AUTO ETD7453B",
+      "url": "https://static.compreloadomicilio.com/dmraccesorios/products/026731/648213a337734431706829.webp",
+      "image": "/products/real/ewtto-2-en-1-soporte-y-cargador-de-auto-etd7453b-269.webp",
+      "status": "replaced",
+      "bytes": 23822
+    },
+    {
+      "productId": "product-253",
+      "name": "MICA TRANSAPARENTE A4",
+      "query": "MICA TRANSAPARENTE A4",
+      "url": "http://www.decocuir.com/cdn/shop/products/DC-5-TRANSP-5-feuilles-de-plastique-transparent-type-Mica-format-A4.jpg?v=1680185154",
+      "image": "/products/real/mica-transaparente-a4-253.webp",
+      "status": "replaced",
+      "bytes": 14480
+    },
+    {
+      "productId": "product-271",
+      "name": "Teclado Gamer de una Mano, Yelandar JX-K7, 35 Teclas LED RGB ergonómico",
+      "query": "Teclado Gamer de una Mano, Yelandar JX-K7, 35 Teclas LED RGB ergonómico",
+      "url": "https://clickbox.pe/wp-content/uploads/2022/08/Teclado-Gamer-RGB-Yelandar-JX-K7-2.jpg",
+      "image": "/products/real/teclado-gamer-de-una-mano-yelandar-jx-k7-35-teclas-led-rgb-ergonomico-271.webp",
+      "status": "replaced",
+      "bytes": 85054
+    },
+    {
+      "productId": "product-274",
+      "name": "Power Bank Remax RPP-10 Negro 10000mAh Carga rápida",
+      "query": "Power Bank Remax RPP-10 Negro 10000mAh Carga rápida",
+      "url": "https://plazavea.vteximg.com.br/arquivos/ids/32452176-418-418/imageUrl_2.jpg",
+      "image": "/products/real/power-bank-remax-rpp-10-negro-10000mah-carga-rapida-274.webp",
+      "status": "replaced",
+      "bytes": 10698
+    },
+    {
+      "productId": "product-273",
+      "name": "POWER BANK ROMAX 10000 MAH TCP0129",
+      "query": "POWER BANK ROMAX 10000 MAH TCP0129",
+      "url": "https://www.romaxstore.com/wp-content/uploads/2021/05/TCP0129.jpg",
+      "image": "/products/real/power-bank-romax-10000-mah-tcp0129-273.jpg",
+      "status": "replaced",
+      "bytes": 381865
+    },
+    {
+      "productId": "product-277",
+      "name": "POWER BANK MOVISUN ROCKET X22",
+      "query": "POWER BANK MOVISUN ROCKET X22",
+      "url": "https://app.movisunsa.com/services/media/RX22-B%20001_20240507_120052.jpg",
+      "image": "/products/real/power-bank-movisun-rocket-x22-277.webp",
+      "status": "replaced",
+      "bytes": 13504
+    },
+    {
+      "productId": "product-276",
+      "name": "Bicycle Holder / Bicycle Mount TCH046",
+      "query": "Bicycle Holder / Bicycle Mount TCH046",
+      "url": "https://www.bonecollection.com/resources/flexicontent/medias/amz-biketie2-bk-03-en.jpg",
+      "image": "/products/real/bicycle-holder-bicycle-mount-tch046-276.jpg",
+      "status": "replaced",
+      "bytes": 122018
+    },
+    {
+      "productId": "product-254",
+      "name": "MICA OFICIO LEGAL A3 TRANSPARENTE",
+      "query": "MICA OFICIO LEGAL A3 TRANSPARENTE",
+      "url": "https://nacional.cl/cdn/shop/files/mica-transparente-tamano-carta-250-micro-np-manualidades-nacional-libreria-612332.jpg?v=1750872864&width=533",
+      "image": "/products/real/mica-oficio-legal-a3-transparente-254.webp",
+      "status": "replaced",
+      "bytes": 7104
+    },
+    {
+      "productId": "product-279",
+      "name": "CARGADORES MICCELL TIPO C VQ T 06",
+      "query": "CARGADORES MICCELL TIPO C VQ T 06",
+      "url": "https://www.miccell.com.pe/cdn/shop/files/cargador-carga-rapida-2.4A-2USB_VQ-T06.webp?v=1707175124&width=720",
+      "image": "/products/real/cargadores-miccell-tipo-c-vq-t-06-279.webp",
+      "status": "replaced",
+      "bytes": 17044
+    },
+    {
+      "productId": "product-258",
+      "name": "8.5\" LCD WRITING TABLET",
+      "query": "8.5\" LCD WRITING TABLET",
+      "url": "https://img.pacifiko.com/PROD/resize/1/500x500/MzdmODI0Mm.jpg",
+      "image": "/products/real/8-5-lcd-writing-tablet-258.jpg",
+      "status": "replaced",
+      "bytes": 35550
+    },
+    {
+      "productId": "product-259",
+      "name": "POWER BANK BABY MILO 20000MAH",
+      "query": "POWER BANK BABY MILO 20000MAH",
+      "url": "https://media.karousell.com/media/photos/products/2020/7/21/baby_milo_20000_mah_high_quali_1595357836_467d1cda_progressive.jpg",
+      "image": "/products/real/power-bank-baby-milo-20000mah-259.jpg",
+      "status": "replaced",
+      "bytes": 82788
+    },
+    {
+      "productId": "product-256",
+      "name": "PROTECTOR DE PANTALLA ANDROID MICA GRUESA 10D",
+      "query": "PROTECTOR DE PANTALLA ANDROID MICA GRUESA 10D",
+      "url": "http://gengxinmx.com/cdn/shop/files/10D.jpg?v=1781250580&width=1024",
+      "image": "/products/real/protector-de-pantalla-android-mica-gruesa-10d-256.webp",
+      "status": "replaced",
+      "bytes": 58812
+    },
+    {
+      "productId": "product-255",
+      "name": "SOBRE MANILA LEGAL A3",
+      "query": "SOBRE MANILA LEGAL A3",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_833576-MLU73023479097_112023-O.webp",
+      "image": "/products/real/sobre-manila-legal-a3-255.webp",
+      "status": "replaced",
+      "bytes": 5580
+    },
+    {
+      "productId": "product-260",
+      "name": "POWER BANK OSO BEAR CUTE BATERIA PORTATIL",
+      "query": "POWER BANK OSO BEAR CUTE BATERIA PORTATIL",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_722141-MLM80280775285_102024-O.webp",
+      "image": "/products/real/power-bank-oso-bear-cute-bateria-portatil-260.webp",
+      "status": "replaced",
+      "bytes": 13066
+    },
+    {
+      "productId": "product-278",
+      "name": "AUDIFONOS PRO 5S",
+      "query": "AUDIFONOS PRO 5S",
+      "url": "https://thumb.pccomponentes.com/w-530-530/articles/1076/10766565/1305-klack-pro5s-auriculares-bluetooth-inalambricos-negros.jpg",
+      "image": "/products/real/audifonos-pro-5s-278.jpg",
+      "status": "replaced",
+      "bytes": 27054
+    },
+    {
+      "productId": "product-280",
+      "name": "SOPORTE PARA MOTO BICICLETA BUYTITI SOP 1059",
+      "query": "SOPORTE PARA MOTO BICICLETA BUYTITI SOP 1059",
+      "url": "https://buytiti.com/wp-content/uploads/2024/05/SOP-1059-12.jpg",
+      "image": "/products/real/soporte-para-moto-bicicleta-buytiti-sop-1059-280.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-257",
+      "name": "Color Ball Bluetooth Speaker",
+      "query": "Color Ball Bluetooth Speaker",
+      "url": "https://m.media-amazon.com/images/I/710An+9kc3L.jpg",
+      "image": "/products/real/color-ball-bluetooth-speaker-257.jpg",
+      "status": "replaced",
+      "bytes": 160824
+    },
+    {
+      "productId": "product-378",
+      "name": "Smartwatch D18, reloj inteligente resistente al agua, monitor de actividad, podómetro, con medición de presión arterial y oxígeno en sangre, pulsera inteligente",
+      "query": "Smartwatch D18, reloj inteligente resistente al agua, monitor de actividad, podómetro, con medición de presión arterial y oxígeno en sangre, pulsera inteligente",
+      "url": "https://m.media-amazon.com/images/I/61bY6XY81OL.jpg",
+      "image": "/products/real/smartwatch-d18-reloj-inteligente-resistente-al-agua-monitor-de-actividad-podometro-con-medicion-de-presion-arterial-y-oxigeno-en-sangre-pulsera-inteligente-378.jpg",
+      "status": "replaced",
+      "bytes": 103996
+    },
+    {
+      "productId": "product-376",
+      "name": "Micrófono de Karaoke Inalámbrico Bluetooth con Luz RGB, Altavoz de Micrófono de Karaoke de Mano para Niños Adultos, Compatible con Voz Inteligente AI, Cambio de Voz, Coro de 2",
+      "query": "Micrófono de Karaoke Inalámbrico Bluetooth con Luz RGB, Altavoz de Micrófono de Karaoke de Mano para Niños Adultos, Compatible con Voz Inteligente AI, Cambio de Voz, Coro de 2",
+      "url": "https://m.media-amazon.com/images/I/619aOuzg4AL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/microfono-de-karaoke-inalambrico-bluetooth-con-luz-rgb-altavoz-de-microfono-de-karaoke-de-mano-para-ninos-adultos-compatible-con-voz-inteligente-ai-cambio-de-voz-coro-de-2-376.jpg",
+      "status": "replaced",
+      "bytes": 40508
+    },
+    {
+      "productId": "product-381",
+      "name": "Llavero con Diseño",
+      "query": "Llavero con Diseño",
+      "url": "https://cdnx.jumpseller.com/papeleria-gatobacam/image/23466493/DC4E0C8A-D6DB-4DEC-9301-B1FA282AB4BA.jpeg?1650233782",
+      "image": "/products/real/llavero-con-diseno-381.jpg",
+      "status": "replaced",
+      "bytes": 267204
+    },
+    {
+      "productId": "product-380",
+      "name": "Foco Parlante",
+      "query": "Foco Parlante",
+      "url": "https://www.mayoreototal.mx/cdn/shop/files/1c709c1382dc93dedeea965411c7ff44_1340x.jpg?v=1727197830",
+      "image": "/products/real/foco-parlante-380.webp",
+      "status": "replaced",
+      "bytes": 69750
+    },
+    {
+      "productId": "product-352",
+      "name": "Cinta de embalaje",
+      "query": "Cinta de embalaje",
+      "url": "https://savisafety.com/wp-content/uploads/2023/02/CINTA-BRAUN.png",
+      "image": "/products/real/cinta-de-embalaje-352.png",
+      "status": "replaced",
+      "bytes": 288881
+    },
+    {
+      "productId": "product-383",
+      "name": "Destornillador pequeños plano - estrella versatil",
+      "query": "Destornillador pequeños plano - estrella versatil",
+      "url": "https://m.media-amazon.com/images/I/61e1z0Yav7L._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/destornillador-pequenos-plano-estrella-versatil-383.jpg",
+      "status": "replaced",
+      "bytes": 39860
+    },
+    {
+      "productId": "product-353",
+      "name": "Cinta de embalaje gruesa",
+      "query": "Cinta de embalaje gruesa",
+      "url": "https://offi.pe/image/cache/catalog/PRODUCTOS/UTILES%20DE%20OFICINA/EMPAQUE%20Y%20ENTREGAS/Cintas%20Embalaje/cinta-embalaje-transparente-2x200yardas-pegafan-700x700.png",
+      "image": "/products/real/cinta-de-embalaje-gruesa-353.png",
+      "status": "replaced",
+      "bytes": 356979
+    },
+    {
+      "productId": "product-382",
+      "name": "Corrector de Cinta",
+      "query": "Corrector de Cinta",
+      "url": "http://papeleriadelahorro.mx/cdn/shop/files/4711356.jpg?v=1751741440",
+      "image": "/products/real/corrector-de-cinta-382.webp",
+      "status": "replaced",
+      "bytes": 88084
+    },
+    {
+      "productId": "product-355",
+      "name": "Cinta Aislante",
+      "query": "Cinta Aislante",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/1844118/138391.jpg?v=637656780410030000",
+      "image": "/products/real/cinta-aislante-355.webp",
+      "status": "replaced",
+      "bytes": 18424
+    },
+    {
+      "productId": "product-401",
+      "name": "BIMBO GANSITO",
+      "query": "BIMBO GANSITO",
+      "url": "https://marinelausa.com/sites/default/files/styles/wide/public/2022-05/Gansito_2.png.webp?itok=MiJZ3K6D",
+      "image": "/products/real/bimbo-gansito-401.webp",
+      "status": "replaced",
+      "bytes": 40212
+    },
+    {
+      "productId": "product-377",
+      "name": "Parlante Bluetooth Karaoke Con Microfono/ Inalambrico",
+      "query": "Parlante Bluetooth Karaoke Con Microfono/ Inalambrico",
+      "url": "https://blikstore.com/cdn/shop/files/ultrabass15_parlante_karaoke_h3-5f31c247-5643-4267-b2ae-44f050b1443a.jpg?v=1766501264&width=1000",
+      "image": "/products/real/parlante-bluetooth-karaoke-con-microfono-inalambrico-377.webp",
+      "status": "replaced",
+      "bytes": 203348
+    },
+    {
+      "productId": "product-354",
+      "name": "Tampon Dactilar Artesco Azul",
+      "query": "Tampon Dactilar Artesco Azul",
+      "url": "https://www.infofar.com.pe/wp-content/uploads/TAMPON-DACTILAR-ARTESCO-AZUL.jpg",
+      "image": "/products/real/tampon-dactilar-artesco-azul-354.jpg",
+      "status": "replaced",
+      "bytes": 182603
+    },
+    {
+      "productId": "product-386",
+      "name": "Pilas AA Toshiba",
+      "query": "Pilas AA Toshiba",
+      "url": "https://media.falabella.com/falabellaPE/122923368_01/w=1500,h=1500,fit=cover",
+      "image": "/products/real/pilas-aa-toshiba-386.webp",
+      "status": "replaced",
+      "bytes": 70346
+    },
+    {
+      "productId": "product-385",
+      "name": "Pilas x4 Toshiba",
+      "query": "Pilas x4 Toshiba",
+      "url": "https://farmaciasaas.vtexassets.com/arquivos/ids/246525-800-800?v=639094871747900000&width=800&height=800&aspect=true",
+      "image": "/products/real/pilas-x4-toshiba-385.webp",
+      "status": "replaced",
+      "bytes": 17472
+    },
+    {
+      "productId": "product-384",
+      "name": "Destornillador Grande plano - estrella versatil",
+      "query": "Destornillador Grande plano - estrella versatil",
+      "url": "https://tuecompra.com/uploads/media/images/10-destornilladores-de-estrella-y-planos-con-soporte-17.jpg",
+      "image": "/products/real/destornillador-grande-plano-estrella-versatil-384.jpg",
+      "status": "replaced",
+      "bytes": 1123105
+    },
+    {
+      "productId": "product-356",
+      "name": "Cinta decorativa",
+      "query": "Cinta decorativa",
+      "url": "http://pinkstationerymx.com/cdn/shop/files/FOTOS_SHOPIFY-3_934026a8-0c52-4426-9e4f-172101e86624.png?v=1783123339",
+      "image": "/products/real/cinta-decorativa-356.webp",
+      "status": "replaced",
+      "bytes": 160886
+    },
+    {
+      "productId": "product-357",
+      "name": "Cinta de color AMARILLO ROJO VERDE",
+      "query": "Cinta de color AMARILLO ROJO VERDE",
+      "url": "https://us.123rf.com/450wm/jorgebotella/jorgebotella2107/jorgebotella210700219/171472915-colores-b%C3%A1sicos-rojo-verde-y-amarillo-tejidos-y-cintas-de-colores-colores-b%C3%A1sicos-sobre-fondo.jpg?ver=6",
+      "image": "/products/real/cinta-de-color-amarillo-rojo-verde-357.jpg",
+      "status": "replaced",
+      "bytes": 9658
+    },
+    {
+      "productId": "product-402",
+      "name": "KEKITOS PYC",
+      "query": "KEKITOS PYC",
+      "url": "https://media.falabella.com/tottusPE/42911081_1/w=1500,h=1500,fit=cover",
+      "image": "/products/real/kekitos-pyc-402.webp",
+      "status": "replaced",
+      "bytes": 59592
+    },
+    {
+      "productId": "product-405",
+      "name": "DVD",
+      "query": "DVD",
+      "url": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/GjcAAOSw8opmNpym/$_57.JPG?set_id=8800005007",
+      "image": "/products/real/dvd-405.jpg",
+      "status": "replaced",
+      "bytes": 865404
+    },
+    {
+      "productId": "product-404",
+      "name": "ESTUCHE DE BOLSA TRANSPARENTE",
+      "query": "ESTUCHE DE BOLSA TRANSPARENTE",
+      "url": "https://m.media-amazon.com/images/I/61CmFwUAF9L._AC_UY1000_.jpg",
+      "image": "/products/real/estuche-de-bolsa-transparente-404.jpg",
+      "status": "replaced",
+      "bytes": 64000
+    },
+    {
+      "productId": "product-379",
+      "name": "CARGADOR LDNIO A3513Q CARGA RÁPIDA 32W 2XUSB, 1 USB-C",
+      "query": "CARGADOR LDNIO A3513Q CARGA RÁPIDA 32W 2XUSB, 1 USB-C",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1498/PMP20001113851/thumbnail-1.jpeg",
+      "image": "/products/real/cargador-ldnio-a3513q-carga-rapida-32w-2xusb-1-usb-c-379.png",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-403",
+      "name": "BIMBOLETES CHOCOLATE BIMBO",
+      "query": "BIMBOLETES CHOCOLATE BIMBO",
+      "url": "https://plazavea.vteximg.com.br/arquivos/ids/30785992-418-418/20468598.jpg",
+      "image": "/products/real/bimboletes-chocolate-bimbo-403.webp",
+      "status": "replaced",
+      "bytes": 17670
+    },
+    {
+      "productId": "product-360",
+      "name": "Témpera Artesco Set X 6 Colores + Pincel + Paleta",
+      "query": "Témpera Artesco Set X 6 Colores + Pincel + Paleta",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/tempera-artesco-set-x-6-colores-pincel-paleta-2172-default-1.jpg",
+      "image": "/products/real/tempera-artesco-set-x-6-colores-pincel-paleta-360.jpg",
+      "status": "replaced",
+      "bytes": 53017
+    },
+    {
+      "productId": "product-387",
+      "name": "Pilas AAA Toshiba",
+      "query": "Pilas AAA Toshiba",
+      "url": "https://bizweb.dktcdn.net/thumb/1024x1024/100/510/193/products/pin-aaa-toshiba-alkaline-lr03.jpg?v=1756370341570",
+      "image": "/products/real/pilas-aaa-toshiba-387.webp",
+      "status": "replaced",
+      "bytes": 121161
+    },
+    {
+      "productId": "product-358",
+      "name": "Cinta scotch",
+      "query": "Cinta scotch",
+      "url": "https://multimedia.3m.com/mws/media/2318486J/a-scotch-box-sealing-tape-371-clear-48-mm-x-100-m.jpg?width=506",
+      "image": "/products/real/cinta-scotch-358.avif",
+      "status": "replaced",
+      "bytes": 5916
+    },
+    {
+      "productId": "product-359",
+      "name": "Cinta de embalaje marron Habano",
+      "query": "Cinta de embalaje marron Habano",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/7995574/134743.jpg?v=638525159807230000",
+      "image": "/products/real/cinta-de-embalaje-marron-habano-359.webp",
+      "status": "replaced",
+      "bytes": 49218
+    },
+    {
+      "productId": "product-389",
+      "name": "CARGADOR DW TCC0443 TIPO C 4.2A 35W CARGA RAPIDA MODELO HUAWEI",
+      "query": "CARGADOR DW TCC0443 TIPO C 4.2A 35W CARGA RAPIDA MODELO HUAWEI",
+      "url": "https://www.sortelperu.com/4347-large_default/cargador-dw-tcc0443-tipo-c-42a-35w-carga-rapida-modelo-huawei.jpg",
+      "image": "/products/real/cargador-dw-tcc0443-tipo-c-4-2a-35w-carga-rapida-modelo-huawei-389.jpg",
+      "status": "replaced",
+      "bytes": 44629
+    },
+    {
+      "productId": "product-361",
+      "name": "Lapicero rojo 031-F trilux 0.8 mm faber castell",
+      "query": "Lapicero rojo 031-F trilux 0.8 mm faber castell",
+      "url": "https://www.ofimarket.pe/cdn/shop/products/PR02790_4ad1fdcd-71fa-431d-8183-a7caf093f5d3.jpg?v=1633448568&width=533",
+      "image": "/products/real/lapicero-rojo-031-f-trilux-0-8-mm-faber-castell-361.webp",
+      "status": "replaced",
+      "bytes": 11110
+    },
+    {
+      "productId": "product-391",
+      "name": "Estuche para audifonos",
+      "query": "Estuche para audifonos",
+      "url": "https://jaltechsas.com/wp-content/uploads/2019/05/Estuche%20para%20audifonos_30287_B507_1-600x600.png",
+      "image": "/products/real/estuche-para-audifonos-391.png",
+      "status": "replaced",
+      "bytes": 154167
+    },
+    {
+      "productId": "product-407",
+      "name": "Dedales gamer",
+      "query": "Dedales gamer",
+      "url": "https://m.media-amazon.com/images/I/71fwenTvi8L.jpg",
+      "image": "/products/real/dedales-gamer-407.jpg",
+      "status": "replaced",
+      "bytes": 258693
+    },
+    {
+      "productId": "product-408",
+      "name": "Imperdible Grande",
+      "query": "Imperdible Grande",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/8932605-1000-1000/imageUrl_1.jpg?v=638859115630100000",
+      "image": "/products/real/imperdible-grande-408.webp",
+      "status": "replaced",
+      "bytes": 74114
+    },
+    {
+      "productId": "product-406",
+      "name": "CD",
+      "query": "CD",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CD_autolev_crop_new.jpg/250px-CD_autolev_crop_new.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "image": "/products/real/cd-406.jpg",
+      "status": "replaced",
+      "bytes": 14147
+    },
+    {
+      "productId": "product-390",
+      "name": "Cargador Samsung S22 Ultra PD",
+      "query": "Cargador Samsung S22 Ultra PD",
+      "url": "https://m.media-amazon.com/images/I/61O-Z9e3mCL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/cargador-samsung-s22-ultra-pd-390.jpg",
+      "status": "replaced",
+      "bytes": 46658
+    },
+    {
+      "productId": "product-365",
+      "name": "Turrones Dmiel 750 g",
+      "query": "Turrones Dmiel 750 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100047713641452",
+      "image": "/products/real/turrones-dmiel-750-g-365.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-362",
+      "name": "Lapicero azul 031-F trilux 0.8 mm faber castell",
+      "query": "Lapicero azul 031-F trilux 0.8 mm faber castell",
+      "url": "http://www.ofimarket.pe/cdn/shop/products/PR02788.jpg?v=1627051285",
+      "image": "/products/real/lapicero-azul-031-f-trilux-0-8-mm-faber-castell-362.webp",
+      "status": "replaced",
+      "bytes": 28540
+    },
+    {
+      "productId": "product-393",
+      "name": "Audifonos CAB246",
+      "query": "Audifonos CAB246",
+      "url": "https://geeky.sfo2.cdn.digitaloceanspaces.com/geekydrop_production/0-product-audifonos-inalambricos-1hora-bluetooth-tws-con-pantalla-led-negro-553906ee-01788551471427.webp",
+      "image": "/products/real/audifonos-cab246-393.webp",
+      "status": "replaced",
+      "bytes": 39126
+    },
+    {
+      "productId": "product-364",
+      "name": "Lapicero verde 031-F trilux 0.8 mm faber castell",
+      "query": "Lapicero verde 031-F trilux 0.8 mm faber castell",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-faber-castell-trilux-031-punta-fina-verde-x-1-und-15723004-default-1.jpg",
+      "image": "/products/real/lapicero-verde-031-f-trilux-0-8-mm-faber-castell-364.jpg",
+      "status": "replaced",
+      "bytes": 23685
+    },
+    {
+      "productId": "product-409",
+      "name": "imperdible pequeño",
+      "query": "imperdible pequeño",
+      "url": "https://m.media-amazon.com/images/I/71gp+JKeGOL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/imperdible-pequeno-409.jpg",
+      "status": "replaced",
+      "bytes": 99239
+    },
+    {
+      "productId": "product-392",
+      "name": "Audifonos GAR156",
+      "query": "Audifonos GAR156",
+      "url": "http://1horashop.mx/cdn/shop/files/1-1_8dfaf820-c54f-4506-90e3-c1117052e398.webp?v=1691520556",
+      "image": "/products/real/audifonos-gar156-392.webp",
+      "status": "replaced",
+      "bytes": 60058
+    },
+    {
+      "productId": "product-366",
+      "name": "Turrones D'miel 375 g",
+      "query": "Turrones D'miel 375 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1452995931791788",
+      "image": "/products/real/turrones-d-miel-375-g-366.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-394",
+      "name": "POP SOCKET PERSONALIZADO",
+      "query": "POP SOCKET PERSONALIZADO",
+      "url": "https://lacasadelascarcasas.it/11610-large_default/personalizza-il-tuo-popsocket.jpg",
+      "image": "/products/real/pop-socket-personalizado-394.jpg",
+      "status": "replaced",
+      "bytes": 49952
+    },
+    {
+      "productId": "product-395",
+      "name": "POST IT Diseño Gato",
+      "query": "POST IT Diseño Gato",
+      "url": "https://teamaranto.b-cdn.net/teamaranto_img/PRODUCTOSWEBP/6212_568.webp?width=1920&quality=82",
+      "image": "/products/real/post-it-diseno-gato-395.webp",
+      "status": "replaced",
+      "bytes": 22186
+    },
+    {
+      "productId": "product-412",
+      "name": "Bateria para Celular SM J2 , J7 , J5",
+      "query": "Bateria para Celular SM J2 , J7 , J5",
+      "url": "https://static.compreloadomicilio.com/dmraccesorios/products/026096/645d90f80de25998904270.webp",
+      "image": "/products/real/bateria-para-celular-sm-j2-j7-j5-412.webp",
+      "status": "replaced",
+      "bytes": 10768
+    },
+    {
+      "productId": "product-411",
+      "name": "chincheta, tachuela de clavo de sofá, tachuelas de tapicería, tachuelas de uñas de sofá, tachuelas de clavo, tachuelas de 100 unidades, 43.976 in, bronce antiguo, decoración de uñas, joyería de uñas",
+      "query": "chincheta, tachuela de clavo de sofá, tachuelas de tapicería, tachuelas de uñas de sofá, tachuelas de clavo, tachuelas de 100 unidades, 43.976 in, bronce antiguo, decoración de uñas, joyería de uñas",
+      "url": "https://m.media-amazon.com/images/I/61LyXUhX4uL._AC_UF894,1000_QL80_AIweblab1381794,T1_.jpg",
+      "image": "/products/real/chincheta-tachuela-de-clavo-de-sofa-tachuelas-de-tapiceria-tachuelas-de-unas-de-sofa-tachuelas-de-clavo-tachuelas-de-100-unidades-43-976-in-bronce-antiguo-decoracion-de-unas-joyeria-de-unas-411.jpg",
+      "status": "replaced",
+      "bytes": 43475
+    },
+    {
+      "productId": "product-363",
+      "name": "Lapicero negro 031-F trilux 0.8 mm faber castell",
+      "query": "Lapicero negro 031-F trilux 0.8 mm faber castell",
+      "url": "http://www.ofimarket.pe/cdn/shop/products/PR02789_c6210d63-bd6c-47f3-a16e-23eca4fa0dc4.jpg?v=1633448625",
+      "image": "/products/real/lapicero-negro-031-f-trilux-0-8-mm-faber-castell-363.webp",
+      "status": "replaced",
+      "bytes": 14414
+    },
+    {
+      "productId": "product-396",
+      "name": "Audífonos Remax RB-S15 Air Conduction",
+      "query": "Audífonos Remax RB-S15 Air Conduction",
+      "url": "https://img.tvcmall.com/dynamic/uploads/details/740x740_6812002215A-1.webp",
+      "image": "/products/real/audifonos-remax-rb-s15-air-conduction-396.webp",
+      "status": "replaced",
+      "bytes": 9760
+    },
+    {
+      "productId": "product-368",
+      "name": "Turrones D'miel 95 g",
+      "query": "Turrones D'miel 95 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066936750514",
+      "image": "/products/real/turrones-d-miel-95-g-368.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-388",
+      "name": "Extension Cable mellizo",
+      "query": "Extension Cable mellizo",
+      "url": "https://www.infofar.com.pe/wp-content/uploads/EXTENSION-CABLE-MELLIZO-3MT.jpg",
+      "image": "/products/real/extension-cable-mellizo-388.jpg",
+      "status": "replaced",
+      "bytes": 206842
+    },
+    {
+      "productId": "product-370",
+      "name": "LINTERNA EWTTO",
+      "query": "LINTERNA EWTTO",
+      "url": "https://image.made-in-china.com/202f0j00gnLhRDCbEAol/Ewtto-Et-F5986-Outdoor-High-Power-Long-Shoot-Flashlight-with-LED-Light.webp",
+      "image": "/products/real/linterna-ewtto-370.avif",
+      "status": "replaced",
+      "bytes": 12544
+    },
+    {
+      "productId": "product-371",
+      "name": "Adaptador Disco Duro SATA/IDE Con Fuente ET-ZJX",
+      "query": "Adaptador Disco Duro SATA/IDE Con Fuente ET-ZJX",
+      "url": "https://www.eccom.pe/wp-content/uploads/2023/11/images.jpeg",
+      "image": "/products/real/adaptador-disco-duro-sata-ide-con-fuente-et-zjx-371.jpg",
+      "status": "replaced",
+      "bytes": 5779
+    },
+    {
+      "productId": "product-369",
+      "name": "AUDIFONOS CUELLEROS TF600 AKZ",
+      "query": "AUDIFONOS CUELLEROS TF600 AKZ",
+      "url": "https://imgaz1.staticbg.com/thumb/large//oaupload/banggood/images/FA/D2/87f7c19f-51d7-41ba-ae19-ab4723692370.jpg.webp",
+      "image": "/products/real/audifonos-cuelleros-tf600-akz-369.webp",
+      "status": "replaced",
+      "bytes": 144046
+    },
+    {
+      "productId": "product-367",
+      "name": "Turrones D'miel 190 g",
+      "query": "Turrones D'miel 190 g",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1452995931791788",
+      "image": "/products/real/turrones-d-miel-190-g-367.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-415",
+      "name": "SOPORTE ESPEJO RETROVISOR EWTTO",
+      "query": "SOPORTE ESPEJO RETROVISOR EWTTO",
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3291896824352482709",
+      "image": "/products/real/soporte-espejo-retrovisor-ewtto-415.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-413",
+      "name": "Forro Vinifan A4",
+      "query": "Forro Vinifan A4",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/o/forro-cristal-a-4-vinifan-247-default-1.jpg",
+      "image": "/products/real/forro-vinifan-a4-413.jpg",
+      "status": "replaced",
+      "bytes": 46356
+    },
+    {
+      "productId": "product-398",
+      "name": "BIMBO NITO",
+      "query": "BIMBO NITO",
+      "url": "https://m.media-amazon.com/images/I/81A28xTP0PL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/bimbo-nito-398.jpg",
+      "status": "replaced",
+      "bytes": 83489
+    },
+    {
+      "productId": "product-373",
+      "name": "ADAPTADOR DE CORRIENTE 9V/12V 2 EN 1 PLUGS",
+      "query": "ADAPTADOR DE CORRIENTE 9V/12V 2 EN 1 PLUGS",
+      "url": "https://m.media-amazon.com/images/I/71PIy6XLQFL.jpg",
+      "image": "/products/real/adaptador-de-corriente-9v-12v-2-en-1-plugs-373.jpg",
+      "status": "replaced",
+      "bytes": 133647
+    },
+    {
+      "productId": "product-414",
+      "name": "Pinceles",
+      "query": "Pinceles",
+      "url": "https://todoenartes.com/cdn/shop/files/IMG-0114.png?crop=center&height=645&v=1781281267&width=645",
+      "image": "/products/real/pinceles-414.webp",
+      "status": "replaced",
+      "bytes": 43614
+    },
+    {
+      "productId": "product-374",
+      "name": "Enchufe Smart Wifi 10a Pst-bsd01 Tuya",
+      "query": "Enchufe Smart Wifi 10a Pst-bsd01 Tuya",
+      "url": "https://westor.pe/wp-content/uploads/2026/01/PST-BSD01-1.jpg",
+      "image": "/products/real/enchufe-smart-wifi-10a-pst-bsd01-tuya-374.jpg",
+      "status": "replaced",
+      "bytes": 386594
+    },
+    {
+      "productId": "product-399",
+      "name": "BIMBO PINGUINOS",
+      "query": "BIMBO PINGUINOS",
+      "url": "https://elcolibrishop.com/wp-content/uploads/2023/08/pinguinos.png",
+      "image": "/products/real/bimbo-pinguinos-399.png",
+      "status": "replaced",
+      "bytes": 55256
+    },
+    {
+      "productId": "product-417",
+      "name": "Soporte Tripode",
+      "query": "Soporte Tripode",
+      "url": "https://hnicosmetice.ro/cdn/shop/files/suport-trepied-cap-practica-manechin-universal-negru-tripode-soporte-cabeza-skru-stativ-bifull_10752_1_1659349005.jpg",
+      "image": "/products/real/soporte-tripode-417.webp",
+      "status": "replaced",
+      "bytes": 8842
+    },
+    {
+      "productId": "product-419",
+      "name": "ARO DE LUZ LED LJJ-56 22 PULGADAS",
+      "query": "ARO DE LUZ LED LJJ-56 22 PULGADAS",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_691268-MCO93058690510_092025-O.webp",
+      "image": "/products/real/aro-de-luz-led-ljj-56-22-pulgadas-419.webp",
+      "status": "replaced",
+      "bytes": 13274
+    },
+    {
+      "productId": "product-351",
+      "name": "Almohadilla para sellos",
+      "query": "Almohadilla para sellos",
+      "url": "https://platino.com.gt/image/catalog/product/694cf4bf296bf_16984-NEGRO.jpg",
+      "image": "/products/real/almohadilla-para-sellos-351.jpg",
+      "status": "replaced",
+      "bytes": 116317
+    },
+    {
+      "productId": "product-397",
+      "name": "Audifonos E6S",
+      "query": "Audifonos E6S",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-volto-tws-e6s-negro-95348-default-1.jpg",
+      "image": "/products/real/audifonos-e6s-397.jpg",
+      "status": "replaced",
+      "bytes": 33693
+    },
+    {
+      "productId": "product-423",
+      "name": "Baby Panda Marcador marcapaginas con postit",
+      "query": "Baby Panda Marcador marcapaginas con postit",
+      "url": "https://m.media-amazon.com/images/I/81boIzb0iHS._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/baby-panda-marcador-marcapaginas-con-postit-423.jpg",
+      "status": "replaced",
+      "bytes": 160781
+    },
+    {
+      "productId": "product-400",
+      "name": "BIMBO PINGUINOS CHOCOLATE",
+      "query": "BIMBO PINGUINOS CHOCOLATE",
+      "url": "https://metroio.vtexassets.com/arquivos/ids/558810-800-auto?v=638687577825400000&width=800&height=auto&aspect=true",
+      "image": "/products/real/bimbo-pinguinos-chocolate-400.webp",
+      "status": "replaced",
+      "bytes": 30692
+    },
+    {
+      "productId": "product-418",
+      "name": "Wipes toallas para limpiar pantalla",
+      "query": "Wipes toallas para limpiar pantalla",
+      "url": "https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/216998b8d/toallas-limpiadoras-para-pantallas-30-pz-30-cm-x-20-cm.jpg",
+      "image": "/products/real/wipes-toallas-para-limpiar-pantalla-418.webp",
+      "status": "replaced",
+      "bytes": 48484
+    },
+    {
+      "productId": "product-416",
+      "name": "SOPORTE DE ESCRITORIO CAFINI",
+      "query": "SOPORTE DE ESCRITORIO CAFINI",
+      "url": "https://cafiniuruguay.com/wp-content/uploads/2026/07/Soporte_Doble_Para_2_Monitores_De_Escritorio_13_A_27_Pulgadas_4-255x306.png",
+      "image": "/products/real/soporte-de-escritorio-cafini-416.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-422",
+      "name": "Lapicero Kawai Squishy antiestres",
+      "query": "Lapicero Kawai Squishy antiestres",
+      "url": "https://www.tiktok.com/api/img/?itemId=7252488663009873157&location=0&aid=1988",
+      "image": "/products/real/lapicero-kawai-squishy-antiestres-422.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-375",
+      "name": "Interruptor inteligente con Wifi para el hogar, dispositivo de automatización con Monitor de potencia, temporizador de 2 vías, funciona con Alexa, Google, Yandex, Tuya",
+      "query": "Interruptor inteligente con Wifi para el hogar, dispositivo de automatización con Monitor de potencia, temporizador de 2 vías, funciona con Alexa, Google, Yandex, Tuya",
+      "url": "https://ae-pic-a1.aliexpress-media.com/kf/Saa626cbbe97c46b0ba66dd811deb4689V.jpg_960x960.jpg",
+      "image": "/products/real/interruptor-inteligente-con-wifi-para-el-hogar-dispositivo-de-automatizacion-con-monitor-de-potencia-temporizador-de-2-vias-funciona-con-alexa-google-yandex-tuya-375.avif",
+      "status": "replaced",
+      "bytes": 31816
+    },
+    {
+      "productId": "product-420",
+      "name": "ARO LJJ-45 DE LUZ LED 45CM RGB",
+      "query": "ARO LJJ-45 DE LUZ LED 45CM RGB",
+      "url": "https://www.venprotech.com/wp-content/uploads/2025/04/ljj-45-6cb61f90b0f3c16ba917202108631725-1024-1024.jpg",
+      "image": "/products/real/aro-ljj-45-de-luz-led-45cm-rgb-420.jpg",
+      "status": "replaced",
+      "bytes": 254747
+    },
+    {
+      "productId": "product-410",
+      "name": "imperdible",
+      "query": "imperdible",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Safety_Pin.jpg?utm_source=en.wiktionary.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+      "image": "/products/real/imperdible-410.jpg",
+      "status": "replaced",
+      "bytes": 126782
+    },
+    {
+      "productId": "product-421",
+      "name": "Sacapuntas osito paradise superme",
+      "query": "Sacapuntas osito paradise superme",
+      "url": "https://www.milbby.com/cdn/shop/files/CSH0002_3_1024x.jpg?v=1749720774",
+      "image": "/products/real/sacapuntas-osito-paradise-superme-421.webp",
+      "status": "replaced",
+      "bytes": 46754
+    },
+    {
+      "productId": "product-372",
+      "name": "RED Wi-Fi USB TP-LINK Archer T2U Nano AC600 2BAND",
+      "query": "RED Wi-Fi USB TP-LINK Archer T2U Nano AC600 2BAND",
+      "url": "https://www.alltec.cl/11550/adaptador-de-red-wifi-tp-link-archer-t2u-nano-ac600-24g5g-dual-band-usb.jpg",
+      "image": "/products/real/red-wi-fi-usb-tp-link-archer-t2u-nano-ac600-2band-372.jpg",
+      "status": "replaced",
+      "bytes": 40582
+    },
+    {
+      "productId": "product-310",
+      "name": "Tinta Epson 664 CIAN,MAGENTA,AMARILLO Y NEGRO INK MATE",
+      "query": "Tinta Epson 664 CIAN,MAGENTA,AMARILLO Y NEGRO INK MATE",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/25627641-1000-1000/imageUrl_1.jpg?v=639169276208600000",
+      "image": "/products/real/tinta-epson-664-cian-magenta-amarillo-y-negro-ink-mate-310.webp",
+      "status": "replaced",
+      "bytes": 77920
+    },
+    {
+      "productId": "product-281",
+      "name": "SOPORTE PARA MOTO BICICLETA REDD RD 721H",
+      "query": "SOPORTE PARA MOTO BICICLETA REDD RD 721H",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=918319764472676",
+      "image": "/products/real/soporte-para-moto-bicicleta-redd-rd-721h-281.webp",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-283",
+      "name": "Soporte Universal Ajustable 360° para Auto | Car Mount Universal 360° Adjustable Holder",
+      "query": "Soporte Universal Ajustable 360° para Auto | Car Mount Universal 360° Adjustable Holder",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_843231-CBT113758656620_072026-O.webp",
+      "image": "/products/real/soporte-universal-ajustable-360-para-auto-car-mount-universal-360-adjustable-holder-283.webp",
+      "status": "replaced",
+      "bytes": 31264
+    },
+    {
+      "productId": "product-307",
+      "name": "TINTA EPSON 664 DUPRINT DP CIAN,MAGENTA,AMARILLO Y NEGRO",
+      "query": "TINTA EPSON 664 DUPRINT DP CIAN,MAGENTA,AMARILLO Y NEGRO",
+      "url": "https://www.centraltecperu.com/wp-content/uploads/2026/08/Kit-Tinta-Epson-664-Original-4-Colores-Negro-Cian-Magenta-Amarillo.webp",
+      "image": "/products/real/tinta-epson-664-duprint-dp-cian-magenta-amarillo-y-negro-307.webp",
+      "status": "replaced",
+      "bytes": 51040
+    },
+    {
+      "productId": "product-309",
+      "name": "Tinta Epson 504 - Negro , Amarillo , Magenta y Cian PAMAS",
+      "query": "Tinta Epson 504 - Negro , Amarillo , Magenta y Cian PAMAS",
+      "url": "https://dteckstore.com/3300-large_default/pack-de-tintas-epson-504-original-black-cyan-yellow-magenta-.jpg",
+      "image": "/products/real/tinta-epson-504-negro-amarillo-magenta-y-cian-pamas-309.jpg",
+      "status": "replaced",
+      "bytes": 421829
+    },
+    {
+      "productId": "product-311",
+      "name": "Tinta Epson 664 JetLife CIAN,MAGENTA,AMARILLO Y NEGRO",
+      "query": "Tinta Epson 664 JetLife CIAN,MAGENTA,AMARILLO Y NEGRO",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_691400-MLA84578163877_052025-O.webp",
+      "image": "/products/real/tinta-epson-664-jetlife-cian-magenta-amarillo-y-negro-311.webp",
+      "status": "replaced",
+      "bytes": 24262
+    },
+    {
+      "productId": "product-284",
+      "name": "POWERBANK BATERIA PORTATIL TCP115 20000 MAH NO1",
+      "query": "POWERBANK BATERIA PORTATIL TCP115 20000 MAH NO1",
+      "url": "https://m.media-amazon.com/images/I/412KZrFmROL.__AC_SR166,182___.jpg",
+      "image": "/products/real/powerbank-bateria-portatil-tcp115-20000-mah-no1-284.jpg",
+      "status": "replaced",
+      "bytes": 4639
+    },
+    {
+      "productId": "product-282",
+      "name": "SOPORTE DE CELULAR PARA AUTO REDD RD 717H",
+      "query": "SOPORTE DE CELULAR PARA AUTO REDD RD 717H",
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2481241962325856",
+      "image": "/products/real/soporte-de-celular-para-auto-redd-rd-717h-282.jpg",
+      "status": "failed",
+      "error": "not an image"
+    },
+    {
+      "productId": "product-286",
+      "name": "Cable USB Tipo C a USB de 30W LDNIO LS671",
+      "query": "Cable USB Tipo C a USB de 30W LDNIO LS671",
+      "url": "https://hdmultimediaperu.com/wp-content/uploads/2024/02/Cable-USB-Tipo-C-a-USB-de-30W-LDNIO-LS671____.webp",
+      "image": "/products/real/cable-usb-tipo-c-a-usb-de-30w-ldnio-ls671-286.webp",
+      "status": "replaced",
+      "bytes": 62228
+    },
+    {
+      "productId": "product-308",
+      "name": "TINTA CANON CIAN,MAGENTA,AMARILLO Y NEGRO PREMIUM INK",
+      "query": "TINTA CANON CIAN,MAGENTA,AMARILLO Y NEGRO PREMIUM INK",
+      "url": "https://taino.pe/cdn/shop/files/100_34.png?v=1776796631&width=1946",
+      "image": "/products/real/tinta-canon-cian-magenta-amarillo-y-negro-premium-ink-308.webp",
+      "status": "replaced",
+      "bytes": 257500
+    },
+    {
+      "productId": "product-313",
+      "name": "Tinta Epson Original 504 NEGRO , CIAN , MAGENTA Y AMARILLO",
+      "query": "Tinta Epson Original 504 NEGRO , CIAN , MAGENTA Y AMARILLO",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/26106114-1000-1000/imageUrl_1.jpg?v=639198109529530000",
+      "image": "/products/real/tinta-epson-original-504-negro-cian-magenta-y-amarillo-313.webp",
+      "status": "replaced",
+      "bytes": 56764
+    },
+    {
+      "productId": "product-312",
+      "name": "Tinta Epson Original 664 NEGRO,CIAN,MAGENTA Y AMARILLO",
+      "query": "Tinta Epson Original 664 NEGRO,CIAN,MAGENTA Y AMARILLO",
+      "url": "https://www.centraltecperu.com/wp-content/uploads/2026/08/Kit-Tinta-Epson-664-Original-4-Colores-Negro-Cian-Magenta-Amarillo.webp",
+      "image": "/products/real/tinta-epson-original-664-negro-cian-magenta-y-amarillo-312.webp",
+      "status": "replaced",
+      "bytes": 51040
+    },
+    {
+      "productId": "product-287",
+      "name": "Controlador de vídeo con huella dactilar para teléfono móvil, dispositivo de Control remoto con giro de página de vídeo corta, BLE-M3, nuevo",
+      "query": "Controlador de vídeo con huella dactilar para teléfono móvil, dispositivo de Control remoto con giro de página de vídeo corta, BLE-M3, nuevo",
+      "url": "https://m.media-amazon.com/images/I/61P-NAdR8uL._AC_UF1000,1000_QL80_.jpg",
+      "image": "/products/real/controlador-de-video-con-huella-dactilar-para-telefono-movil-dispositivo-de-control-remoto-con-giro-de-pagina-de-video-corta-ble-m3-nuevo-287.jpg",
+      "status": "replaced",
+      "bytes": 47030
+    },
+    {
+      "productId": "product-285",
+      "name": "ANTIVIRUS ESET NOD32 1 AÑO LICENCIA ORIGINAL 1 EQUIPO",
+      "query": "ANTIVIRUS ESET NOD32 1 AÑO LICENCIA ORIGINAL 1 EQUIPO",
+      "url": "http://mrlicencias.com/cdn/shop/files/ESET_Nod32_Antivirus_22aebf27-adef-40f8-b367-91321e5cc0e7.png?v=1777532629",
+      "image": "/products/real/antivirus-eset-nod32-1-ano-licencia-original-1-equipo-285.webp",
+      "status": "replaced",
+      "bytes": 40978
+    },
+    {
+      "productId": "product-306",
+      "name": "TINTA PARA IMPRESORA CANON PIXMA 190 CIAN,MAGENTA,AMARILLO Y NEGRO",
+      "query": "TINTA PARA IMPRESORA CANON PIXMA 190 CIAN,MAGENTA,AMARILLO Y NEGRO",
+      "url": "https://www.delcon.com.pe/wp-content/uploads/tinta-canon-gi-190-pixma-g1100-g1110-g2100-g2110-g3100-g3101-g3110-g4100-g4110-g4111-negro-cyan-magenta-amarillo-original.webp",
+      "image": "/products/real/tinta-para-impresora-canon-pixma-190-cian-magenta-amarillo-y-negro-306.webp",
+      "status": "replaced",
+      "bytes": 40942
+    },
+    {
+      "productId": "product-315",
+      "name": "TINTA HP MAGENTA , CIAN , AMARILLO NEGRO GT52",
+      "query": "TINTA HP MAGENTA , CIAN , AMARILLO NEGRO GT52",
+      "url": "https://printerpartner.in/wp-content/uploads/2026/04/HP-52-53-INK-BOTTEL-ORIGINAL-.png",
+      "image": "/products/real/tinta-hp-magenta-cian-amarillo-negro-gt52-315.webp",
+      "status": "replaced",
+      "bytes": 24092
+    },
+    {
+      "productId": "product-332",
+      "name": "Bloc cuadriculado pequeño util para tomar notas tapa dura",
+      "query": "Bloc cuadriculado pequeño util para tomar notas tapa dura",
+      "url": "https://estanclick.es/tienda/1722-thickbox_default/block-notas-espiral-bolsillo-cuadricula-tapa-dura-octavo-105155-80h.jpg",
+      "image": "/products/real/bloc-cuadriculado-pequeno-util-para-tomar-notas-tapa-dura-332.jpg",
+      "status": "replaced",
+      "bytes": 48454
+    },
+    {
+      "productId": "product-288",
+      "name": "Cargador Miccell VQ-T17 DE 18W tipo A",
+      "query": "Cargador Miccell VQ-T17 DE 18W tipo A",
+      "url": "https://www.scutigadget.com/_next/image?url=https%3A%2F%2Ft3nymcw2y8ojlvvg.public.blob.vercel-storage.com%2FGemini_Generated_Image_lulz4qlulz4qlulz.png&w=1080&q=75",
+      "image": "/products/real/cargador-miccell-vq-t17-de-18w-tipo-a-288.webp",
+      "status": "replaced",
+      "bytes": 19382
+    },
+    {
+      "productId": "product-333",
+      "name": "Resaltador Artesco",
+      "query": "Resaltador Artesco",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/resaltador-pastel-x-6-artesco-35467-default-1.jpg",
+      "image": "/products/real/resaltador-artesco-333.jpg",
+      "status": "replaced",
+      "bytes": 60135
+    },
+    {
+      "productId": "product-318",
+      "name": "HUB USB TIPO C PUERTOS USB,TIPO C Y MICROSD",
+      "query": "HUB USB TIPO C PUERTOS USB,TIPO C Y MICROSD",
+      "url": "https://media.startech.com/cms/products/gallery_large/hb31c3asdmb.main.jpg",
+      "image": "/products/real/hub-usb-tipo-c-puertos-usb-tipo-c-y-microsd-318.jpg",
+      "status": "replaced",
+      "bytes": 176409
+    },
+    {
+      "productId": "product-314",
+      "name": "Tinta Epson 504-544 Premium Negro Cian Yellow Magenta",
+      "query": "Tinta Epson 504-544 Premium Negro Cian Yellow Magenta",
+      "url": "http://taino.pe/cdn/shop/files/Disenosintitulo-2024-02-01T150308.383.png?v=1706817806",
+      "image": "/products/real/tinta-epson-504-544-premium-negro-cian-yellow-magenta-314.webp",
+      "status": "replaced",
+      "bytes": 28852
+    },
+    {
+      "productId": "product-317",
+      "name": "CABLE HOCO U143 JOY 4 EN 1 USB/C A IP Y TIPO-C 240W NEGRO",
+      "query": "CABLE HOCO U143 JOY 4 EN 1 USB/C A IP Y TIPO-C 240W NEGRO",
+      "url": "https://img.diylooks.com/upload/store/product_l/EDA008618901A.jpg",
+      "image": "/products/real/cable-hoco-u143-joy-4-en-1-usb-c-a-ip-y-tipo-c-240w-negro-317.jpg",
+      "status": "replaced",
+      "bytes": 30922
+    },
+    {
+      "productId": "product-334",
+      "name": "Corrector Vinifan",
+      "query": "Corrector Vinifan",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/1441372-1000-1000/image-3a565217614e44f9abdad63d77fc8593.jpg?v=637494781883900000",
+      "image": "/products/real/corrector-vinifan-334.webp",
+      "status": "replaced",
+      "bytes": 39984
+    },
+    {
+      "productId": "product-319",
+      "name": "HUB USB TIPO C PUERTO ETHERNET RJ45 Y 3 USB",
+      "query": "HUB USB TIPO C PUERTO ETHERNET RJ45 Y 3 USB",
+      "url": "https://media.startech.com/cms/products/gallery_large/hb30c3agepd.main.jpg",
+      "image": "/products/real/hub-usb-tipo-c-puerto-ethernet-rj45-y-3-usb-319.jpg",
+      "status": "replaced",
+      "bytes": 138991
+    },
+    {
+      "productId": "product-335",
+      "name": "Corrector Artesco",
+      "query": "Corrector Artesco",
+      "url": "https://sskaizen.com/co/wp-content/uploads/2023/10/D_NQ_NP_867485-MLV54970473771_042023-O.webp",
+      "image": "/products/real/corrector-artesco-335.webp",
+      "status": "replaced",
+      "bytes": 21872
+    },
+    {
+      "productId": "product-291",
+      "name": "CARGADOR VEX PARA CELULAR 3.1A USB TYPE C (2 PUERTOS) TIPO C",
+      "query": "CARGADOR VEX PARA CELULAR 3.1A USB TYPE C (2 PUERTOS) TIPO C",
+      "url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4348/PMP20000199382/thumbnail-1.jpeg",
+      "image": "/products/real/cargador-vex-para-celular-3-1a-usb-type-c-2-puertos-tipo-c-291.jpg",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "productId": "product-321",
+      "name": "CARGADOR XIAOMI 120W",
+      "query": "CARGADOR XIAOMI 120W",
+      "url": "https://m.media-amazon.com/images/I/41uWGuBJ0nL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/cargador-xiaomi-120w-321.jpg",
+      "status": "replaced",
+      "bytes": 21098
+    },
+    {
+      "productId": "product-290",
+      "name": "Cargador Ldnio A2317 30w Usb-c Pd + Usb Adaptador De Pared",
+      "query": "Cargador Ldnio A2317 30w Usb-c Pd + Usb Adaptador De Pared",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_627646-MPE76019830185_042024-O.webp",
+      "image": "/products/real/cargador-ldnio-a2317-30w-usb-c-pd-usb-adaptador-de-pared-290.webp",
+      "status": "replaced",
+      "bytes": 10196
+    },
+    {
+      "productId": "product-316",
+      "name": "Tinta Jet life HGT52 CIAN,MAGENTA,AMARILLO Y NEGRO - COMPATIBLE",
+      "query": "Tinta Jet life HGT52 CIAN,MAGENTA,AMARILLO Y NEGRO - COMPATIBLE",
+      "url": "https://mipclista.com/1045-large_default/tinta-jet-life-hgt52-compatible.jpg",
+      "image": "/products/real/tinta-jet-life-hgt52-cian-magenta-amarillo-y-negro-compatible-316.webp",
+      "status": "replaced",
+      "bytes": 49646
+    },
+    {
+      "productId": "product-289",
+      "name": "ADAPTADOR DE CORRIENTE BASEUS QUICK CHARGER SI TIPO C",
+      "query": "ADAPTADOR DE CORRIENTE BASEUS QUICK CHARGER SI TIPO C",
+      "url": "https://shop.baltrade.eu/img/product/allegro/baseus-super-si-quick-charger-1c-25w-tzccsup-l02-szybka-ladowarka-sieciowa-z-gniazdem-usb-c-kabel-2.jpg",
+      "image": "/products/real/adaptador-de-corriente-baseus-quick-charger-si-tipo-c-289.jpg",
+      "status": "replaced",
+      "bytes": 38738
+    },
+    {
+      "productId": "product-294",
+      "name": "Audifonos Borofone M30 Max Tipo C",
+      "query": "Audifonos Borofone M30 Max Tipo C",
+      "url": "https://sc04.alicdn.com/kf/H70d9f2ceea0344f38640cf143719b42ab.jpg_350x350.jpg",
+      "image": "/products/real/audifonos-borofone-m30-max-tipo-c-294.avif",
+      "status": "replaced",
+      "bytes": 1922
+    },
+    {
+      "productId": "product-320",
+      "name": "HUB TIPO C CON ADAPTADOR USB DE 7 PUERTOS",
+      "query": "HUB TIPO C CON ADAPTADOR USB DE 7 PUERTOS",
+      "url": "https://m.media-amazon.com/images/I/61YhimUKCaL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/hub-tipo-c-con-adaptador-usb-de-7-puertos-320.jpg",
+      "status": "replaced",
+      "bytes": 49405
+    },
+    {
+      "productId": "product-293",
+      "name": "Cargador USB PD de 120W 5 puertos 2USB-A + 3USB-C PD QC3.0 Adaptador de carga rápida de pared Enchufe de UE Enchufe de EE. UU. para iPhone 15 14 13 Pro para Samsung Galaxy Z Flip6 para Huawei Nova Flip para Xiaomi Civi 4Pro - enchufe blanco y eu",
+      "query": "Cargador USB PD de 120W 5 puertos 2USB-A + 3USB-C PD QC3.0 Adaptador de carga rápida de pared Enchufe de UE Enchufe de EE. UU. para iPhone 15 14 13 Pro para Samsung Galaxy Z Flip6 para Huawei Nova Flip para Xiaomi Civi 4Pro - enchufe blanco y eu",
+      "url": "https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/01/FF/e2195c17-0780-41f4-b1e6-4d5a92fba76e.jpg.webp",
+      "image": "/products/real/cargador-usb-pd-de-120w-5-puertos-2usb-a-3usb-c-pd-qc3-0-adaptador-de-carga-rapida-de-pared-enchufe-de-ue-enchufe-de-ee-uu-para-iphone-15-14-13-pro-para-samsung-galaxy-z-flip6-para-huawei-nova-flip-para-xiaomi-civi-4pro-enchufe-blanco-y-eu-293.webp",
+      "status": "replaced",
+      "bytes": 18964
+    },
+    {
+      "productId": "product-339",
+      "name": "Silicona liquida Artesco",
+      "query": "Silicona liquida Artesco",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silicona-artesco-liquida-x-100-ml-2856-default-1.jpg",
+      "image": "/products/real/silicona-liquida-artesco-339.jpg",
+      "status": "replaced",
+      "bytes": 37171
+    },
+    {
+      "productId": "product-292",
+      "name": "CARGADOR DE CELULAR PARA AUTO REDD 5.8A 55W",
+      "query": "CARGADOR DE CELULAR PARA AUTO REDD 5.8A 55W",
+      "url": "https://www.eccom.pe/wp-content/uploads/2024/01/gsc_120838234_2821080_1.jpeg",
+      "image": "/products/real/cargador-de-celular-para-auto-redd-5-8a-55w-292.jpg",
+      "status": "replaced",
+      "bytes": 76716
+    },
+    {
+      "productId": "product-324",
+      "name": "Calculadora Casio Hl-815L 8 Dígitos",
+      "query": "Calculadora Casio Hl-815L 8 Dígitos",
+      "url": "https://www.megaoffice.com.ve/images/equiof/calculadora-de-bolsillo-HL-815L-WE.jpg",
+      "image": "/products/real/calculadora-casio-hl-815l-8-digitos-324.jpg",
+      "status": "replaced",
+      "bytes": 47466
+    },
+    {
+      "productId": "product-296",
+      "name": "CABLE MICROUSB HELLO KITTY ROMAX",
+      "query": "CABLE MICROUSB HELLO KITTY ROMAX",
+      "url": "https://ph-live-01.slatic.net/p/1413eb1ba244f79977162e6f6cd6ce3f.jpg",
+      "image": "/products/real/cable-microusb-hello-kitty-romax-296.jpg",
+      "status": "replaced",
+      "bytes": 912988
+    },
+    {
+      "productId": "product-336",
+      "name": "Plumon Indeleble Marcador 2 puntas Artesco",
+      "query": "Plumon Indeleble Marcador 2 puntas Artesco",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-artesco-cd-max-duo-negro-16417002-default-1.jpg",
+      "image": "/products/real/plumon-indeleble-marcador-2-puntas-artesco-336.jpg",
+      "status": "replaced",
+      "bytes": 26846
+    },
+    {
+      "productId": "product-341",
+      "name": "Goma Liquida Artesco",
+      "query": "Goma Liquida Artesco",
+      "url": "https://artescooficial.com/uploads/products/1580141956.jpg",
+      "image": "/products/real/goma-liquida-artesco-341.jpg",
+      "status": "replaced",
+      "bytes": 396006
+    },
+    {
+      "productId": "product-295",
+      "name": "CABLE REDD 6.2A 60W TIPO C",
+      "query": "CABLE REDD 6.2A 60W TIPO C",
+      "url": "https://daleskaimport.com/wp-content/uploads/2026/05/CARGADOR-REDD-RD-6056PD-TIPO-C-A-C-6.8A-70W.webp",
+      "image": "/products/real/cable-redd-6-2a-60w-tipo-c-295.webp",
+      "status": "replaced",
+      "bytes": 15074
+    },
+    {
+      "productId": "product-325",
+      "name": "SLIM POMO POTE YELLOW SKY BLUE",
+      "query": "SLIM POMO POTE YELLOW SKY BLUE",
+      "url": "https://goswadeshi.in/cdn/shop/files/116__3_ddc85851-8000-4265-8c2c-e3d2636da4ec_1800x1800.jpg?v=1739948695",
+      "image": "/products/real/slim-pomo-pote-yellow-sky-blue-325.webp",
+      "status": "replaced",
+      "bytes": 52130
+    },
+    {
+      "productId": "product-343",
+      "name": "Audifonos Hoco Pro 2 estuche Gato",
+      "query": "Audifonos Hoco Pro 2 estuche Gato",
+      "url": "http://www.latech.cl/cdn/shop/files/Capturadepantalla2025-07-18ala_s_12.26.29.png?v=1752856694&width=1024",
+      "image": "/products/real/audifonos-hoco-pro-2-estuche-gato-343.webp",
+      "status": "replaced",
+      "bytes": 20492
+    },
+    {
+      "productId": "product-323",
+      "name": "Calculadora Casio Fx 991MS",
+      "query": "Calculadora Casio Fx 991MS",
+      "url": "https://www.casio.com/content/dam/casio/product-info/locales/mx/es-ar/calc/product/scientific/F/FX/FX9/fx-991MS-2/assets/fx-991MS-2_Seq1.jpg.transform/main-visual-sp/image.jpg",
+      "image": "/products/real/calculadora-casio-fx-991ms-323.avif",
+      "status": "replaced",
+      "bytes": 24281
+    },
+    {
+      "productId": "product-298",
+      "name": "CABLE USB - USB AZUL 3.0",
+      "query": "CABLE USB - USB AZUL 3.0",
+      "url": "https://m.media-amazon.com/images/I/71nHrlLKNlL.jpg",
+      "image": "/products/real/cable-usb-usb-azul-3-0-298.jpg",
+      "status": "replaced",
+      "bytes": 146777
+    },
+    {
+      "productId": "product-337",
+      "name": "Plumon de pizarra azul,negro y rojo",
+      "query": "Plumon de pizarra azul,negro y rojo",
+      "url": "https://media.falabella.com/tottusPE/30001089_1/w=800,h=800,fit=pad",
+      "image": "/products/real/plumon-de-pizarra-azul-negro-y-rojo-337.webp",
+      "status": "replaced",
+      "bytes": 31416
+    },
+    {
+      "productId": "product-331",
+      "name": "Bloc cuadriculado pequeño de bolsillo espiralado",
+      "query": "Bloc cuadriculado pequeño de bolsillo espiralado",
+      "url": "https://estanclick.es/tienda/1723-thickbox_default/block-notas-espiral-bolsillo-cuadricula-tapa-dura-dieciseisavo-75105-80h.jpg",
+      "image": "/products/real/bloc-cuadriculado-pequeno-de-bolsillo-espiralado-331.jpg",
+      "status": "replaced",
+      "bytes": 39252
+    },
+    {
+      "productId": "product-327",
+      "name": "TAJADOR CON DEPOSITO",
+      "query": "TAJADOR CON DEPOSITO",
+      "url": "https://avefenixdelportal.com/api/scrooge/file/FL-AB6EEA85?v=-2",
+      "image": "/products/real/tajador-con-deposito-327.png",
+      "status": "replaced",
+      "bytes": 1005941
+    },
+    {
+      "productId": "product-300",
+      "name": "car holder 3 en 1 para telefono y montaje para automovile",
+      "query": "car holder 3 en 1 para telefono y montaje para automovile",
+      "url": "https://m.media-amazon.com/images/I/715CB9V2HNL.jpg",
+      "image": "/products/real/car-holder-3-en-1-para-telefono-y-montaje-para-automovile-300.jpg",
+      "status": "replaced",
+      "bytes": 168172
+    },
+    {
+      "productId": "product-328",
+      "name": "LAPIZ PORTAMINAS CON GRIP LAYCONSA",
+      "query": "LAPIZ PORTAMINAS CON GRIP LAYCONSA",
+      "url": "https://erp.panita.pe//static/media/imagenes/producto/uXr7V7UAt6l0Q70M-zoom.jpg",
+      "image": "/products/real/lapiz-portaminas-con-grip-layconsa-328.jpg",
+      "status": "replaced",
+      "bytes": 25513
+    },
+    {
+      "productId": "product-340",
+      "name": "Tempera",
+      "query": "Tempera",
+      "url": "https://www.pelikan.com/images/Pelikan_Co/Tempera/product_color_assortment_tempera.jpg",
+      "image": "/products/real/tempera-340.jpg",
+      "status": "replaced",
+      "bytes": 266722
+    },
+    {
+      "productId": "product-345",
+      "name": "MiniAlmohadilla para sellos Artesco",
+      "query": "MiniAlmohadilla para sellos Artesco",
+      "url": "https://i0.wp.com/paperstop.pe/wp-content/uploads/sites/8/2020/04/Mini-almohadilla-Artesco.jpg?fit=557%2C498&ssl=1",
+      "image": "/products/real/minialmohadilla-para-sellos-artesco-345.webp",
+      "status": "replaced",
+      "bytes": 15058
+    },
+    {
+      "productId": "product-344",
+      "name": "Grapas Artesco",
+      "query": "Grapas Artesco",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/r/grapas-266-x-5000-1220-default-1.jpg",
+      "image": "/products/real/grapas-artesco-344.jpg",
+      "status": "replaced",
+      "bytes": 42903
+    },
+    {
+      "productId": "product-301",
+      "name": "Trípode Portátil Celular | Parante Celular",
+      "query": "Trípode Portátil Celular | Parante Celular",
+      "url": "https://libreriaolimpica.cl/9934-large_default/tripode-para-celular.jpg",
+      "image": "/products/real/tripode-portatil-celular-parante-celular-301.jpg",
+      "status": "replaced",
+      "bytes": 34674
+    },
+    {
+      "productId": "product-326",
+      "name": "TINTA PARA TAMPO ARTESCO",
+      "query": "TINTA PARA TAMPO ARTESCO",
+      "url": "https://materiales.com.bo/cdn/shop/products/WhatsApp_Image_2019-06-10_at_14.06.57_copia_1400x.png?v=1582057030",
+      "image": "/products/real/tinta-para-tampo-artesco-326.webp",
+      "status": "replaced",
+      "bytes": 69548
+    },
+    {
+      "productId": "product-304",
+      "name": "TINTA PARA IMPRESORA EPSON 544 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES",
+      "query": "TINTA PARA IMPRESORA EPSON 544 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES",
+      "url": "https://http2.mlstatic.com/D_Q_NP_2X_860733-MLA99485295702_112025-P.webp",
+      "image": "/products/real/tinta-para-impresora-epson-544-cian-magenta-amarillo-y-negro-computintes-304.webp",
+      "status": "replaced",
+      "bytes": 17278
+    },
+    {
+      "productId": "product-342",
+      "name": "Goma Liquida Gotita",
+      "query": "Goma Liquida Gotita",
+      "url": "https://www.bringco.com.py/userfiles/images/productos/100268-pegamento-liquido-la-gotita-2-ml-unidad.jpg",
+      "image": "/products/real/goma-liquida-gotita-342.jpg",
+      "status": "replaced",
+      "bytes": 40071
+    },
+    {
+      "productId": "product-299",
+      "name": "CABLE TIPOC 150W - 120W",
+      "query": "CABLE TIPOC 150W - 120W",
+      "url": "https://mybox.cl/15158-large_default/cable-de-carga-rapida-y-datos-usb-a-a-usb-c-120w-12-metros.jpg",
+      "image": "/products/real/cable-tipoc-150w-120w-299.jpg",
+      "status": "replaced",
+      "bytes": 18272
+    },
+    {
+      "productId": "product-330",
+      "name": "limpiatipo",
+      "query": "limpiatipo",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/limpiatipo-artesco-2117-default-1.jpg",
+      "image": "/products/real/limpiatipo-330.jpg",
+      "status": "replaced",
+      "bytes": 54970
+    },
+    {
+      "productId": "product-338",
+      "name": "plumon para papel negro,azul y rojo",
+      "query": "plumon para papel negro,azul y rojo",
+      "url": "https://metroio.vtexassets.com/arquivos/ids/390646/MARCAD-PAPEL-LAYCONSA-L47AZU-NEG-ROJO-3-1-127756.jpg?v=638180602743970000",
+      "image": "/products/real/plumon-para-papel-negro-azul-y-rojo-338.webp",
+      "status": "replaced",
+      "bytes": 39602
+    },
+    {
+      "productId": "product-349",
+      "name": "Perforadora",
+      "query": "Perforadora",
+      "url": "https://officemax.vtexassets.com/arquivos/ids/1346929-800-1067?v=638158807070300000&width=800&height=1067&aspect=true",
+      "image": "/products/real/perforadora-349.webp",
+      "status": "replaced",
+      "bytes": 27854
+    },
+    {
+      "productId": "product-329",
+      "name": "Minas 0.5mm 2b layconsa",
+      "query": "Minas 0.5mm 2b layconsa",
+      "url": "https://erp.panita.pe//static/media/imagenes/producto/AApFETL3jrRTA6Nl-zoom.jpg",
+      "image": "/products/real/minas-0-5mm-2b-layconsa-329.jpg",
+      "status": "replaced",
+      "bytes": 31790
+    },
+    {
+      "productId": "product-302",
+      "name": "PROTECTOR DE PANTALLA 9H SAFE MICA",
+      "query": "PROTECTOR DE PANTALLA 9H SAFE MICA",
+      "url": "https://m.media-amazon.com/images/I/71AfuAharDL._AC_UF894,1000_QL80_.jpg",
+      "image": "/products/real/protector-de-pantalla-9h-safe-mica-302.jpg",
+      "status": "replaced",
+      "bytes": 76043
+    },
+    {
+      "productId": "product-305",
+      "name": "TINTA PARA IMPRESORA EPSON T664 CIAN,MAGENTA,AMARILLO Y NEGRO TOPJET",
+      "query": "TINTA PARA IMPRESORA EPSON T664 CIAN,MAGENTA,AMARILLO Y NEGRO TOPJET",
+      "url": "https://media.falabella.com/falabellaPE/149162240_01/w=240,h=240,fit=pad",
+      "image": "/products/real/tinta-para-impresora-epson-t664-cian-magenta-amarillo-y-negro-topjet-305.webp",
+      "status": "replaced",
+      "bytes": 8380
+    },
+    {
+      "productId": "product-350",
+      "name": "Engranpadora M 527 Artesco",
+      "query": "Engranpadora M 527 Artesco",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/n/engrap-artesco-25h-m-527-negro-28690002-default-1.jpg",
+      "image": "/products/real/engranpadora-m-527-artesco-350.jpg",
+      "status": "replaced",
+      "bytes": 31974
+    },
+    {
+      "productId": "product-348",
+      "name": "Clips Mariposa",
+      "query": "Clips Mariposa",
+      "url": "https://m.media-amazon.com/images/I/91iKRig5gsL.jpg",
+      "image": "/products/real/clips-mariposa-348.jpg",
+      "status": "replaced",
+      "bytes": 525020
+    },
+    {
+      "productId": "product-346",
+      "name": "Mini Engranpadora Artesco",
+      "query": "Mini Engranpadora Artesco",
+      "url": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/n/engrap-artesco-15h-m-513-mini-2277-default-1.jpg",
+      "image": "/products/real/mini-engranpadora-artesco-346.jpg",
+      "status": "replaced",
+      "bytes": 33417
+    },
+    {
+      "productId": "product-297",
+      "name": "Cable USB 3.1 Macho A Micro B Para Disco Duro Externo Hdd Azul",
+      "query": "Cable USB 3.1 Macho A Micro B Para Disco Duro Externo Hdd Azul",
+      "url": "https://mediatechperu.com/_next/image?url=https%3A%2F%2Fpub-17fea4c7fd3944839c5bd2d4467e52cc.r2.dev%2Fproducts%2F30211%2F0.webp&w=3840&q=75",
+      "image": "/products/real/cable-usb-3-1-macho-a-micro-b-para-disco-duro-externo-hdd-azul-297.webp",
+      "status": "replaced",
+      "bytes": 26420
+    },
+    {
+      "productId": "product-303",
+      "name": "TINTA PARA IMPRESORA EPSON 504 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES",
+      "query": "TINTA PARA IMPRESORA EPSON 504 CIAN,MAGENTA,AMARILLO Y NEGRO COMPUTINTES",
+      "url": "https://oechsle.vteximg.com.br/arquivos/ids/26106114-1000-1000/imageUrl_1.jpg?v=639198109529530000",
+      "image": "/products/real/tinta-para-impresora-epson-504-cian-magenta-amarillo-y-negro-computintes-303.webp",
+      "status": "replaced",
+      "bytes": 56764
+    },
+    {
+      "productId": "product-347",
+      "name": "Borrador Blanco Artesco",
+      "query": "Borrador Blanco Artesco",
+      "url": "http://fmdistribucionesdeltolima.com/wp-content/uploads/2025/03/Borrador-chico.jpg",
+      "image": "/products/real/borrador-blanco-artesco-347.webp",
+      "status": "failed",
+      "error": "HTTP 401"
+    },
+    {
+      "productId": "product-322",
+      "name": "Calculadora Casio De 12 Digitos Negro",
+      "query": "Calculadora Casio De 12 Digitos Negro",
+      "url": "https://promart.vteximg.com.br/arquivos/ids/9620667/imageUrl_1.jpg?v=638980057341600000",
+      "image": "/products/real/calculadora-casio-de-12-digitos-negro-322.webp",
+      "status": "replaced",
+      "bytes": 41284
+    }
+  ]
+}

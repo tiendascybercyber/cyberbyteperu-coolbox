@@ -1,0 +1,93 @@
+{
+  "actor": "hooli/google-images-scraper",
+  "input": {
+    "maxResultsPerQuery": 1
+  },
+  "generatedAt": "2026-09-06T23:02:00-05:00",
+  "productsRequested": 423,
+  "batches": [
+    {
+      "batch": 1,
+      "runId": "o6e1lERP05oJr2pE7",
+      "datasetId": "wWzWrgb10jXRDSRwO",
+      "queries": 70,
+      "rows": 67,
+      "failed": 3
+    },
+    {
+      "batch": 2,
+      "runId": "sXZh0zMu2acrLjgna",
+      "datasetId": "Iwf1OPsWMTGGdYmVX",
+      "queries": 70,
+      "rows": 69,
+      "failed": 1
+    },
+    {
+      "batch": 3,
+      "runId": "7bmPhL6wS0Jdw4Oj2",
+      "datasetId": "WHd3MieeOhPxQoNtu",
+      "queries": 70,
+      "rows": 70,
+      "failed": 0
+    },
+    {
+      "batch": 4,
+      "runId": "0704PFCQ1mbswxqR9",
+      "datasetId": "lfaZLg3p3oYt4ZLDD",
+      "queries": 70,
+      "rows": 70,
+      "failed": 0
+    },
+    {
+      "batch": 5,
+      "runId": "m56RVkuPisGn0f9b1",
+      "datasetId": "R3RXrLr8hnonjUV8f",
+      "queries": 70,
+      "rows": 70,
+      "failed": 0
+    },
+    {
+      "batch": 6,
+      "runId": "yl0H5AhvVy58ySFQn",
+      "datasetId": "lSfs3OAd0pb6H56wB",
+      "queries": 73,
+      "rows": 73,
+      "failed": 0
+    }
+  ],
+  "totals": {
+    "queries": 423,
+    "rows": 419,
+    "failed": 4
+  },
+  "imageField": "imageUrl",
+  "note": "Apify runs completed successfully; existing local image files were retained because dataset rows were returned through MCP only and could not be programmatically exported in this execution context.",
+  "imageRefresh": {
+    "replacedCount": 0,
+    "failedCount": 423,
+    "retainedCount": 423
+  },
+  "sampleMappings": [
+    {
+      "name": "SUPERGLUE SOLDIMIX 1G",
+      "imageUrl": "https://dojiw2m9tvv09.cloudfront.net/79550/product/unjn3223.png"
+    },
+    {
+      "name": "FOLDER A4 C/2 BOLSILLOS FB1416-SF",
+      "imageUrl": "https://www.faber-castell.com.pe/-/media/Products/Product-Repository/Office-supplies/24-22-01-Desktop-Organisation/306037-File-A4-2-pockets-FB1416-SF-violet/Images/306037_10_PM1.ashx?bc=ffffff&as=0&h=900&w=900&sc_lang=es-PE&hash=DA839D69AEE335E3F83DA7A12018B561"
+    },
+    {
+      "name": "USB 2 GB KINGSTON",
+      "imageUrl": "https://m.media-amazon.com/images/I/711vh9Ne2OL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "name": "MOUSE ENKORE PIVOT EKM 105",
+      "imageUrl": "http://enkore.pe/cdn/shop/files/Frontal1920x1920BOTON.webp?v=1712337095"
+    },
+    {
+      "name": "CARGADOR XIAOMI 120W",
+      "imageUrl": "https://m.media-amazon.com/images/I/41uWGuBJ0nL._AC_UF894,1000_QL80_.jpg"
+    }
+  ],
+  "buildStatus": "passed"
+}
